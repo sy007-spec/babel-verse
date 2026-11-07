@@ -24,3 +24,5 @@ END $$;
 DROP TRIGGER IF EXISTS immutable_vote ON votes;
 CREATE TRIGGER immutable_vote BEFORE UPDATE OR DELETE ON votes FOR EACH ROW EXECUTE FUNCTION immutable_vote();
 INSERT INTO schema_versions(version) VALUES(1) ON CONFLICT DO NOTHING;
+CREATE TABLE IF NOT EXISTS collections(id text PRIMARY KEY,title text NOT NULL,input_sha256 text NOT NULL,created_at timestamptz DEFAULT now());
+CREATE TABLE IF NOT EXISTS collection_entries(collection_id text NOT NULL REFERENCES collections(id),number integer NOT NULL CHECK(number>0),work_id uuid NOT NULL REFERENCES works(id),episode integer,PRIMARY KEY(collection_id,number),UNIQUE(collection_id,work_id));
