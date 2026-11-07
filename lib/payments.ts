@@ -23,8 +23,7 @@ export async function reconcileOrder(id:string,provider?:{config:{appId:string,s
  }else if(o.state==='refund_pending'){
   const r=await call('alipay.trade.refund',{outTradeNo:id,tradeNo:o.trade_no,refundAmount:'0.10',outRequestNo:'refund_'+id,refundReason:'Poem submission not accepted'});
   if(r.code!=='10000'||r.outTradeNo!==id||r.tradeNo!==o.trade_no||amountInCents(r.refundFee)!==10)throw Error('REFUND_UNCONFIRMED');
-  await db.query("UPDATE payment_orders SET state='refunded',refunded_at=now() WHERE id=$1 AND state='refund_pending'",[id]);
-  await db.query("INSERT INTO audit(actor,action,target,reason) VALUES('alipay','refund-confirmed',$1,'Verified CNY 0.10 refund')",[id]);
+  await db.query("WITH updated AS (UPDATE payment_orders SET state='refunded',refunded_at=now() WHERE id=$1 AND state='refund_pending' RETURNING id) INSERT INTO audit(actor,action,target,reason) SELECT 'alipay','refund-confirmed',id,'Verified CNY 0.10 refund' FROM updated",[id]);
  }
 }
 export async function reconcilePayments(){
