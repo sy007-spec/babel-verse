@@ -1,5 +1,8 @@
 import {createHash} from 'node:crypto';
-export function fingerprint(text:string){ return createHash('sha256').update(text.normalize('NFKC').replace(/[\p{P}\p{Z}\s]/gu,'').toLowerCase()).digest('hex'); }
+import {Converter} from 'opencc-js';
+const simplified=Converter({from:'t',to:'cn'});
+export function normalizeSearch(text:string){return simplified(text.normalize('NFKC')).toLowerCase();}
+export function fingerprint(text:string){ return createHash('sha256').update(normalizeSearch(text).replace(/[\p{P}\p{Z}\s]/gu,'')).digest('hex'); }
 export function units(text:string){return Array.from(new Intl.Segmenter(undefined,{granularity:'grapheme'}).segment(text.normalize('NFC').replace(/\r\n/g,'\n').trim()),v=>v.segment);}
 export function changeRatio(base:string,next:string){
  const a=units(base),b=units(next); if(!a.length)return b.length?1:0;

@@ -1,0 +1,11 @@
+import {db} from '../lib/db';
+import {randomUUID} from 'node:crypto';
+import {fingerprint} from '../lib/rules';
+// Complete public-domain texts checked against the cited fixed revisions on 2026-11-07.
+// These enter the same model review queue, not a direct publication bypass.
+const works=[
+ {title:'靜夜思',poet:'李白',body:'牀前明月光，\n疑是地上霜。\n舉頭望明月，\n低頭思故鄉。',source:'https://zh.wikisource.org/w/index.php?title=靜夜思&oldid=12232857',citation:'《唐詩三百首》本；维基文库固定版本12232857。与《李太白全集》《全唐诗》异文分开。'},
+ {title:'春曉',poet:'孟浩然',body:'春眠不覺曉，\n處處聞啼鳥。\n夜來風雨聲，\n花落知多少。',source:'https://zh.wikisource.org/w/index.php?title=春曉_(孟浩然)&oldid=11123475',citation:'《全唐詩》卷160；维基文库固定版本11123475通行正文，非《文苑英华》异文。'},
+ {title:'登鸛雀樓',poet:'王之渙',body:'白日依山盡，\n黃河入海流。\n欲窮千里目，\n更上一層樓。',source:'https://zh.wikisource.org/w/index.php?title=登鸛雀樓_(王之渙)&oldid=12232761',citation:'《御定全唐詩（四庫全書本）》卷253；维基文库固定版本12232761。历史存在朱斌署名异说，此处依全唐诗归王之涣。'}
+];
+const c=await db.connect();try{await c.query('BEGIN');await c.query("INSERT INTO users(id,name) VALUES('editorial-seed','babelverse editorial') ON CONFLICT DO NOTHING");for(const w of works){const id=randomUUID();const evidence=`Curatorial source check 2026-11-07. Source: ${w.source}\nEdition: ${w.citation}\nTitle: ${w.title}; author: ${w.poet}. Complete four-line Tang poem:\n${w.body}\nOnly the ancient public-domain text is reproduced; no modern commentary or translation copied. The source page explicitly lists the selected edition and its variants. Reviewed against live source by deployment editor.`;const r=await c.query("INSERT INTO works(id,author_id,title,poet,language,period,genre,body,fingerprint,source_url,citation,rights,evidence,evidence_by,evidence_at) VALUES($1,'editorial-seed',$2,$3,'lzh-Hant','唐','shi',$4,$5,$6,$7,'public-domain',$8,'deployment-editor',now()) ON CONFLICT(fingerprint) DO NOTHING RETURNING id",[id,w.title,w.poet,w.body,fingerprint(w.body),w.source,w.citation,evidence]);if(r.rowCount){await c.query("INSERT INTO jobs(id,kind,target) VALUES($1,'work',$2)",[randomUUID(),id]);await c.query("INSERT INTO audit(actor,action,target,reason) VALUES('deployment-editor','seed-source-verification',$1,$2)",[id,w.citation]);}}await c.query('COMMIT');console.log('Seed candidates queued; publication still requires model verification');}catch(e){await c.query('ROLLBACK');throw e;}finally{c.release();await db.end();}

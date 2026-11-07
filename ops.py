@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Babelverse-only operations. Never manages sibling applications."""
-import argparse, datetime, fcntl, json, os, pathlib, secrets, shutil, subprocess, urllib.request, time
+import argparse, datetime, fcntl, gzip, json, os, pathlib, secrets, shutil, subprocess, urllib.request, time
 ROOT=pathlib.Path(__file__).resolve().parent
 os.chdir(ROOT)
+os.environ['APP_VERSION']=subprocess.check_output(['git','rev-parse','--short=12','HEAD'],text=True).strip()
 def run(*args, **kw): return subprocess.run(args,check=True,**kw)
 def compose(*args,**kw): return run('docker','compose',*args,**kw)
 def initialize():
@@ -39,10 +40,10 @@ def export():
     # Also retries an earlier successful local commit whose push failed.
     run('git','-C',str(repo),'push','origin','HEAD:main')
 def main():
-    p=argparse.ArgumentParser();p.add_argument('action',choices=['init','build','migrate','backup','deploy','restart','health','export','review']);p.add_argument('args',nargs='*');a=p.parse_args()
+    p=argparse.ArgumentParser();p.add_argument('action',choices=['init','build','migrate','backup','deploy','restart','health','export','review','geoip']);p.add_argument('args',nargs='*');a=p.parse_args()
     if a.action=='init':initialize()
     elif a.action=='build':compose('build','web','worker')
-    elif a.action=='migrate':compose('up','-d','db','redis');compose('run','--rm','--no-deps','worker','npm','run','migrate')
+    elif a.action=='migrate':compose('up','-d','--wait','db','redis');compose('run','--rm','--no-deps','worker','npm','run','migrate')
     elif a.action=='backup':backup()
     elif a.action in ['deploy','restart']:
         if a.action=='deploy':backup();compose('build','web','worker')
@@ -50,5 +51,13 @@ def main():
     elif a.action=='health':
         with urllib.request.urlopen('http://127.0.0.1:58120/api/health',timeout=15) as r:print(r.read().decode())
     elif a.action=='export':export()
+    elif a.action=='geoip':
+        month=datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m')
+        url=f'https://download.db-ip.com/free/dbip-country-lite-{month}.mmdb.gz'
+        with urllib.request.urlopen(url,timeout=60) as r:data=gzip.decompress(r.read(16000000))
+        if b'MaxMind.com' not in data[-131072:]:raise RuntimeError('Invalid MMDB')
+        dest=ROOT/'runtime/geoip/country.mmdb';temp=dest.with_suffix('.tmp');temp.write_bytes(data);temp.replace(dest)
+        (dest.parent/'NOTICE').write_text(f'IP Geolocation by DB-IP https://db-ip.com — CC BY 4.0; {month}\n')
+        print('GeoIP database installed:',month)
     elif a.action=='review':compose('exec','-T','worker','npx','tsx','scripts/review.ts',*a.args)
 if __name__=='__main__':main()

@@ -2,7 +2,7 @@ import {randomUUID} from 'node:crypto';
 import {z} from 'zod';
 import {db} from '../../../lib/db';
 import {guard,quota} from '../../../lib/security';
-import {checkRevision,fingerprint,moods,safeLanguage} from '../../../lib/rules';
+import {checkRevision,fingerprint,moods,safeLanguage,normalizeSearch} from '../../../lib/rules';
 const text=z.string().trim().min(1).max(5000),uuid=z.string().uuid();
 const schema=z.discriminatedUnion('kind',[
  z.object({kind:z.literal('work'),title:text.max(200),poet:text.max(200),language:text.max(35),body:text,source_url:z.url().max(1000),citation:text.max(1000),rights:z.literal('public-domain'),period:text.max(100),genre:z.enum(['shi','ci','other'])}),
@@ -34,5 +34,6 @@ export async function POST(req:Request){let c;try{
   const w=await c.query("SELECT id FROM works WHERE id=$1 AND status='published'",[s.work_id]);if(!w.rowCount)throw new Error('NOT_FOUND');
   await c.query('INSERT INTO tags(id,work_id,author_id,device,labels,reason) VALUES($1,$2,$3,$4,$5,$6)',[id,s.work_id,a.id,a.device,JSON.stringify([...new Set(s.labels)]),s.reason]);
  }
+ if(s.kind==='work')await c.query('UPDATE works SET search_text=$2 WHERE id=$1',[id,normalizeSearch(s.title+' '+s.poet+' '+s.body)]);
  if(s.kind!=='vote')await c.query('INSERT INTO jobs(id,kind,target) VALUES($1,$2,$3)',[randomUUID(),job,target]);await c.query('COMMIT');return Response.json({id,status:s.kind==='vote'?'recorded':'pending'},{headers:{'Cache-Control':'no-store'}});
  }catch(e){if(c)await c.query('ROLLBACK');const err=e as {code?:string,message?:string};const message=err.code==='23505'?'ALREADY_SUBMITTED':e instanceof z.ZodError?'INVALID_INPUT':err.message||'UNAVAILABLE';const allowed=['ALREADY_SUBMITTED','INVALID_INPUT','RATE_LIMIT','LOGIN_REQUIRED','ORIGIN','SOURCE_HTTPS_REQUIRED','NOT_FOUND','REVIEW_PENDING','CHANGE_OVER_30_PERCENT','SELF_VOTE','VERSION_CHANGED','TOO_LARGE'];return Response.json({error:allowed.includes(message)?message:'UNAVAILABLE'},{status:message==='LOGIN_REQUIRED'?401:message==='RATE_LIMIT'?429:message==='ALREADY_SUBMITTED'?409:400});}finally{c?.release();}}
