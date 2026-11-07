@@ -34,7 +34,7 @@ services:
     depends_on:
       db: {condition: service_healthy}
       redis: {condition: service_started}
-    volumes: ["./runtime/geoip:/geoip:ro"]
+    volumes: ["./runtime/geoip:/geoip:ro", "./runtime/payment:/payment:ro"]
     networks: [private, egress]
   worker:
     build: {context: ., target: worker}
@@ -47,7 +47,7 @@ services:
     depends_on:
       db: {condition: service_healthy}
       redis: {condition: service_started}
-    volumes: ["./runtime/export:/export", "./runtime/evidence:/evidence:ro"]
+    volumes: ["./runtime/export:/export", "./runtime/evidence:/evidence:ro", "./runtime/payment:/payment:ro"]
     networks: [private, egress]
 networks:
   private: {internal: true}

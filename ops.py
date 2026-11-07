@@ -7,7 +7,7 @@ os.environ['APP_VERSION']=subprocess.check_output(['git','rev-parse','--short=12
 def run(*args, **kw): return subprocess.run(args,check=True,**kw)
 def compose(*args,**kw): return run('docker','compose',*args,**kw)
 def initialize():
-    for d in ['runtime','runtime/export','runtime/geoip','runtime/evidence','backups']:(ROOT/d).mkdir(exist_ok=True)
+    for d in ['runtime','runtime/export','runtime/geoip','runtime/evidence','runtime/payment','backups']:(ROOT/d).mkdir(exist_ok=True)
     os.chmod('runtime',0o700)
     if not pathlib.Path('.env').exists():
         pw=secrets.token_hex(32); identity=secrets.token_hex(32)
@@ -22,6 +22,7 @@ def backup():
     out=ROOT/'backups'/datetime.datetime.now(datetime.timezone.utc).strftime('%Y%m%dT%H%M%SZ');out.mkdir(parents=True);os.chmod(out,0o700)
     with open(out/'database.sql','wb') as f:compose('exec','-T','db','pg_dump','-U','babelverse','--no-owner','babelverse',stdout=f)
     for p in ['.env','runtime/web.env','runtime/worker.env']:shutil.copy2(p,out/pathlib.Path(p).name)
+    if pathlib.Path('runtime/payment').exists():shutil.copytree('runtime/payment',out/'payment')
     (out/'version').write_text(subprocess.check_output(['git','rev-parse','HEAD'],text=True));print('Backup:',out)
 def export():
     lock=open('runtime/export.lock','w');fcntl.flock(lock,fcntl.LOCK_EX|fcntl.LOCK_NB)

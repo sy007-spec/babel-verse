@@ -1,0 +1,4 @@
+import {z} from 'zod';
+export const workDraft=z.object({title:z.string().trim().min(1).max(200),poet:z.string().trim().min(1).max(200),language:z.string().min(1).max(35),body:z.string().trim().min(10).max(5000),source_url:z.url().max(1000),citation:z.string().trim().min(1).max(1000),rights:z.literal('public-domain'),period:z.string().trim().min(1).max(100),genre:z.enum(['shi','ci','other'])});
+export function amountInCents(s:unknown){if(typeof s!=='string'||!/^\d{1,8}(\.\d{1,2})?$/.test(s))return -1;const [a,b='']=s.split('.');return Number(a)*100+Number(b.padEnd(2,'0'));}
+export function validNotification(n:Record<string,string>,app:string,seller:string){return n.sign_type==='RSA2'&&n.app_id===app&&n.seller_id===seller&&amountInCents(n.total_amount)===10&&/^[a-f0-9]{32}$/.test(n.out_trade_no||'')&&/^\d{10,64}$/.test(n.trade_no||'')&&['TRADE_SUCCESS','TRADE_FINISHED'].includes(n.trade_status);}

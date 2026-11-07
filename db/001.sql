@@ -26,3 +26,6 @@ CREATE TRIGGER immutable_vote BEFORE UPDATE OR DELETE ON votes FOR EACH ROW EXEC
 INSERT INTO schema_versions(version) VALUES(1) ON CONFLICT DO NOTHING;
 CREATE TABLE IF NOT EXISTS collections(id text PRIMARY KEY,title text NOT NULL,input_sha256 text NOT NULL,created_at timestamptz DEFAULT now());
 CREATE TABLE IF NOT EXISTS collection_entries(collection_id text NOT NULL REFERENCES collections(id),number integer NOT NULL CHECK(number>0),work_id uuid NOT NULL REFERENCES works(id),episode integer,PRIMARY KEY(collection_id,number),UNIQUE(collection_id,work_id));
+CREATE TABLE IF NOT EXISTS payment_orders(id text PRIMARY KEY,author_id text NOT NULL REFERENCES users(id),device text NOT NULL,app_id text NOT NULL,seller_id text NOT NULL,amount_cents integer NOT NULL DEFAULT 10 CHECK(amount_cents=10),draft jsonb NOT NULL,fingerprint text NOT NULL,state text NOT NULL DEFAULT 'created' CHECK(state IN('created','paid','refund_pending','refunded','closed')),trade_no text UNIQUE,work_id uuid UNIQUE REFERENCES works(id),checkout jsonb,created_at timestamptz NOT NULL DEFAULT now(),paid_at timestamptz,checked_at timestamptz,refunded_at timestamptz);
+CREATE UNIQUE INDEX IF NOT EXISTS payment_active_draft ON payment_orders(author_id,fingerprint) WHERE state NOT IN('closed','refunded');
+CREATE INDEX IF NOT EXISTS payment_reconcile ON payment_orders(state,checked_at);
