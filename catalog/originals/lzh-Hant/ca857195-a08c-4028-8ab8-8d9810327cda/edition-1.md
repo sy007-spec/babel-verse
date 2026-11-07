@@ -1,0 +1,20 @@
+---
+citation: "用户提供目录第083首；维基文库《宋詞三百首》固定修订12723602。"
+id: "ca857195-a08c-4028-8ab8-8d9810327cda"
+kind: "original"
+language: "lzh-Hant"
+poet: "苏轼"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "贺新郎·乳燕飞华屋"
+---
+
+乳燕飛華屋，悄無人、槐陰轉午，晚涼新浴。
+手弄生綃白團扇，扇手一時似玉。
+漸困倚、孤眠清熟，簾外誰來推繡戶？
+枉教人、夢斷《瑤臺曲》，又卻是、風敲竹。
+石榴半吐紅巾蹙，待浮花、浪蕊都盡，伴君幽獨。
+穠艷一枝細看取，芳意千重似束。
+又恐被西風驚綠，若待得君來向此，花前對酒不忍觸。
+共粉淚、兩簌簌。

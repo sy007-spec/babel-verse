@@ -1,0 +1,21 @@
+---
+citation: "用户提供目录第182首；维基文库《宋詞三百首》固定修订12723602。"
+id: "07c876e2-c6de-4d49-b512-4c42b30d8ba2"
+kind: "original"
+language: "lzh-Hant"
+poet: "袁去华"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "安公子·弱柳千丝缕"
+---
+
+弱柳千絲縷，嫩黃勻遍鴉啼處。
+寒入羅衣春尚淺，過一番風雨。
+問燕子來時，綠水橋邊路，曾畫樓、見箇人人否？
+料靜掩雲窗，塵滿哀弦危柱。
+庾信愁如許，為誰都著眉端聚。
+獨立東風彈淚眼，寄煙波東去。
+念永晝春閑，人倦如何度？
+閑傍枕、百囀黃鸝語。
+喚覺來厭厭，殘照依然花塢。

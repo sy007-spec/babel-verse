@@ -1,0 +1,21 @@
+---
+citation: "用户提供目录第075首；维基文库《宋詞三百首》固定修订12723602。"
+id: "664cff05-4b74-4eb9-8360-fbaefdbed8aa"
+kind: "original"
+language: "lzh-Hant"
+poet: "苏轼"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "永遇乐·明月如霜"
+---
+
+明月如霜，好風如水，清景無限。
+曲港跳魚，圓荷瀉露，寂寞無人見。
+紞如三鼓，鏗然一葉，黯黯夢雲驚斷。
+夜茫茫、重尋無處，覺來小園行遍。
+天涯倦客，山中歸路，望斷故園心眼。
+燕子樓空，佳人何在？
+空鎖樓中燕。
+古今如夢，何曾夢覺，但有舊歡新怨。
+異時對、黃樓夜景，為余浩嘆。

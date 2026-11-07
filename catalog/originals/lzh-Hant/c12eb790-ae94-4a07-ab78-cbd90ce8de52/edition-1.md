@@ -1,0 +1,20 @@
+---
+citation: "用户提供目录第293首；维基文库《宋詞三百首》固定修订12723602。"
+id: "c12eb790-ae94-4a07-ab78-cbd90ce8de52"
+kind: "original"
+language: "lzh-Hant"
+poet: "僧挥"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "金明池·天阔云高"
+---
+
+天闊雲高，溪橫水遠，晚日寒生輕暈。
+閑階靜、楊花漸少，朱門掩、鶯聲猶嫩。
+悔匆匆、過卻清明，旋占得、餘芳已成幽恨。
+卻幾日陰沈，連宵慵困，起來韶華都盡。
+怨入雙眉閑鬥損，乍品得情懷，看承全近。
+深深態、無非自許，厭厭意、終羞人問。
+爭知道、夢裏蓬萊，待忘了餘香，時傳音信。
+縱留得鶯花，東風不住，也則眼前愁悶。

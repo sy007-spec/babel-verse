@@ -1,0 +1,20 @@
+---
+citation: "用户提供目录第183首；维基文库《宋詞三百首》固定修订12723602。"
+id: "2bfc451e-2018-4720-a0fe-3a72507cc857"
+kind: "original"
+language: "lzh-Hant"
+poet: "陆淞"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "瑞鹤仙·脸霞红印枕"
+---
+
+臉霞紅印枕，睡覺來、冠兒還是不整。
+屏閒麝煤冷，但眉峰壓翠，淚珠彈粉。
+堂深晝永，燕交飛、風簾露井。
+恨無人說與，相思近日，帶圍寬盡。
+重省，殘燈朱幌，淡月紗窗，那時風景。
+陽臺路回，雲雨夢，便無準。
+待歸來，先指花梢教看，卻把心期細問。
+問因循過了青春，怎生意穩。

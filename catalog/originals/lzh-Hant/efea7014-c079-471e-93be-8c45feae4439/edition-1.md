@@ -1,0 +1,19 @@
+---
+citation: "用户提供目录第024首；维基文库《宋詞三百首》固定修订12723602。"
+id: "efea7014-c079-471e-93be-8c45feae4439"
+kind: "original"
+language: "lzh-Hant"
+poet: "韩缜"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "凤箫吟·锁离愁"
+---
+
+鎖離愁連綿無際，來時陌上初燻，繡幃人念遠，暗垂珠露，泣送征輪。
+長行長在眼，更重重、遠水孤雲。
+但望極樓高，盡日目斷王孫。
+消魂，池塘別後，曾行處、綠妒輕裙。
+恁時攜素手，亂花飛絮裏，緩步香茵。
+朱顏空自改，向年年、芳意長新。
+遍綠野，嬉游醉眼，莫負青春。

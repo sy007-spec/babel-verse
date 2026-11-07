@@ -1,0 +1,24 @@
+---
+citation: "用户提供目录第047首；维基文库《宋詞三百首》固定修订12723602。"
+id: "d91fd525-4cf4-48d4-9996-af9e2d26639b"
+kind: "original"
+language: "lzh-Hant"
+poet: "柳永"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "玉蝴蝶·望处雨收云断"
+---
+
+望處雨收雲斷，憑闌悄悄，目送秋光。
+晚景蕭疏，堪動宋玉悲涼。
+水風輕、蘋花漸老；
+月露冷、梧葉飄黃。
+遣情傷，故人何在？
+煙水茫茫。
+難忘。
+文期酒會，幾孤風月，屢變星霜。
+海闊山遙，未知何處是瀟湘？
+念雙燕、難憑音信；
+指暮天、空識歸航。
+黯相望，斷鴻聲裏，立盡斜陽。

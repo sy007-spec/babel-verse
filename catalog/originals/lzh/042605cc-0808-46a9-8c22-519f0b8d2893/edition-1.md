@@ -1,0 +1,20 @@
+---
+citation: "用户提供目录第225首；维基文库《宋詞三百首》固定修订12723602。"
+id: "042605cc-0808-46a9-8c22-519f0b8d2893"
+kind: "original"
+language: "lzh"
+poet: "史达祖"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "双双燕·过春社了"
+---
+
+過春社了，度簾幕中間，去年塵冷。
+差池欲住，試入舊巢相並。
+還相雕梁藻井，又軟語商量不定。
+飄然快拂花梢，翠尾分開紅影。
+芳徑，芹泥雨潤，愛貼地爭飛，竟夸輕俊。
+紅樓歸晚，看足柳昏花暝。
+應自棲香正穩，便忘了天涯芳信。
+愁損翠黛雙蛾，日日畫闌獨憑。

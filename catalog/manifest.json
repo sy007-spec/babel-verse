@@ -2,20 +2,1228 @@
   "schema": 1,
   "files": [
     {
+      "path": "collections/songci-300-v2/index.md",
+      "sha256": "5a98a8ce38b6a17c0fddb2bd41947dad20fca1ba34104347dc0deaa1b36d3bac"
+    },
+    {
       "path": "indexes/lzh-Hant/index.md",
-      "sha256": "15c01c7bd61e87b5560dea1a6b4298fda3afd2cfcb493f52c8ee288b65b4d0d5"
+      "sha256": "5f0ba79af56dac493ab4851a7d33f59fbb3d1bb2a1e1adfecf12dba392c522de"
+    },
+    {
+      "path": "indexes/lzh/index.md",
+      "sha256": "507f9cdbe1ff30b50bf7d4e85caa3cc4bfc4134e24c39f30a68330b8c4c57dbf"
+    },
+    {
+      "path": "originals/lzh-Hant/0224b7eb-4d5e-45eb-89f3-bd60ec782872/edition-1.md",
+      "sha256": "4e3790a8b10c352f671ed121abbb7f7293940e61066b7c0efc5d1819a6cbff9b"
+    },
+    {
+      "path": "originals/lzh-Hant/04f1eb4b-239b-4181-b191-98bbbf9896b6/edition-1.md",
+      "sha256": "0ec1ab0c20bbda58c875df79a0e81192291ca863228c37cdd00ba50ff310c8ea"
+    },
+    {
+      "path": "originals/lzh-Hant/0698faef-df61-4cb4-8441-d0f33ffa94c7/edition-1.md",
+      "sha256": "8711b465c2c8889278b9a0a08279989c9b1f7f521d5f336dc07dfb096b932206"
+    },
+    {
+      "path": "originals/lzh-Hant/072dd965-8bb3-482d-b10f-c787e426fd4a/edition-1.md",
+      "sha256": "2e2a8630a4bf9453172d065f7574465557f9c76c7309aa11ff54a087135fec17"
+    },
+    {
+      "path": "originals/lzh-Hant/07c7ce22-4147-4f92-8ee9-70f9cc1beebf/edition-1.md",
+      "sha256": "841010745aa389bac12c09f0b29a193acdf18150f084d4a680f2badb4aa5bd0a"
+    },
+    {
+      "path": "originals/lzh-Hant/07c876e2-c6de-4d49-b512-4c42b30d8ba2/edition-1.md",
+      "sha256": "5d70eaf534630cab87c285b53816bef1b4c3e19b4dc77de1fdae4d3c8802a8ae"
+    },
+    {
+      "path": "originals/lzh-Hant/0964f8fa-a4f1-4e1d-b6ec-3895b43305df/edition-1.md",
+      "sha256": "cb051264b220da7414498ea73d1373dafed1fb372abbdd80f21133ded25faf92"
+    },
+    {
+      "path": "originals/lzh-Hant/0a1e05bb-f9a3-475b-a322-fc61c8d57354/edition-1.md",
+      "sha256": "dc31b46c06abaae33aa5e1250f77f4f767d2b9559a6c706ba1547c1a8b2ad6b7"
+    },
+    {
+      "path": "originals/lzh-Hant/0a4087bc-e838-43aa-a0f3-c3765c03e694/edition-1.md",
+      "sha256": "07a6d2c28b55195775feca86a06ee216d582c47a558faa417f7bc8c2c3a7e1d4"
+    },
+    {
+      "path": "originals/lzh-Hant/0d542b7b-7aa2-4d24-bc2d-56817a3e5067/edition-1.md",
+      "sha256": "491259a9fbbbfda0f2f4e93cc91ea4faf755822e078ec1cf117585a0fbe71390"
+    },
+    {
+      "path": "originals/lzh-Hant/0f01d2df-55f8-45f4-a43a-a9fcb1d91f06/edition-1.md",
+      "sha256": "ad9f4c4846c90d62d94f9ba47b363e7c471752f4a8c17f16da92f1e81537ed51"
     },
     {
       "path": "originals/lzh-Hant/0f3ac479-62b4-4606-9568-ed153f9e40b1/edition-1.md",
       "sha256": "c77385a45df34e3ce2f507f2fb86ed11768469e15dfae572c6da87e6fd595b42"
     },
     {
+      "path": "originals/lzh-Hant/10d2fedc-d9e8-45e0-8980-be8c7e575197/edition-1.md",
+      "sha256": "dc35a1edf0ff0bebb46e58c13100b4c00c66689e61d00e8963a092719f69fdd7"
+    },
+    {
+      "path": "originals/lzh-Hant/10f3ac07-18d5-410a-bc1e-b06bf97aa3cc/edition-1.md",
+      "sha256": "98abc45f5ab9879fe0cf12e31979412f3ecf62bf61f86f649c6596b7474db40d"
+    },
+    {
+      "path": "originals/lzh-Hant/113955ee-696b-4b4b-b7fa-da59fa4bce4b/edition-1.md",
+      "sha256": "62b4dfa6b445813b15b85617ce600b0e4fe68d22cd6aa857bfb171ce401138f3"
+    },
+    {
+      "path": "originals/lzh-Hant/120ae5cd-1265-4eb6-a43b-5247a759b23a/edition-1.md",
+      "sha256": "26732abfbe2bd77f9856a14a51e243c1f7fde800cf2890d9bec1f69e1c6131c0"
+    },
+    {
+      "path": "originals/lzh-Hant/121e828b-e4cb-4bae-b825-25617f3a45b9/edition-1.md",
+      "sha256": "7684201bb7f2329a511f3373c8422e20b750e4db320a54327cfccec8ea97b296"
+    },
+    {
+      "path": "originals/lzh-Hant/12ef1f89-7ee0-48fa-8ee6-365e2c281cc7/edition-1.md",
+      "sha256": "fcc07ac7f2c9143da662c245db8c2e4fdf917b8a646845dc35139dac843e21e3"
+    },
+    {
+      "path": "originals/lzh-Hant/12f92a75-90c5-4852-b4b9-8bf92adec982/edition-1.md",
+      "sha256": "0915949d94906ede1db5b67b5314269c49068451102b4b7d7b6e6b6055aaa756"
+    },
+    {
+      "path": "originals/lzh-Hant/13b30371-7942-4461-b33e-21d8b35f7855/edition-1.md",
+      "sha256": "0ae4226c2abc875e6427cc5fbefe64610fbe7187f6ca602696f3968410e36aa5"
+    },
+    {
+      "path": "originals/lzh-Hant/13fc546f-451b-4965-ba8c-b24f858ce712/edition-1.md",
+      "sha256": "d1a977a42fb3da209cab1c6bc2fae11279cbe3456b20e7488ca5d26e921c7a0a"
+    },
+    {
+      "path": "originals/lzh-Hant/16ec7ba0-2516-4209-93a7-85e98d305703/edition-1.md",
+      "sha256": "1951564c0f2a5a23d49d5189b05fbe2d0e7901ee5d8ab5a4477cb044ded7bc35"
+    },
+    {
+      "path": "originals/lzh-Hant/16f798e0-9706-4d2a-88df-2f362cd53632/edition-1.md",
+      "sha256": "176064465eb31666b8afe2bfae8527537ccb218f9011e82667bab3e7cc6fddc9"
+    },
+    {
+      "path": "originals/lzh-Hant/173faca0-9693-4366-a17a-29614c89d1bb/edition-1.md",
+      "sha256": "a99bb13405709a7c23c3eae22eda65843025e997721981421731ab14a8880b29"
+    },
+    {
+      "path": "originals/lzh-Hant/18394f0e-3473-4922-bd78-433ee01b30b3/edition-1.md",
+      "sha256": "16cf144c3fb5a8a7eb7c991cd6f1c93dc317a2d5191da426e27acd9f751da0cc"
+    },
+    {
+      "path": "originals/lzh-Hant/18e7e736-2039-458e-ba60-8dc680f260e7/edition-1.md",
+      "sha256": "029335579e85008d72859a0fb4d431c088968940a4a17779cd726dcb62720135"
+    },
+    {
+      "path": "originals/lzh-Hant/1a5b3e3f-4744-4b32-a851-1210378d28a4/edition-1.md",
+      "sha256": "d274bcabe39b6d48a8ce7b9851737501ffacad9ed6a72de743cd8c135e23847b"
+    },
+    {
+      "path": "originals/lzh-Hant/1de3e53f-1919-4b80-a07a-1dd3d1794e17/edition-1.md",
+      "sha256": "77f93a2d227d1a9eddbe716eb7fbdd8beea8f1bdf15baa4d94d0c7011ee72b74"
+    },
+    {
+      "path": "originals/lzh-Hant/1f63a365-2411-42d9-a76c-1b14a3b492bf/edition-1.md",
+      "sha256": "1e9496a98203d88e1819763d69f33ab1c5533117f6c4dabf6e79f5544c62be4f"
+    },
+    {
+      "path": "originals/lzh-Hant/21090cb2-20de-486e-ac63-8ac63c29a03a/edition-1.md",
+      "sha256": "69756d762f47de9be3dbb8799dac234c5c27e37b8f16f68fb475025321708a56"
+    },
+    {
+      "path": "originals/lzh-Hant/234b5cfc-c375-44c4-a446-20c8eb6ef2fa/edition-1.md",
+      "sha256": "64ed4ae3fe833b91a4ff01997425f375002be363cd30efc9f631bdf0488c9165"
+    },
+    {
+      "path": "originals/lzh-Hant/24978809-df43-4659-93f6-356a38d26d41/edition-1.md",
+      "sha256": "ffeb216b057e4f3dd1b17d44f4eaa3da3aaa035f0b17f41032ea13cf33e37025"
+    },
+    {
+      "path": "originals/lzh-Hant/27e3e86a-5dc8-4233-8304-fee208b0a7f7/edition-1.md",
+      "sha256": "46787af8d261564e64ddd8eda41b129fa9b973f16ccb51c01e50f70762c9b3d7"
+    },
+    {
+      "path": "originals/lzh-Hant/28bc4769-a14a-4a5e-9737-6837c8d1b5b8/edition-1.md",
+      "sha256": "f32ddf75ff725d8ad4af29e09f37a00f32c5f8c5b2d28a12039758aed6e41fa7"
+    },
+    {
+      "path": "originals/lzh-Hant/29660a0e-af90-403d-8d5c-4ceccfba1b8f/edition-1.md",
+      "sha256": "c874439f88a5d1ef3e2df702142eceb1f734c1d5a10f3932c07c2786a99770d9"
+    },
+    {
+      "path": "originals/lzh-Hant/296e1fea-9eb5-4369-82df-8024ce974278/edition-1.md",
+      "sha256": "33cb7db2db827c8c26734ea6a8debaae6ec676449a5e1cfb08cb3e97860a725d"
+    },
+    {
+      "path": "originals/lzh-Hant/2b27a9b1-28a3-406b-9a67-30b506ea460a/edition-1.md",
+      "sha256": "fb3e8550b57eb12abf14ba1a9285c34faa0c64a070d53a6321353fa8bd5585a3"
+    },
+    {
+      "path": "originals/lzh-Hant/2b454554-e5aa-4529-b6a3-586f3f43821e/edition-1.md",
+      "sha256": "b9215b794a28a8c251cfa11f7f16806cbad4e3b10f259cf644e0c610bb32f4b9"
+    },
+    {
+      "path": "originals/lzh-Hant/2bfc451e-2018-4720-a0fe-3a72507cc857/edition-1.md",
+      "sha256": "a1a21d17bdf4ef1c2a32783ea0c94358380d7075310a32ca5b18fb5b514a367c"
+    },
+    {
+      "path": "originals/lzh-Hant/2d3d5a86-d781-4f4e-9d7c-be419f117dcc/edition-1.md",
+      "sha256": "c0c1c97f376c3866277743476f86b238a647d5167a25136dac53e6eae3af3edd"
+    },
+    {
+      "path": "originals/lzh-Hant/3008ddcb-7e5d-4b59-9a57-84434348cb4a/edition-1.md",
+      "sha256": "a57e092dd4687a33fad89064e9d6218827efb4c92a798c5f06151dc7d8da3dd2"
+    },
+    {
+      "path": "originals/lzh-Hant/31566f04-1272-45f5-8a80-eee8604eaa79/edition-1.md",
+      "sha256": "0b2832df7b40c3a35760b20851d98180c322ca044c54bc2f6f1c45bf064c5579"
+    },
+    {
+      "path": "originals/lzh-Hant/34447fd5-e170-495a-883a-63453353850c/edition-1.md",
+      "sha256": "997598847f64f7b12b8afc1cb9da0fe023cb8a5a3025af9204cc63506b5dd56a"
+    },
+    {
+      "path": "originals/lzh-Hant/360eca83-f416-4843-827f-92ed7cf2ca9b/edition-1.md",
+      "sha256": "3c1cc46d657beb6a70dca416b708c7a7ac08b99cb6901d44f0a4c04b07f141af"
+    },
+    {
+      "path": "originals/lzh-Hant/39ccc475-4217-49a2-a544-64f719f29911/edition-1.md",
+      "sha256": "dbbddf75a7502b5c43c2ad518c195c57cc8ff55754d5bae44eb5906ebc301021"
+    },
+    {
+      "path": "originals/lzh-Hant/3be96d36-0e91-42e5-a4a4-adf01c9d63da/edition-1.md",
+      "sha256": "7a7c13a890a6d147392711f20a570fab76c2f351b54d819d89fedad187700da7"
+    },
+    {
+      "path": "originals/lzh-Hant/3cba2416-db30-4512-8e0d-a76e857f6b56/edition-1.md",
+      "sha256": "cd2cfbf7cc43d926dba9aa422d129aefd4bbb9308c8d7e46f8876038bebddb25"
+    },
+    {
+      "path": "originals/lzh-Hant/3eb0f759-eb6e-47f5-b4a9-8ef3697881f9/edition-1.md",
+      "sha256": "385d3f00b1f3d006398f9c9356b5a1adcee2f01a4ff5e218b6ba790a15c07bc7"
+    },
+    {
+      "path": "originals/lzh-Hant/3f6850fa-f408-4c88-8c0d-dd9107cd42b1/edition-1.md",
+      "sha256": "1f18fbb9160bd79d9964c2593bbb834825a7325ac728899f341f7f740a14f962"
+    },
+    {
+      "path": "originals/lzh-Hant/3f6f1e8d-3a7b-4923-ad3f-fe33b54d5d92/edition-1.md",
+      "sha256": "4e74997f276790ee0781ac38e32959e4aed34a5543d0fe0ace1d90671f92c635"
+    },
+    {
+      "path": "originals/lzh-Hant/3fb0d10e-a0ac-41d5-8c21-23e187cb3b59/edition-1.md",
+      "sha256": "6ba36440c40b5c532fe44362a32be1cab1dadfc0b920fb4ac7f5df3eb9901342"
+    },
+    {
+      "path": "originals/lzh-Hant/403df776-ed13-42da-acb6-b2b5ab40dff0/edition-1.md",
+      "sha256": "6863b51c578a13bc724e81dece469238ce4bc593f80c4e7746becc23f6c73ac8"
+    },
+    {
+      "path": "originals/lzh-Hant/409acbb1-a669-4b8d-a66f-a4f0357257c2/edition-1.md",
+      "sha256": "602af96e051523c0b8d29d56a8d955fa81ecb8b35e0470d164dfd1bc089603d5"
+    },
+    {
+      "path": "originals/lzh-Hant/41455bf1-2f7a-4bf6-875a-3ea6b636ea17/edition-1.md",
+      "sha256": "6b93413058c71663cc7e127b0b515e151b1db9dc4ff67b1e39c7cd972ab4cbaf"
+    },
+    {
+      "path": "originals/lzh-Hant/4166a6d2-e8e1-4eb7-9fd3-59475b9102bf/edition-1.md",
+      "sha256": "f396f5d234bc0599779c9e4af5ab365385861bc4e9d69bd7e33e4e956febec3e"
+    },
+    {
+      "path": "originals/lzh-Hant/4421acf2-6534-4613-9733-4899784645fa/edition-1.md",
+      "sha256": "17c19e5dbb53249281b2b4f4b93c8fb1a86f6fa647febe3a00d66f60814063c5"
+    },
+    {
+      "path": "originals/lzh-Hant/449b227c-3bb8-466a-a836-16c79e3fd8fc/edition-1.md",
+      "sha256": "abe20c027bf39d7ab627c0d4cf2969535891f6f6112fc40526dec9904d4ff4f6"
+    },
+    {
+      "path": "originals/lzh-Hant/45a8246d-ad24-438f-944b-b972850999ab/edition-1.md",
+      "sha256": "1238e2d1f964e980982de108b2944901181c1398c5e59d8c66ef510de4c0f912"
+    },
+    {
+      "path": "originals/lzh-Hant/45c4270f-66b2-4770-8495-81f45b9cc98b/edition-1.md",
+      "sha256": "cc081313287613972ad5eaa0aceb7ce89deafae11f75b674f3abc31b741e155f"
+    },
+    {
+      "path": "originals/lzh-Hant/46292299-49a6-4536-9570-38fdb37d1f9e/edition-1.md",
+      "sha256": "c59cb3a15631c2e13f00c6dfca91f3529001281c8f8bd6ea44a98ee95a58d90c"
+    },
+    {
+      "path": "originals/lzh-Hant/46c3ae4f-7fe3-4f88-8a24-5749a96578e6/edition-1.md",
+      "sha256": "70f9a4c9fa02712957e3e13d371b25a49705689f71f52ecd3b87e9ca555d66c8"
+    },
+    {
+      "path": "originals/lzh-Hant/493619dc-bc3d-4a37-a4fc-ba3bef962e0e/edition-1.md",
+      "sha256": "c8e32044aae273e2c4ac5d04bfb383a5306d57d31035ad7b047de99fd584d170"
+    },
+    {
+      "path": "originals/lzh-Hant/4b7e4bf5-bdef-4d5a-81ab-a12e208119c7/edition-1.md",
+      "sha256": "995c5b6a60ee387ec9a72de3bd92d1c9b5f4887eba22eb410182ebd0e2685119"
+    },
+    {
+      "path": "originals/lzh-Hant/4bb5f98c-917c-441c-aaa7-6132f78e251e/edition-1.md",
+      "sha256": "16c4e3a8d802dbeaaf07a51cb4e3fa6ab6a1069698c2bbd27be5b444ae527937"
+    },
+    {
+      "path": "originals/lzh-Hant/4d1be86a-19eb-4a1f-94b6-6cccad46931c/edition-1.md",
+      "sha256": "f3e455e1636b6967658602ceb26e32ce8fd5f28e28a2353ea6ad66612c8bdf0a"
+    },
+    {
+      "path": "originals/lzh-Hant/4d30c385-7b5f-4aa7-87ce-1b9cbe598c7e/edition-1.md",
+      "sha256": "8181ce430f61e215b3048cecda1242403db6e244f4fec5aa0f99fdb1816a96ca"
+    },
+    {
       "path": "originals/lzh-Hant/4dd62f52-ff58-4700-bf1b-375da34895b3/edition-1.md",
       "sha256": "31803f87153b65543810ee053bb878f2566c88f0e2bd44439d5753a2a7034a73"
     },
     {
+      "path": "originals/lzh-Hant/4e7c7631-f961-40c4-81f9-5f027c20181f/edition-1.md",
+      "sha256": "75eaa43bad3f1333a7998bd1ff8e87304814e161eda7785224f0ad621574901f"
+    },
+    {
+      "path": "originals/lzh-Hant/5119cf43-f10a-4dea-b2af-3bd64c5f7b44/edition-1.md",
+      "sha256": "e6400e667fecdd1c31445dcb0007cbea6da56d1ca33eaf7049c5878cfc6d9dbd"
+    },
+    {
+      "path": "originals/lzh-Hant/525aba91-b40c-47c2-8dec-b002d489e80f/edition-1.md",
+      "sha256": "56cfb9b9dfa0983aac9a575ace6ea9bcaa3e916f6f6125f43aa8876b0fc30210"
+    },
+    {
+      "path": "originals/lzh-Hant/52925683-df29-4384-9bcf-896a427c567e/edition-1.md",
+      "sha256": "1631c6f51442bb96ebafa977abef915e7bd53b91fcf313551dd21113d27fab63"
+    },
+    {
+      "path": "originals/lzh-Hant/52968792-f56a-4a2d-b680-634740006e05/edition-1.md",
+      "sha256": "af292804710df1107c0905cb47c427423a0acbbb2d1c14f3bab83963ef715f1a"
+    },
+    {
+      "path": "originals/lzh-Hant/5367e089-caf4-4ffb-875a-77fd1aae61fd/edition-1.md",
+      "sha256": "a3489a275e63873e6c25fcb2d96e8db6587d0bc589da95013f75a733b9674cd2"
+    },
+    {
+      "path": "originals/lzh-Hant/55b8fe3d-b403-4081-99f8-c3957a59e96f/edition-1.md",
+      "sha256": "da8fc2e5f973d0aa249e5a090762efa23f0804083fd1edfba3aa97035c3b5fe8"
+    },
+    {
+      "path": "originals/lzh-Hant/56b3c79c-72b4-44fc-a149-9fa8174ca19c/edition-1.md",
+      "sha256": "09fedcbb9403ae57cee7652a40f503c2d1bb5c92ec17803ff5009233525dcb35"
+    },
+    {
+      "path": "originals/lzh-Hant/58d3d77d-626b-4458-a2ff-e1c261b98466/edition-1.md",
+      "sha256": "2508f8a489701c868c27da1e4ed0a42dee77c7c864f043dd359641e5506af337"
+    },
+    {
+      "path": "originals/lzh-Hant/5ccf723f-b5a0-49f3-b437-694630a3e210/edition-1.md",
+      "sha256": "841b9764f0d0411c8c7ed719bf5c923e5385015f6dc36e6c94d974741697c641"
+    },
+    {
+      "path": "originals/lzh-Hant/5d7a1ae9-ab9a-4481-bc25-7dbccb0dff0c/edition-1.md",
+      "sha256": "f1938ada77f0c597fb523a81dc2486007a2634f04ecf0d8284035793523087c2"
+    },
+    {
+      "path": "originals/lzh-Hant/609c7058-5a47-4b13-92e1-e36a8ff34f79/edition-1.md",
+      "sha256": "e16707fd5b82346b93b234e8b6398c38873ad120a52bd77f3cba1721577b6a1d"
+    },
+    {
+      "path": "originals/lzh-Hant/6156a12d-213a-48a2-8a5c-67761b8b7836/edition-1.md",
+      "sha256": "559495568ed31c9fa33f2609fdeaebca15ec5dfd9923c7c547e7765f2ab53767"
+    },
+    {
+      "path": "originals/lzh-Hant/623ca61b-0ec2-44fc-9f69-570c524d3887/edition-1.md",
+      "sha256": "4d0e24b5daf48e8ebdf1178c9a673f59e1ebd3aa76f1fb91b723aa7f2d44370a"
+    },
+    {
+      "path": "originals/lzh-Hant/6261b077-eb8e-4186-a095-ef17069d3a50/edition-1.md",
+      "sha256": "56e722212c7a943d7c0354b7c7de53dbe9ee466a43a9fea5e6fecccb96c68b49"
+    },
+    {
+      "path": "originals/lzh-Hant/6410af52-f56f-458d-b4be-fdfed87e6b40/edition-1.md",
+      "sha256": "3e11c8b7f21db984f1905aaacba5a855240e7bf4e2a2c64c063a9d940ae01287"
+    },
+    {
+      "path": "originals/lzh-Hant/64de79cc-af6a-49a6-bbd4-a2854ce16494/edition-1.md",
+      "sha256": "f0496c799fb6de026b35e4e8fe2856a0007b73e468b43e93acccd1559659897c"
+    },
+    {
+      "path": "originals/lzh-Hant/653ffb7a-1f1b-417c-b8d0-946472c3e2a0/edition-1.md",
+      "sha256": "b11f3b2b96efe32d78e7d8314d84e51c78d0a7af4dfd383ae1356153f499893b"
+    },
+    {
+      "path": "originals/lzh-Hant/65e46348-e9fc-4e3a-b8f2-d4b7e9120f4e/edition-1.md",
+      "sha256": "9a684af2291d353203ae44db74eeaf55e9b28dfe249a52f740bef8cd5571faca"
+    },
+    {
+      "path": "originals/lzh-Hant/664cff05-4b74-4eb9-8360-fbaefdbed8aa/edition-1.md",
+      "sha256": "c627e8242b5f2d516d835601672303d5692d738b3197cbe9159d8541317bbdea"
+    },
+    {
+      "path": "originals/lzh-Hant/66b1b19e-2e7d-40cd-bf1c-f21db71dc1c8/edition-1.md",
+      "sha256": "f501b724e18eebbf0cf48a8426d6015430a8d7c840c42dab6541a4ddbe7eb518"
+    },
+    {
+      "path": "originals/lzh-Hant/68247f73-6f09-4555-8901-844a9d0e0cd6/edition-1.md",
+      "sha256": "54399d8cdf1439113d468511c0c1141c736e665281af220257f4a075aed7e39e"
+    },
+    {
+      "path": "originals/lzh-Hant/6abed7b4-cce5-4304-bde1-e92f1b32350b/edition-1.md",
+      "sha256": "fec7c8d9db5f18c0895a7e4ec5d871bae60c551ce1141dd46987712143f82e50"
+    },
+    {
+      "path": "originals/lzh-Hant/6c5452c6-18a7-4d56-a5a7-ccbfef83e34d/edition-1.md",
+      "sha256": "e1d1922867aa0c3c400f450541f4c637c7abbffcab8808638fb106943fd622bd"
+    },
+    {
+      "path": "originals/lzh-Hant/6fb25e4b-e5ed-48e0-975e-16db525f331a/edition-1.md",
+      "sha256": "4492bcad4f9c966b2d8e4bb1c95a06ac408538cb904cd9a078a2fe37d3326b09"
+    },
+    {
+      "path": "originals/lzh-Hant/705944bd-f583-44d2-a62a-6c2ba0ec21d6/edition-1.md",
+      "sha256": "bf4c9bf37414a82ac34ee6d5d5b7b667f169bb1d622dd0d3d681448cebf31b07"
+    },
+    {
+      "path": "originals/lzh-Hant/719d1d58-3807-4525-885f-05e32d9cd784/edition-1.md",
+      "sha256": "fe8949a2b5090ead7c37adea0e8168a6f018f5b54821c04c7eb901bfce398054"
+    },
+    {
+      "path": "originals/lzh-Hant/71eebbc8-e34b-4933-b7cf-6a9ccac2e9fd/edition-1.md",
+      "sha256": "6bb788c0426438caa3ad8f30d895a23910fdab837c377b4e9aa99d644586d4b3"
+    },
+    {
+      "path": "originals/lzh-Hant/727450d2-6147-4f22-a5d7-66dc1da45891/edition-1.md",
+      "sha256": "3f6c34cc63ad94256abf8056f6a5295a3538a7fd0dfc93c8198d50d481df6d1e"
+    },
+    {
+      "path": "originals/lzh-Hant/72b2920d-7d83-4373-ba21-ab615ec14374/edition-1.md",
+      "sha256": "4225229d6a23a012c5dbb02999ab973c3c9615f75a2d4ca36fbd21ade96b1349"
+    },
+    {
+      "path": "originals/lzh-Hant/73b7eb75-1d0c-441a-9040-9b7f235ce47d/edition-1.md",
+      "sha256": "cbc16343d9c7fb4cf606032888861ac7d708efa8ea34cdb7c6845ebd2219522c"
+    },
+    {
+      "path": "originals/lzh-Hant/73dbdf63-497c-48b5-b077-364ef42e91b6/edition-1.md",
+      "sha256": "74abd9071815f21e88d0977aa1f9c2f6c0bb96b215d5328a5da76de09428fedd"
+    },
+    {
+      "path": "originals/lzh-Hant/76f89f17-60cc-47e1-b967-d76e4f0e23ea/edition-1.md",
+      "sha256": "500f1fbb6ed5c0e83151284de8466cc55cdde84bada4af959c9aca84d1e1a674"
+    },
+    {
+      "path": "originals/lzh-Hant/777f359f-ab8f-46cf-9695-58f230a68d96/edition-1.md",
+      "sha256": "9848d08ad9bb2ce733af4c867b0da9012c9ffd6338a9eb8a76433e612a3cff47"
+    },
+    {
+      "path": "originals/lzh-Hant/778a6e3a-1c14-430b-bd6e-8047ce5abe5f/edition-1.md",
+      "sha256": "e78be06ee0b5e9727f2c9cf38052ae8d735b1de091b390eee5facba6d3e28d2e"
+    },
+    {
+      "path": "originals/lzh-Hant/785acd37-e5a2-4c48-b554-e1f963570372/edition-1.md",
+      "sha256": "67ef6c8064c0ac883999144aab5913df0c82832c042febb669c55e0d46a1b9d8"
+    },
+    {
+      "path": "originals/lzh-Hant/7914ba6d-a5d7-4607-90ff-73b2febded25/edition-1.md",
+      "sha256": "f6e5738d94a22521ca8f3c4b31633e935bab8dcc561d37bbdb3f63c6f160b680"
+    },
+    {
+      "path": "originals/lzh-Hant/7a7f780d-421a-4859-bcf1-3f94992d24e7/edition-1.md",
+      "sha256": "0cc83b4af7cac9dd465a145ab64d55deb8a5dfd17790cd5b2f6380185094396d"
+    },
+    {
+      "path": "originals/lzh-Hant/7abf1b20-59cd-4714-a7df-0a278fce6619/edition-1.md",
+      "sha256": "ede38c359a612769791d04b59267cca988fbfe438487b3bb54f562ab5f7e7336"
+    },
+    {
+      "path": "originals/lzh-Hant/7ae2be09-ff81-448d-99c4-32277f6dc692/edition-1.md",
+      "sha256": "2b11d8abe8d5a9dc4635f86aff888f7cc6e43691b3faac657d5285677d75a03f"
+    },
+    {
+      "path": "originals/lzh-Hant/7b6b060d-88e2-4e7f-9e72-aa59b601396d/edition-1.md",
+      "sha256": "71da903b7a7866480df754c48163977b76768c298511800930a2928e8ea3ed29"
+    },
+    {
+      "path": "originals/lzh-Hant/7c46b918-f2aa-47c6-a84d-ac4bb3e32123/edition-1.md",
+      "sha256": "a0088f24de55a6753bad7825eab2360a8bf33bd74a7c4bfaf1099cf089905093"
+    },
+    {
+      "path": "originals/lzh-Hant/7f3a3377-536a-46a2-ac30-8f8aa2957378/edition-1.md",
+      "sha256": "f9600d2cd134947d751f838672c130547089c1e247dbb20c1a1c93e989365a44"
+    },
+    {
+      "path": "originals/lzh-Hant/7fe95550-b981-4ac5-a31e-a80f75a2f56c/edition-1.md",
+      "sha256": "fadf4bf4c23cac3d0c38785317c9463df542cc3502127b2d4326f2e17c4d8b4e"
+    },
+    {
+      "path": "originals/lzh-Hant/809bcaac-d66d-4ade-9219-d488a34e6946/edition-1.md",
+      "sha256": "b018c08520bbf3e7ceb8234e90cb155be6c2cea1486bf450cf18adc700ce14ce"
+    },
+    {
+      "path": "originals/lzh-Hant/824a898f-0143-4815-ace2-6c3bd76899b5/edition-1.md",
+      "sha256": "acc6708016f794a3a80200fdf544731052c7198a3533254cc32a699e2cc88075"
+    },
+    {
+      "path": "originals/lzh-Hant/82958e9c-59e0-4a71-9510-9f6aadc6cc63/edition-1.md",
+      "sha256": "1b4054d4fe523c11f4801f8e98a65984875fdb52c7b82ca22956f1121e5fef82"
+    },
+    {
+      "path": "originals/lzh-Hant/83e3d5d2-47de-4d18-aac4-c82f96e9e6ee/edition-1.md",
+      "sha256": "31d57845fd4306fa46c59e9e192bc583c1786e0fa1367835518f60f1af929680"
+    },
+    {
+      "path": "originals/lzh-Hant/84daac75-5e7d-4ff7-bcba-b8d6161d19f6/edition-1.md",
+      "sha256": "81d05158a69169aac66e984525beea28853ecf1d9ab8d2493090a61d2ed60859"
+    },
+    {
+      "path": "originals/lzh-Hant/8585063f-9ec2-4b7b-b71d-5e1f49f19e67/edition-1.md",
+      "sha256": "1952cda554f0dd78b6c2d1db0245496a58cf7815312853979b11d05295793254"
+    },
+    {
+      "path": "originals/lzh-Hant/8a75938e-4f3f-4c3b-a3e2-d88954723fe1/edition-1.md",
+      "sha256": "f3c77450114b78a2971c6293141c5a96f51ade5d205509ce391213b4c583bab5"
+    },
+    {
+      "path": "originals/lzh-Hant/8af472ca-cf9b-46ff-a294-1ce344e4adc7/edition-1.md",
+      "sha256": "be4f59819b1ec696e47e5c48f28cca82bb114b45ae5658c32cede576253657d8"
+    },
+    {
+      "path": "originals/lzh-Hant/8ba5cd3c-bab8-431d-b9f0-b63bf9a1c192/edition-1.md",
+      "sha256": "f41eecfc3be12ea0928fa5859eac45ceea196c9646d72a091430921a7f4a7565"
+    },
+    {
+      "path": "originals/lzh-Hant/8be03165-9037-42cf-8ad2-484fee149773/edition-1.md",
+      "sha256": "49535d19a2f8674b1208f1b49746821c9e20f171623cfd6a9ede3679104d77e8"
+    },
+    {
+      "path": "originals/lzh-Hant/8c22ae29-8fbf-4cbd-a366-205a9770b108/edition-1.md",
+      "sha256": "2c0e607268637ac3a80f7a0167d2b077db6cac22981f07b03e31d456012b3ef4"
+    },
+    {
+      "path": "originals/lzh-Hant/8d16da97-cdb3-4ddb-9123-8b1eba68eb4e/edition-1.md",
+      "sha256": "d74623a7666d9e1bfd4e90ec2fa4aa0b5832d8b3e470b86c1739aaac00a4fec9"
+    },
+    {
+      "path": "originals/lzh-Hant/8d503267-cbdc-4ff5-b8d6-bbedb2a442ef/edition-1.md",
+      "sha256": "b2bd990e9369fb8297415cc8a99e58a48d75ef0e04909332ebc322740b0e7d67"
+    },
+    {
+      "path": "originals/lzh-Hant/91271cf4-db8e-49ee-b796-f5f1810c9770/edition-1.md",
+      "sha256": "fb1cbc6eaa2a697ebddb19a5c9e01f6383f07cd78441fe2ca09f0fdc22b981a5"
+    },
+    {
+      "path": "originals/lzh-Hant/914ad59f-24d8-4c61-ba5b-9ba7abab23a5/edition-1.md",
+      "sha256": "07f6618b52eade06b039a5e7f96e2c1d4a33067ed0f737f6af76d6c833d835df"
+    },
+    {
+      "path": "originals/lzh-Hant/9226719e-c05d-48d7-a583-2c67b8a5741e/edition-1.md",
+      "sha256": "3f8f53341d799cb59f58ae93097cf2feecd9ad6efd9214e55c90b3d755019895"
+    },
+    {
+      "path": "originals/lzh-Hant/92abe0a4-13b5-4812-a59f-b0ea2b93df66/edition-1.md",
+      "sha256": "10773a2d90de758a3e6b46cb22c7ddffdba0d984728ba75677a20c180ce445e5"
+    },
+    {
+      "path": "originals/lzh-Hant/944c90e6-2cf4-4aed-8d26-54ea2fdd8a77/edition-1.md",
+      "sha256": "63d0bb629fd9e933a9cd26d1868c289868ea68ca51c2ff1e4f6659e305369f43"
+    },
+    {
+      "path": "originals/lzh-Hant/946e1fb7-39fd-4e25-9019-51a35401ee35/edition-1.md",
+      "sha256": "e2a581872b4d22049cc25bb8471001df02e8d137a411b9219f3e2b4964e103cc"
+    },
+    {
+      "path": "originals/lzh-Hant/94d35db5-9e81-41ea-b1a6-d1abfc2527df/edition-1.md",
+      "sha256": "93d3d1cc4b5671bf0fd59b266ea4d3276fb6e8fe382a670ef3e9480985fe4a54"
+    },
+    {
+      "path": "originals/lzh-Hant/9649360b-7ac0-48a7-9997-f9268614e828/edition-1.md",
+      "sha256": "23d47ac69713682b83e23c610ee29f65376735066b31ca9e05f1cd4cbb73ea16"
+    },
+    {
+      "path": "originals/lzh-Hant/9695101e-10da-47f3-b867-0b3e2f42150d/edition-1.md",
+      "sha256": "cbfbfa5b70351857131e827e731ed7f9b66abdb63a36cb8158e7fe4f01294e0b"
+    },
+    {
+      "path": "originals/lzh-Hant/96b69a6e-e9c1-4c59-bf41-fe5d324556b7/edition-1.md",
+      "sha256": "e09fd5750ca45509531c99e5e92e1d6c27e8e13564609020ac53f0e0ee059074"
+    },
+    {
+      "path": "originals/lzh-Hant/9705191e-d01c-4f42-b0e3-a07d52de0875/edition-1.md",
+      "sha256": "240b3d6808539356f4dd0e05c1a5a92e664f0b7fce804e014a92e4b015302afd"
+    },
+    {
+      "path": "originals/lzh-Hant/97c300f5-9e41-41af-bb16-394beccd7e2e/edition-1.md",
+      "sha256": "f44034e5da4ee165f604f58c3ca4da613b559b4ecd391f01571134c15c75a4b2"
+    },
+    {
+      "path": "originals/lzh-Hant/983c2c08-dffc-4181-b1f5-a0e8ffb98b1c/edition-1.md",
+      "sha256": "5f6b411dc9ecf22163395badc71685366eeb742aba572f7200402c2d1dc6f1e3"
+    },
+    {
+      "path": "originals/lzh-Hant/998691c0-15fa-43a5-ad2a-fb738a9a5a87/edition-1.md",
+      "sha256": "7dea8728509b90cc454dbaa162202abe29dbc0c226a345d41444ed52efdb6457"
+    },
+    {
+      "path": "originals/lzh-Hant/9a1bb946-f168-4044-a840-2d2b517127ee/edition-1.md",
+      "sha256": "2e0eae3b8c04cd58f361c0661f4fc16209ab315bbe6bdc5381746bb57ab74ba6"
+    },
+    {
+      "path": "originals/lzh-Hant/9ad1fa99-d9ba-4fb2-9ccc-d41aec980215/edition-1.md",
+      "sha256": "1387dba0e6e6a4582551ffd9089ebef8efe86176462ace6930dac64bfbe79197"
+    },
+    {
+      "path": "originals/lzh-Hant/9bf2836d-4c71-4a57-b1f3-9c844195d653/edition-1.md",
+      "sha256": "de2f29e871274867aebb1a45661349e183206bb88a61052e459114923a40515c"
+    },
+    {
+      "path": "originals/lzh-Hant/9ca50e33-3552-4d47-81c6-44d0afad7d8f/edition-1.md",
+      "sha256": "cd304f1049b4deaba598d8f62bec962234ad0f271bdcc4a01cf39f5e276a0e14"
+    },
+    {
+      "path": "originals/lzh-Hant/9d5f05cc-347c-438f-b072-1cf123da3890/edition-1.md",
+      "sha256": "92fdc47a8f293c5b5458319436dacf793325b1066709770333db07a10011d8e8"
+    },
+    {
+      "path": "originals/lzh-Hant/9eca9093-c407-46a0-b9e6-b508642b4a1e/edition-1.md",
+      "sha256": "1c48163658e0e2e6bc45fb882bd4cbfff7ca6afc555732ec6a080574420c2a32"
+    },
+    {
+      "path": "originals/lzh-Hant/9ed00cdc-e21c-4aef-b48d-2c66491c94e7/edition-1.md",
+      "sha256": "7996a1d6f0891cfafcd861bfb153d5da46890edecdff563f46cf7c6595b8f915"
+    },
+    {
+      "path": "originals/lzh-Hant/9f188de1-3e1f-40aa-b151-4c2b9a5d2aa5/edition-1.md",
+      "sha256": "3b6a2b8f47af43e0fbdc1b8c68f0c0b3540d1dc8aa96f787e64788bd84080c04"
+    },
+    {
+      "path": "originals/lzh-Hant/a0e90c02-cf60-4975-adac-d4f2697fafcd/edition-1.md",
+      "sha256": "bc693d8f3983372089ab5c94ce91dbfa52d88ca336b28fc7ba7b24750864655b"
+    },
+    {
+      "path": "originals/lzh-Hant/a185dbc1-f51d-412d-bb2a-2f866f3950d8/edition-1.md",
+      "sha256": "1fd1638062d4e8015d280bbbf0891e158d208755bdbd58604ecda67c959bdc1a"
+    },
+    {
+      "path": "originals/lzh-Hant/a18aa562-7660-423a-93f7-cc81c328ed55/edition-1.md",
+      "sha256": "671d746834522e3bbd205ddc7da83bf71de9da9ff1fd632d286d3dc2021af70e"
+    },
+    {
+      "path": "originals/lzh-Hant/a4012131-9012-4632-89fe-e6f572c9a0ec/edition-1.md",
+      "sha256": "75e9b7708054c8685b6d5d18021f75c5f9905f8aef8ee6fea19d6226bb3f87d4"
+    },
+    {
+      "path": "originals/lzh-Hant/a51e24db-8cdf-46bc-824b-8d2fa2ee8bc1/edition-1.md",
+      "sha256": "fcac60c966c29593a5bbc25f028912cb784cf6f9ae0b4e1a8f50fd08c476aab9"
+    },
+    {
+      "path": "originals/lzh-Hant/a6368187-b3c8-4023-946c-4a26a75c5544/edition-1.md",
+      "sha256": "22f905c6ffc93eb1fe2d5c366983c9a25f87b24c719d2968870a29fa9c9c5278"
+    },
+    {
+      "path": "originals/lzh-Hant/a7836b25-0062-4f06-b576-87e1cb721fde/edition-1.md",
+      "sha256": "d2ac4689efe54ca2e1d94eafd0fd1a8cea3d6f06e001d8a5e55c56527642ce4a"
+    },
+    {
+      "path": "originals/lzh-Hant/a78e9904-f191-4ca2-9164-c703f7c90adf/edition-1.md",
+      "sha256": "0365cc6006143bafefa37c261ed871965eb724121beb84f82a67a263550595f6"
+    },
+    {
+      "path": "originals/lzh-Hant/a87e5085-bff9-4879-a29e-6955d3bb2804/edition-1.md",
+      "sha256": "f1de8876d2ce656fbd38d88286d2648437d1849e9aba2485d2078407aa2279e2"
+    },
+    {
+      "path": "originals/lzh-Hant/aa70af4a-e4d3-4122-a16d-7c97bc53234f/edition-1.md",
+      "sha256": "15d522aa5f618f674b3300e324b7e16dd8d27866b95c1b75f8781360e9d0be77"
+    },
+    {
+      "path": "originals/lzh-Hant/ab45a862-701c-400b-bfb2-fd9896765770/edition-1.md",
+      "sha256": "ffd0632cbed96ff688b51ea17a45f17a7d07be82ff3750af695994ec267b3b94"
+    },
+    {
+      "path": "originals/lzh-Hant/ac67997b-2015-4eca-b0f3-0556ee44bc45/edition-1.md",
+      "sha256": "dc96300561fc66ee34919fe102ee1975104a8f47c077431a5adedca504efdd77"
+    },
+    {
+      "path": "originals/lzh-Hant/aef09788-9c97-4afc-957c-0dbd1ea0b58e/edition-1.md",
+      "sha256": "97f0637554e25fd2b7ea32d1062a663d2111434648af2f0f39dd9f28394b7ccc"
+    },
+    {
+      "path": "originals/lzh-Hant/afb03c90-0121-4c3b-af23-b5fe2e394cee/edition-1.md",
+      "sha256": "d86e75d6600988e47bb5bdbfa7e00c9104687642d03e309d8d27e50218fb7a82"
+    },
+    {
+      "path": "originals/lzh-Hant/b008550a-0fd6-4624-94f1-ab19ec614f49/edition-1.md",
+      "sha256": "35fddef13480eaa606f25a3d4e5aaef6205306974858937d110c6637a246c230"
+    },
+    {
+      "path": "originals/lzh-Hant/b0ef44a3-4574-4f7b-bc51-47a5ba6508b0/edition-1.md",
+      "sha256": "f17e0feb349bc1982fd3e0c703e94dfb38a381777e75f80f3944c66465dc109f"
+    },
+    {
+      "path": "originals/lzh-Hant/b1e73895-5cbe-4dbd-879d-47d565dac7b8/edition-1.md",
+      "sha256": "b80fb356d5cc9dd443ed75064ac771090fa3cb9edbc6e74d24f08b11ac4ba797"
+    },
+    {
+      "path": "originals/lzh-Hant/b2fe2165-41a1-46d6-a3c8-5852eb9fb1af/edition-1.md",
+      "sha256": "a55fc4bd52baa6cb310fef6d36d00a8661b12f93108783f37f5393fc5177a367"
+    },
+    {
+      "path": "originals/lzh-Hant/b3bae2d3-d90e-487c-8c7b-e896df236c6f/edition-1.md",
+      "sha256": "40a1580b43f7449cfeed7aa3571610c0bae9dcf377bcd04318e3d518a49c1c26"
+    },
+    {
+      "path": "originals/lzh-Hant/b4bf592c-0136-4658-9d96-a33044e02157/edition-1.md",
+      "sha256": "8e74087019cdf1734f410a0a4bc265b1855b878dead17784c5e1520067e8e792"
+    },
+    {
+      "path": "originals/lzh-Hant/b57b8229-b898-4e54-bb7f-84fefe047205/edition-1.md",
+      "sha256": "fa83a964d591d7f8509d5d5d4f13b004dc1c784c1cb2e3d5fb7bb673f085b649"
+    },
+    {
+      "path": "originals/lzh-Hant/b5dc3c52-8709-46e9-b1b0-8eb4e6fd74b0/edition-1.md",
+      "sha256": "58469eb54bd16db4380a8111f81dec20785f90bf926eac6424281e837e8268d3"
+    },
+    {
+      "path": "originals/lzh-Hant/b66be4dd-72c0-496b-afbd-a6471a81205c/edition-1.md",
+      "sha256": "e55d5cdc6ac89e556268f6f221e247d641013abe3a90300bdee3bc2e8142f80c"
+    },
+    {
+      "path": "originals/lzh-Hant/b6c93e1a-dca3-47b4-95ea-10ea7e10439a/edition-1.md",
+      "sha256": "181f6bb6cbc515724f0e8421cffad1dc29f64f7033de19e46e8c38c14bfe7e93"
+    },
+    {
+      "path": "originals/lzh-Hant/b770c5a2-2989-4eba-bbcd-9873fda7f743/edition-1.md",
+      "sha256": "9b385de9b0a2bcfb577c06c95ce73a70b0722b02028feedb650a4312e777d85c"
+    },
+    {
+      "path": "originals/lzh-Hant/b7b722c3-282f-4262-9384-b839537eca2b/edition-1.md",
+      "sha256": "c7f9da54f52c0bc1d5e55ee209c71544c5de1d639f483c8fd49b10027fee86a6"
+    },
+    {
+      "path": "originals/lzh-Hant/b7d8c26f-b103-458f-8730-e18604520035/edition-1.md",
+      "sha256": "1473b2be51a52c992de3a4d1bef13dcaebed3607c337b0f834ec29761869f762"
+    },
+    {
+      "path": "originals/lzh-Hant/b806bab5-4718-44dd-af5f-6990e48d51ea/edition-1.md",
+      "sha256": "074461ea3a42afe207e19a495b9f03168064eded2695d861a066ed2703c3b93e"
+    },
+    {
+      "path": "originals/lzh-Hant/b8bb18dd-eb83-4ee5-9cad-778759992def/edition-1.md",
+      "sha256": "be3fcdcbdb5f67593af24e56d9dd185cddaa3fd29fdc01fb0d7e4df35e31d4cc"
+    },
+    {
+      "path": "originals/lzh-Hant/ba368199-1286-4a60-89e4-2e845a8ebcc3/edition-1.md",
+      "sha256": "f6ff9bd963cb5079a9507dc6feff94587b2c023ed4313c2cbc39b14382f543d3"
+    },
+    {
+      "path": "originals/lzh-Hant/bb433c26-b0f2-41a9-8605-d7caed8c1695/edition-1.md",
+      "sha256": "530b29b32a6d48016aa55cdbaf114e0f8e08a535eceec680a19a64abcf16a6fe"
+    },
+    {
+      "path": "originals/lzh-Hant/bbf9da77-7863-4b54-a055-b94873596d6c/edition-1.md",
+      "sha256": "1b21bba4f0a2180e9401775ef1410e551ed93402af77e686af2bb533c168ba03"
+    },
+    {
+      "path": "originals/lzh-Hant/be0b76ef-b68b-4e05-8a36-6479c5369823/edition-1.md",
+      "sha256": "e9f9672cc768138dda459767ded456a4094a46b11e308245a7aca62da82644b4"
+    },
+    {
+      "path": "originals/lzh-Hant/c00fd2ad-6cc8-4b53-8fb7-05402396d09f/edition-1.md",
+      "sha256": "b59a16abbe4989f18887068e6ccf94ea8dc1f99c1b10a19fea2e0559ffd5f956"
+    },
+    {
+      "path": "originals/lzh-Hant/c055ebe0-e10c-466b-8b13-3e38660fdf0d/edition-1.md",
+      "sha256": "3e7f51b1854d72a26b3a8bb01e7699d8f9d4e5fea072d0e5ea6dd1cad16b1384"
+    },
+    {
+      "path": "originals/lzh-Hant/c0692832-5818-4714-92bc-ada753dbcb05/edition-1.md",
+      "sha256": "ccc1e5315dde13b3a902f489d11b2cb177b713ddffd3d025e19ab0b80acfde87"
+    },
+    {
+      "path": "originals/lzh-Hant/c08bd7b4-f563-4b4a-8833-e20c2a7d8a4e/edition-1.md",
+      "sha256": "a30621ce496820657f944846c0af0b2e9190977429fcbc5d1bd635e46aa4bf47"
+    },
+    {
+      "path": "originals/lzh-Hant/c0984713-a859-4eaa-b566-ee5fd3c58635/edition-1.md",
+      "sha256": "a0f92e085b9d853dba960116cb7ac1cd787a2df7e0f4f619fd5786703d89a2df"
+    },
+    {
+      "path": "originals/lzh-Hant/c12eb790-ae94-4a07-ab78-cbd90ce8de52/edition-1.md",
+      "sha256": "7d7849d67463835930ba36905bd3c2364a2cdcf8c46c9a3d7020ffdecb6168f2"
+    },
+    {
+      "path": "originals/lzh-Hant/c16ec41b-afb6-4a2b-b898-80456aa87a22/edition-1.md",
+      "sha256": "b93006a699d2dd61f6b11ce719932f7334bcdbb30714e547da468356f7afc802"
+    },
+    {
+      "path": "originals/lzh-Hant/c48c03ab-96d6-46c0-99c2-177f873f2b98/edition-1.md",
+      "sha256": "1168fc69cd00e6a6702509cf57e80d3fd0d61ecaba909e2306e3f19369243122"
+    },
+    {
+      "path": "originals/lzh-Hant/c4efb477-539e-4bc9-87be-bd4684b01d98/edition-1.md",
+      "sha256": "52ec40b4f41bd59f057bdf360c42f78a9eb141bbd95e8fbc263d6cce849cdbd2"
+    },
+    {
+      "path": "originals/lzh-Hant/c56ef015-e6c9-4c55-a9ab-bee6993528d1/edition-1.md",
+      "sha256": "866a17d75a0a09c6b6a83d6a1ac1bada740d6a7060e5fe62b025bce7f0f7e49e"
+    },
+    {
+      "path": "originals/lzh-Hant/c6dfb486-1de7-45bb-9ea6-d42b94c414f6/edition-1.md",
+      "sha256": "2eb9ac12bff7bea393e6971a8e84a9dddab4ba4c43004ecc92a3c1569caab7f4"
+    },
+    {
+      "path": "originals/lzh-Hant/c73a7e3b-d204-4e63-98a7-e35cf1d8d6b2/edition-1.md",
+      "sha256": "205f69255007a4a048ffcff99d3f0acbee7d604a6f8e349edf57e1068fb584b0"
+    },
+    {
+      "path": "originals/lzh-Hant/c84a3a47-50c1-4238-845d-4cc912030b9d/edition-1.md",
+      "sha256": "7714c9e4772b85198dd783e36bed8eac43d34330ff823dca4f333eaf0bbcc02f"
+    },
+    {
+      "path": "originals/lzh-Hant/ca499dab-4892-4750-be4d-9f6d32ed8526/edition-1.md",
+      "sha256": "4313f95d1174623cad09ff7f6726b0d6deacb057d2666118f39a5edf9ea518c5"
+    },
+    {
+      "path": "originals/lzh-Hant/ca857195-a08c-4028-8ab8-8d9810327cda/edition-1.md",
+      "sha256": "b5c37e37abc232cd95778cf449c7630f25824b6e775e9ccb043cc5a4bf131542"
+    },
+    {
+      "path": "originals/lzh-Hant/cab1ad3f-9008-4dbd-aff1-bd678ed34516/edition-1.md",
+      "sha256": "2847f5d4af5bee742274e5668017d0980e55be3cf7b5b81175206fb86c03c3ac"
+    },
+    {
+      "path": "originals/lzh-Hant/ccb74d49-e4e0-4a41-b471-a7af6196d17d/edition-1.md",
+      "sha256": "9ff860684ce2f5360d39165beb7f714bf400e19792bdf15361ab0cf708cfbeee"
+    },
+    {
+      "path": "originals/lzh-Hant/cd29131d-3968-4010-a5b7-2ed492155fa7/edition-1.md",
+      "sha256": "15c16aca548188db4f726de073778e8719121c52dc5a68c6b6f2a554452df300"
+    },
+    {
+      "path": "originals/lzh-Hant/cdb9c0f8-ff7c-4dfa-b7b0-4d3d87619313/edition-1.md",
+      "sha256": "4e4d3a66fa20548e7f91f2786f1219fe466cfd91c45496b78077a9860b9babf3"
+    },
+    {
+      "path": "originals/lzh-Hant/ce17e204-a256-46d2-9b7c-a6aff8e5b771/edition-1.md",
+      "sha256": "7f8f1e95d00189c060802f5d4d41bb1b983abdac715430dd4c6aa70d3e0bb4c2"
+    },
+    {
+      "path": "originals/lzh-Hant/d11c8fb8-bc87-4f5a-b043-d0439364846d/edition-1.md",
+      "sha256": "44ea4b515aefce266af6c61a76a9198c3ec8ebd40e51f369644548db0a7d3e13"
+    },
+    {
+      "path": "originals/lzh-Hant/d15efff7-8713-46c0-b046-37c56bfa54f5/edition-1.md",
+      "sha256": "57d13185e2d15f0a0e0c68d9883ba0da5b375b2db1bc503183bf7cda813318ae"
+    },
+    {
+      "path": "originals/lzh-Hant/d1ba650a-de2a-423e-83ab-cca6a57b0983/edition-1.md",
+      "sha256": "d228674425e68c9d5a30f0f7e87b0cebe7938af4d8a6f03baea4cc0c960eaf9a"
+    },
+    {
+      "path": "originals/lzh-Hant/d42f9e8c-1b22-4b14-900c-8f90f0197b65/edition-1.md",
+      "sha256": "e7edc667b5e03b14cb7da76237055477f6dc390bb0e654420b83b743ab2d1a77"
+    },
+    {
+      "path": "originals/lzh-Hant/d574deca-8c7a-4c41-bdff-9f8be77fb743/edition-1.md",
+      "sha256": "ba08d5f21c87fd76d462477779c679f64be0b304d68ad764f2b04a35d0a14764"
+    },
+    {
+      "path": "originals/lzh-Hant/d6e03276-701b-49b3-b185-9b670a522ddc/edition-1.md",
+      "sha256": "f5e1359d72f38575145ad4f1a77e42843cc940129a153037b5ba2028044f8cf8"
+    },
+    {
+      "path": "originals/lzh-Hant/d88b5345-66ed-4486-9c46-eab072341dcf/edition-1.md",
+      "sha256": "7cd7146cf425026048aa5f1d6f70d329db34361a12fee01f9a8abcf4caaa78bd"
+    },
+    {
+      "path": "originals/lzh-Hant/d91fd525-4cf4-48d4-9996-af9e2d26639b/edition-1.md",
+      "sha256": "3111f365c1fa650a463a86c1fa0f24cc3c2b34f6eb7a3bc20b097b46a1b853a2"
+    },
+    {
+      "path": "originals/lzh-Hant/d938bd4b-9eff-4648-8a29-269409fae08f/edition-1.md",
+      "sha256": "4b787292c1372f719e704332ab27c1c213846d6e5fb0adf18fac181e7d27b729"
+    },
+    {
+      "path": "originals/lzh-Hant/da4144de-36cf-40ec-9265-8126e4fec1b9/edition-1.md",
+      "sha256": "b642f0e4036f954c34bb7880d6e78489b60575d975e1bf2ebd19bb1fffe932dc"
+    },
+    {
+      "path": "originals/lzh-Hant/da811a83-00be-44ed-a99c-f14b834d8df7/edition-1.md",
+      "sha256": "fb98d4d77952e4b506c991a8d47a4b5b27f5683f1213d2696c1357334b14b28e"
+    },
+    {
+      "path": "originals/lzh-Hant/da8adb02-0e99-4a11-a87e-d536615c46b2/edition-1.md",
+      "sha256": "16207d5b6db466dcbc8728ae5a56aedf11ed8a1b4bef71482634591c3494906f"
+    },
+    {
+      "path": "originals/lzh-Hant/dae9a6e3-c018-4262-9659-258df1384de4/edition-1.md",
+      "sha256": "f57161f552500e442530fff6fd43ff7c275b9480fc7fad27477b4cf4d3750cb8"
+    },
+    {
+      "path": "originals/lzh-Hant/dca696b2-c9ec-4caa-9f68-032c392f878a/edition-1.md",
+      "sha256": "f4030a58af5ef8bfd998a8cb9c42794dd2caca3ea9c5931cbfdac9496f716a0f"
+    },
+    {
+      "path": "originals/lzh-Hant/de06c183-2831-4989-8081-d666ca7ae7c4/edition-1.md",
+      "sha256": "796a22a568ff13f925bbbe16587f222e94476d7ed415d89e36705c601d00ce38"
+    },
+    {
+      "path": "originals/lzh-Hant/e1892caf-9f26-4e74-9698-27b1c26c6ae5/edition-1.md",
+      "sha256": "58ca8d91aa1bcacb29003769cacb1d85536a1f8e46850e9e97785b4e32b2e87e"
+    },
+    {
+      "path": "originals/lzh-Hant/e21f1c7c-6506-46a5-ab0f-373a348fc6bc/edition-1.md",
+      "sha256": "ea8eb5f6c580881f65c384337de157a2e6faa2ea2e4412dcb9a863eb913c77e6"
+    },
+    {
+      "path": "originals/lzh-Hant/e380a1af-8fc3-461b-badd-fa4cf7eac78b/edition-1.md",
+      "sha256": "1394958dfbea81fef15a0def8ceab267053121becd7c7208f3f561d0dee5be6e"
+    },
+    {
+      "path": "originals/lzh-Hant/e55fa2ce-3e5e-4bdd-ae0e-3e1dab0deea6/edition-1.md",
+      "sha256": "c7cc377db9190bde526f550dfeeb34eed3216cfd731236fb0f92dc63851746e8"
+    },
+    {
       "path": "originals/lzh-Hant/e7f0cdff-455e-482d-921b-0ce4a65a3eea/edition-1.md",
       "sha256": "ff6bdc0c2fecb0070dbed4a80b9334d5489249fafe63c57245d31ca27c216586"
+    },
+    {
+      "path": "originals/lzh-Hant/e853c741-2ae8-4f61-bd14-58b00ac766cf/edition-1.md",
+      "sha256": "b9040c40e339cf99105ec1ef5d129e92b309c330059090839335f1351186e82a"
+    },
+    {
+      "path": "originals/lzh-Hant/ea71bc00-ff80-4398-b0f6-797ab3a88746/edition-1.md",
+      "sha256": "ff8cf147bc4e28595b8a61c4a46f56067846c4c9eb0e54a003ee60bdaa57af30"
+    },
+    {
+      "path": "originals/lzh-Hant/eaa9a3f6-bd38-41f6-8696-6c08f0dfa6ab/edition-1.md",
+      "sha256": "0014f1536e68eb865535d4c4f69bab6f61cd051abe423080a9e99ed797cfd969"
+    },
+    {
+      "path": "originals/lzh-Hant/eb60fea6-6621-4eb1-bb14-596b5f0d220f/edition-1.md",
+      "sha256": "98e9edcb600307482113c82c722f927986ff8a46935b1e69d36234d41b2fce9f"
+    },
+    {
+      "path": "originals/lzh-Hant/ec1da9c2-53c4-4070-bc58-ff1c5189eaec/edition-1.md",
+      "sha256": "0b848d350815611c5ac74c0e09a7b161c8128b95ec82275ef079b3c72aeb5c39"
+    },
+    {
+      "path": "originals/lzh-Hant/ece471b1-5b46-4442-9bc2-c167cf160580/edition-1.md",
+      "sha256": "7b0ae57dc229e721d883d815e6e3ab26e4471640a1b26a9490696d1273971fb2"
+    },
+    {
+      "path": "originals/lzh-Hant/eddaecde-1fa1-4615-b0e8-3f675a211819/edition-1.md",
+      "sha256": "423737f7382cf14e3b71f4803ba6ae6078ff576e95bbd348e6872f51521a1c82"
+    },
+    {
+      "path": "originals/lzh-Hant/eebc36de-1a0f-4d2f-ab4e-67a0aab84bef/edition-1.md",
+      "sha256": "ffd30b2210e490892219ee59d5b3d70c0667abfcafc7cdd9ce11b5a302b85cdf"
+    },
+    {
+      "path": "originals/lzh-Hant/ef143b53-fdc3-467d-91b6-fa744623d103/edition-1.md",
+      "sha256": "e53b4cb37cfa272c33e8dece7d99406aaad98c58069d190645926322afc7b3c9"
+    },
+    {
+      "path": "originals/lzh-Hant/ef169b46-d5fc-4e29-9d26-6f66fd54f6cc/edition-1.md",
+      "sha256": "5251a5460780e3fbce37696b68d973c9aa47f56bea7932298d85aa34ce181ee3"
+    },
+    {
+      "path": "originals/lzh-Hant/ef9fa3a9-4bdd-433c-a0d0-c14b64220c7b/edition-1.md",
+      "sha256": "3b73245076a6483bd2f8c25e3396023c935537fcd8efb8ffa76369d40e3fc9ce"
+    },
+    {
+      "path": "originals/lzh-Hant/efea7014-c079-471e-93be-8c45feae4439/edition-1.md",
+      "sha256": "e76ccd010f4d91c048e81dc5acc902f4b879fd0f1cb0164c4fa6b0f7d6c2b834"
+    },
+    {
+      "path": "originals/lzh-Hant/f40aef92-6aee-4b62-92df-3825d52fd691/edition-1.md",
+      "sha256": "d545257996795676fa9109a47120115665088c732e89fc3f02ae647ed36c0685"
+    },
+    {
+      "path": "originals/lzh-Hant/f438887a-ff36-4bad-ad77-9dec3cd84f17/edition-1.md",
+      "sha256": "c9ebc18753fbabf061a132a203f87b86a1c0334819a6e8325b65e206a40e374f"
+    },
+    {
+      "path": "originals/lzh-Hant/f4e7fbfe-d8c9-47f8-bf37-ea8f915a78f3/edition-1.md",
+      "sha256": "eec9d450886403f4ca6cb21f473e50ea015d8166503cccbcb646137657ef04c8"
+    },
+    {
+      "path": "originals/lzh-Hant/f5972ea6-465d-4445-bdff-431dce0f45d4/edition-1.md",
+      "sha256": "d86024577569086586fee1c8d42bfc75984035f67f8d2f78dde21603a5a889e8"
+    },
+    {
+      "path": "originals/lzh-Hant/f65e9801-394b-4fba-8f51-f8124b5192ed/edition-1.md",
+      "sha256": "569b642996aa853f38276384d481a4731a9dacdf155780226ccc7eaa8e6b706d"
+    },
+    {
+      "path": "originals/lzh-Hant/f76913ca-fb56-4ab9-bdff-5057bf661405/edition-1.md",
+      "sha256": "9df4c792c5bc6f7d63193318ab211822d71e87f4cca04457650d6a0377a601b7"
+    },
+    {
+      "path": "originals/lzh-Hant/f794c94c-221e-4338-9770-b5ecfe4c5204/edition-1.md",
+      "sha256": "df6e0edb2fdcec29ede193c93710859b23770ff121fd2e5e289163da684e3f93"
+    },
+    {
+      "path": "originals/lzh-Hant/f85d4ed0-e022-4ff9-b317-b20b79a7f21f/edition-1.md",
+      "sha256": "a5a276c1ac19156553b1ea0aadbb3e06678d470cd9dcfc2d7cd64eec07f8807d"
+    },
+    {
+      "path": "originals/lzh-Hant/f9252e7c-6f7e-4b01-a979-3bf964771df9/edition-1.md",
+      "sha256": "3ca75d5c9dd4328b22c02fa8c31850e78a8351507621902b85f2def4162b00ff"
+    },
+    {
+      "path": "originals/lzh-Hant/f98dc9b9-091b-4bc0-bda6-b2b2b86369fd/edition-1.md",
+      "sha256": "70a984dfe038c658e5b08228ec032a844ce47672bd351cc0422c2d8d24bbf4af"
+    },
+    {
+      "path": "originals/lzh-Hant/f9cbac4b-2a64-445e-b3bb-2c335ff8717d/edition-1.md",
+      "sha256": "c19ca5fb2ef3063585cdb146d264f0d101c2c4244588fd59ed43ac6ac3704c92"
+    },
+    {
+      "path": "originals/lzh-Hant/fa2223e9-76e9-4826-97ea-d74792ba27c5/edition-1.md",
+      "sha256": "57ceabf2e34ab3341e5a956116dea950bbd9548f930d25198bdeabd22334786e"
+    },
+    {
+      "path": "originals/lzh-Hant/fa67d193-9187-409b-a954-841dfa142052/edition-1.md",
+      "sha256": "7f6826d8d4601c10a8b209cc641c2dabef946320973e9abe2ac12933af4bd6a5"
+    },
+    {
+      "path": "originals/lzh-Hant/fc9ed67b-766f-4551-bd6e-549e83353b47/edition-1.md",
+      "sha256": "96358d894a125a3c76c0a995924a4143c2b50405e3f5811534d6120246fc3a4a"
+    },
+    {
+      "path": "originals/lzh-Hant/fced90b3-3d91-4fa9-90c0-0c838e4aeaf1/edition-1.md",
+      "sha256": "7a7d5cd496762931c4ec7a7e681d7b9666b90c58245db44462bffbeba77565c7"
+    },
+    {
+      "path": "originals/lzh-Hant/fd403e7d-f178-4f02-9022-0185142aeadc/edition-1.md",
+      "sha256": "6a339acea7dae06831038fa3fb08c55ffbb36e8a03278b2dbbef2bb942b35d08"
+    },
+    {
+      "path": "originals/lzh-Hant/ff025e74-d418-4349-a8a0-6a5570892ce3/edition-1.md",
+      "sha256": "00a68adc2607900b954704f416f945bd3dc3427697f109da6e0d572874752a40"
+    },
+    {
+      "path": "originals/lzh-Hant/ffb10d82-d356-4f74-b15b-e5dce000c36b/edition-1.md",
+      "sha256": "55b0989fb22693c7e73643eb5b9eab7fd15289e788cc5868e53fdd78268356ca"
+    },
+    {
+      "path": "originals/lzh/026570ff-d327-4d0f-a53d-c6a5aa871599/edition-1.md",
+      "sha256": "89fa74675687fdb2470323a6dcaa3dda010c2a4469e0c2e870e6ea23774ef62d"
+    },
+    {
+      "path": "originals/lzh/042605cc-0808-46a9-8c22-519f0b8d2893/edition-1.md",
+      "sha256": "004747b707eef3b687cd139001f0550d0f6ceba28d63683fd3fc84541d161dd5"
+    },
+    {
+      "path": "originals/lzh/04b585eb-cca0-4524-81a9-47cf0bc92f29/edition-1.md",
+      "sha256": "dfac83becdf4e762eaaa87606eefd50ce13f741f37f5d253a22a79a11e8001f3"
+    },
+    {
+      "path": "originals/lzh/09e3ebe0-3b77-4892-af3e-1f4b8e6f54a1/edition-1.md",
+      "sha256": "2285b21c6533b2e849c8c9c6377f3f67d054d856af77a1723d2027a9d3d3c640"
+    },
+    {
+      "path": "originals/lzh/0ae737c7-7770-484a-8404-35ed29c0f5ca/edition-1.md",
+      "sha256": "3969465d2ccace1b52ea1c36c25f0f74aaa5818591cab6dfbfb91842f264509f"
+    },
+    {
+      "path": "originals/lzh/0fa84d90-58f0-4f8a-bf4b-f91cbe0ba268/edition-1.md",
+      "sha256": "e10b85fb20982c16ef60bf076e1dbc2112ab80354d999f4bf4cfa8b15bc8fcd7"
+    },
+    {
+      "path": "originals/lzh/142b16b2-0aca-411e-b281-a768d3bca27f/edition-1.md",
+      "sha256": "3f4b21f826d68d091e32063c8b2e8a935d78de42cbee5ea1d66a97cbd5bf7acb"
+    },
+    {
+      "path": "originals/lzh/15331bb3-0000-445e-9725-dd5fbdeac3a4/edition-1.md",
+      "sha256": "3f6252d122a1d4defd0db298d6b1aa9acc667a0c8c5b6c735e33000cf7a47ee9"
+    },
+    {
+      "path": "originals/lzh/1b17e368-8e32-40af-a887-d157c9b9c96d/edition-1.md",
+      "sha256": "068300478f90072772ff977e65f61c247901f2c2da52874e2a10b3293831d6c1"
+    },
+    {
+      "path": "originals/lzh/1ef1abef-742e-4590-8f78-d3c3ddd542ba/edition-1.md",
+      "sha256": "50133334ab319b419d480a31e454b873e3bdf2b269df576a5f359f8b21d7ef2b"
+    },
+    {
+      "path": "originals/lzh/1f1c9808-2c6a-4d57-8557-1adc0f814b6d/edition-1.md",
+      "sha256": "ab49d674d720d74b6e898057cfafe398e365ae9470f767db4dea77d7dd3cc51b"
+    },
+    {
+      "path": "originals/lzh/28180a95-0be3-4c39-b169-d3fef6bd0bb1/edition-1.md",
+      "sha256": "5459c23cbdd93c0a989100d0ec8020b41e6be38e1eab4281dc247b7721d747bf"
+    },
+    {
+      "path": "originals/lzh/2952bc13-f784-42c5-b622-9f28c8a9f6fc/edition-1.md",
+      "sha256": "af0b33866c6bd0030ae70a7163a864d4b2b9ad4c2c084a364f6025b79af163fa"
+    },
+    {
+      "path": "originals/lzh/32c8abc0-85ab-49cd-82c7-5f5dcb98c170/edition-1.md",
+      "sha256": "41c516bdc5523f2140149d09f93da4b325368e662f746adffa152683f95b2100"
+    },
+    {
+      "path": "originals/lzh/39bcefbc-6898-4f91-b7f5-4406d96732cb/edition-1.md",
+      "sha256": "7253b4e800105abcc87412a95d25e62bec74f841330604592697a32055ecb3b6"
+    },
+    {
+      "path": "originals/lzh/3a2d0b3e-307c-4352-bd5c-ac630a238ab4/edition-1.md",
+      "sha256": "f7cc48a2af8a40ef4b7577b471c669b2d88d1438a5b53d02ed69b2e28149fa2f"
+    },
+    {
+      "path": "originals/lzh/3e54f54d-e311-4bc5-b114-3c0cc3fb25e2/edition-1.md",
+      "sha256": "adbd130c45f9bae732d3c3ff43559f6c04c0c11b8a467657087e05f4d40c0cc4"
+    },
+    {
+      "path": "originals/lzh/481e703a-c71e-4699-9acc-18039eac5976/edition-1.md",
+      "sha256": "5a9c93b1f52cad6e50bc00f419992321bd16aefa46f38c3c5c51f17925cef8b3"
+    },
+    {
+      "path": "originals/lzh/511907c3-6311-49a6-8b29-cefab9a24dc0/edition-1.md",
+      "sha256": "b7cbf11b5dacce09a1558236bec0e31ce23fdf56cea6de1b6ee8b3eac3446a70"
+    },
+    {
+      "path": "originals/lzh/574de206-6dd6-4f46-84c9-0110baed5bb3/edition-1.md",
+      "sha256": "b93d818a0240520ef8c0db92caf863298042af531249d43c26f5020d3cfa94a5"
+    },
+    {
+      "path": "originals/lzh/58f96fba-9a31-4ad8-a45f-fea961721bb4/edition-1.md",
+      "sha256": "98db3900ef28de92afca19096aa69d9f24c2e6865cf36f1c47c4f2418ff46e84"
+    },
+    {
+      "path": "originals/lzh/5a7738f6-295e-401e-a93c-efb16034bfb6/edition-1.md",
+      "sha256": "e398c433526c66d89a272a5feb9f62e219536403d4ce2f9c693f85bdc6f041bf"
+    },
+    {
+      "path": "originals/lzh/610da5a0-d2b5-41fc-bbd3-71ab7b8a0ada/edition-1.md",
+      "sha256": "869f37769399d1761dd4e8d2a702c556a6ee70ed57086c0529a47835dfe2c9d6"
+    },
+    {
+      "path": "originals/lzh/69140eb4-d5b3-498c-8731-4b813cf5bb76/edition-1.md",
+      "sha256": "b232152e4a60d4d72edcd34cd99c6b8060d0c48946abeaa8e4743e3fce9b7429"
+    },
+    {
+      "path": "originals/lzh/6950b03f-e585-4687-829a-767454272188/edition-1.md",
+      "sha256": "8b48157aab1fbc8385235114d1f6a37df79d468e5eb234cfee3afe411dabf0a8"
+    },
+    {
+      "path": "originals/lzh/6ca1b915-51a6-4ae9-882b-8715c54cddff/edition-1.md",
+      "sha256": "125cc1bb2c5d4b245c46bd4a3759d1be7d6c0c1c13d7dedba8614517e2fa7d99"
+    },
+    {
+      "path": "originals/lzh/70fc9995-3056-4296-aa9a-c98356ed03fb/edition-1.md",
+      "sha256": "5f099ea8f8e3ca41e82e1fd1096388972c7e1e1c19364d55f478c220f93c1799"
+    },
+    {
+      "path": "originals/lzh/7538656a-ac3f-4421-97b5-5a89f9233f0e/edition-1.md",
+      "sha256": "f77193930fbf9abb22d0f022a1743d5c18cb37df227c122e3aad25d850a874dd"
+    },
+    {
+      "path": "originals/lzh/760df071-33f3-442f-a4b7-3d626a9dc521/edition-1.md",
+      "sha256": "0c44f6ecf20cbe69b33c88bebf2b445dd855381868b04c57875ba1f2a1e1f44d"
+    },
+    {
+      "path": "originals/lzh/7845f4f8-3298-46cb-b819-9aa19b2b99b9/edition-1.md",
+      "sha256": "80c6e1f5724de127f8bfc8f7aab32d0a251a024a38df30be8552aab5ac258f85"
+    },
+    {
+      "path": "originals/lzh/7cc9f955-e56d-4923-92e9-e25881fa3125/edition-1.md",
+      "sha256": "0d9279573baf64cbd8808d7c4f37337952edb92fe8d6423c0a64ea4ca25408a5"
+    },
+    {
+      "path": "originals/lzh/88435666-a1d5-4eee-8eaa-451e5164cd70/edition-1.md",
+      "sha256": "9a7f4e9b2f7e88cfa0058e27c0677dc0d9adf76b4001105e382481ac4271ea12"
+    },
+    {
+      "path": "originals/lzh/951b03aa-1e56-4070-99d0-9ee32ee1b82b/edition-1.md",
+      "sha256": "f3eaf470bac0e23e339dab728f703a99952933a2d497f5b2f700d04db83fc94b"
+    },
+    {
+      "path": "originals/lzh/9b27f4af-c4ca-4196-ba17-fec202b5e050/edition-1.md",
+      "sha256": "88dc9508454487278ac91852339c915ed1d70dc61f53fd339a2cc1f94ac8bc25"
+    },
+    {
+      "path": "originals/lzh/9c48c289-101d-4bfe-8404-e84864043b7d/edition-1.md",
+      "sha256": "49c0b5ba6a238cc6eab3b0b562ebe0ad2a196c471cdeaebe06bdb0e0391137e5"
+    },
+    {
+      "path": "originals/lzh/9d3ecf9a-b127-4c60-b8cd-89936b2e6765/edition-1.md",
+      "sha256": "ac4c8ebbd82baae54ac7a07695aecb52f5abd98064f2269ebe0e68c48e159952"
+    },
+    {
+      "path": "originals/lzh/af49466f-5fe5-4e5f-bc04-8cd7e1b12c74/edition-1.md",
+      "sha256": "2abab5a76b4c15a636606a3a0e61cafa704ab6feed64adb864aeb3c488b509ec"
+    },
+    {
+      "path": "originals/lzh/af67d12c-0206-4caa-a24d-b5a96d2d64fc/edition-1.md",
+      "sha256": "6512ad55555ef59f994fe5af64c8f425f4473aedc8405d5ed7b16baccc16b890"
+    },
+    {
+      "path": "originals/lzh/b3d01b7d-76fe-4c19-8ba1-6b4f55feca96/edition-1.md",
+      "sha256": "76b6855942d0fabcef99b07f3e0e1fbc7fa2d4f6cf390a41c1878f9e1a2eed7a"
+    },
+    {
+      "path": "originals/lzh/c3b531ea-e6ea-42ab-99ed-c210029774bb/edition-1.md",
+      "sha256": "445fd26098bd3e6777a527f7bccbd9a60cdd051befa5e0e01e5944b31b2d1293"
+    },
+    {
+      "path": "originals/lzh/c77b178f-ac12-4ccf-8960-01f742b141f2/edition-1.md",
+      "sha256": "01e3b61d9ba58bf4f05980ecb1de9a366d4b8ff54c30de46eb2490346b99055a"
+    },
+    {
+      "path": "originals/lzh/caf7ead3-a5ed-410c-a3cf-f64492439b5b/edition-1.md",
+      "sha256": "a15215289b3767246095cca926caeea4239d28742d6400bca70f4227c0cc7741"
+    },
+    {
+      "path": "originals/lzh/ceeae474-e538-472b-87d0-1505e18b8699/edition-1.md",
+      "sha256": "f1782e9e0b8d7c35a614af16dce87d8caeb644de85fe2503661d97d392d4e7e8"
+    },
+    {
+      "path": "originals/lzh/db01d2bb-6aa3-4c35-baad-cef38b47e020/edition-1.md",
+      "sha256": "ef1ed5457dedf6c49e3eb186f75626603b5acd5958ac4dd6e63f320c1081d87f"
+    },
+    {
+      "path": "originals/lzh/db50d188-48c9-41d2-8a6b-537ec7ed9b38/edition-1.md",
+      "sha256": "c87acfb2db7d8ed1d64e61321590e3a92dc5699ee1bcf1b4ea066c553e3d5626"
+    },
+    {
+      "path": "originals/lzh/e93cce74-cb77-4cd2-8ec2-d98094e2deb0/edition-1.md",
+      "sha256": "a4a96a0bf62ec65c71504ba1c94e91c440c58203d5fee644a9da88cb63d4e76f"
+    },
+    {
+      "path": "originals/lzh/ea3e44d5-5ee5-4636-91c9-ddfd414c1774/edition-1.md",
+      "sha256": "243d002435c9abb1c5997c00c5ddee942a1e71301efee79f6c008105a04ffef7"
+    },
+    {
+      "path": "originals/lzh/ea7208d7-dd36-43b5-b7ca-3d956e144933/edition-1.md",
+      "sha256": "8dc5cb3f42d65386a6bce0cb5cf156828dfe6d6881f07581a5291b3cb74a0ba5"
+    },
+    {
+      "path": "originals/lzh/ef9b8b80-89fb-49cd-acbb-2f5aa503e89c/edition-1.md",
+      "sha256": "b18c84611d46fae7e4b50a6b9c06afad9863ac198d6ed407602606df695a10a6"
+    },
+    {
+      "path": "originals/lzh/f3d06b17-091e-4915-93b9-68d91db898c4/edition-1.md",
+      "sha256": "91d1130bf2d86cd3597efb888b20ae44bf338d11ee472cd91cb6c9579fbef9f1"
+    },
+    {
+      "path": "originals/lzh/f51d8a3f-b336-483b-a5d5-0b0cc25d73ab/edition-1.md",
+      "sha256": "d6c22ba7bac916cba10493614af1689ef5e1ea60d9837aee4fa34bdc261169cf"
+    },
+    {
+      "path": "originals/lzh/f664634e-78ec-4fa2-a57f-315a93bb2e01/edition-1.md",
+      "sha256": "bd10f4bdca86b48d8d0ad163cfe0a975a35648a7338118f0548f7eef28d08127"
+    },
+    {
+      "path": "originals/lzh/f9d681e7-5929-4c27-997c-e5c8efe0a7e3/edition-1.md",
+      "sha256": "bfe7df95e11ec23d3854eb0df73747c437bab24331b471bf9789e747e29f5e14"
+    },
+    {
+      "path": "originals/lzh/fcfd37c9-c809-4ece-8e58-af55b97fd78d/edition-1.md",
+      "sha256": "7bb2ddebbeb8f69de43e28d48ee52081e99e7aa924fa0936d3bf41f012546e0e"
     },
     {
       "path": "taxonomy/moods.json",

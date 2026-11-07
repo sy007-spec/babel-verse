@@ -1,0 +1,25 @@
+---
+citation: "用户提供目录第270首；维基文库《宋詞三百首》固定修订12723602。"
+id: "eaa9a3f6-bd38-41f6-8696-6c08f0dfa6ab"
+kind: "original"
+language: "lzh-Hant"
+poet: "刘辰翁"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "兰陵王·送春去"
+---
+
+送春去，春去人間無路。
+秋千外、芳草連天，誰遣風沙暗南浦。
+依依甚意緒？
+漫憶海門飛絮。
+亂鴉過、斗轉城荒，不見來時試燈處。
+春去誰最苦？
+但箭雁沉邊，梁燕無主，杜鵑聲裏長門暮。
+想玉樹凋土，淚盤如露。
+咸陽送客屢回顧，斜日未能度。
+春去尚來否？
+正江令恨別，庾信愁賦，蘇堤盡日風和雨。
+嘆神游故國，花記前度。
+人生流落，顧孺子，共夜語。

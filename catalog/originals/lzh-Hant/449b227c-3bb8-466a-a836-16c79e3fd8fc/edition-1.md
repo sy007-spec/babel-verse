@@ -1,0 +1,20 @@
+---
+citation: "用户提供目录第133首；维基文库《宋詞三百首》固定修订12723602。"
+id: "449b227c-3bb8-466a-a836-16c79e3fd8fc"
+kind: "original"
+language: "lzh-Hant"
+poet: "周邦彦"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "瑞鹤仙·悄郊原带郭"
+---
+
+悄郊原帶郭，行路永、客去車塵漠漠。
+斜陽映山落，斂餘紅猶戀，孤城欄角。
+凌波步弱，過短亭、何用素約。
+有流鶯勸我，重解繡鞍，緩引春酌。
+不記歸時早暮，上馬誰扶，醒眠朱閣。
+驚飆動幕，扶殘醉、繞紅藥。
+嘆西園已是，花深無地，東風何事又惡？
+任流光過卻，猶喜洞天自樂。

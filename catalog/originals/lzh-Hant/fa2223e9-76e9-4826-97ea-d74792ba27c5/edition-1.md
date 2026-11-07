@@ -1,0 +1,18 @@
+---
+citation: "用户提供目录第110首；维基文库《宋詞三百首》固定修订12723602。"
+id: "fa2223e9-76e9-4826-97ea-d74792ba27c5"
+kind: "original"
+language: "lzh-Hant"
+poet: "李元膺"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "洞仙歌·雪云散尽"
+---
+
+雪雲散盡，放曉晴庭院。
+楊柳于人便青眼。
+更風流多處，一點梅心，相映遠，約略顰輕笑淺。
+一年春好處，不在濃芳，小艷疏香最嬌軟。
+到清明時候，百紫千紅花正亂，已失春風一半。
+早占取、韶光共追游，但莫管春寒，醉紅自暖。

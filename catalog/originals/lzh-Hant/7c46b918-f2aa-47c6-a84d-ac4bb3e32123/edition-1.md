@@ -1,0 +1,20 @@
+---
+citation: "用户提供目录第285首；维基文库《宋詞三百首》固定修订12723602。"
+id: "7c46b918-f2aa-47c6-a84d-ac4bb3e32123"
+kind: "original"
+language: "lzh-Hant"
+poet: "王沂孙"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "天香·孤峤蟠烟"
+---
+
+孤嶠蟠煙，層濤蛻月，驪宮夜采鉛水。
+汛遠槎風，夢深薇露，化作斷魂心字。
+紅磁候火，還乍識、冰環玉指。
+一縷縈簾翠影，依稀海天雲氣。
+幾回殢嬌半醉，翦春燈、夜寒花碎。
+更好故溪飛雪，小窗深閉。
+荀令如今頓老，總忘卻樽前舊風味。
+漫惜餘薰，空篝素被。

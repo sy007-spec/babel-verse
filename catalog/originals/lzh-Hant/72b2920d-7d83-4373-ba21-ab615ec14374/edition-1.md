@@ -1,0 +1,20 @@
+---
+citation: "用户提供目录第130首；维基文库《宋詞三百首》固定修订12723602。"
+id: "72b2920d-7d83-4373-ba21-ab615ec14374"
+kind: "original"
+language: "lzh-Hant"
+poet: "周邦彦"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "绮寮怨·上马人扶残醉"
+---
+
+上馬人扶殘醉，曉風吹未醒。
+映水曲、翠瓦朱檐，垂楊裏、乍見津亭。
+當時曾題敗壁，蛛絲罩、淡墨苔暈青。
+念去來、歲月如流，徘徊久、嘆息愁思盈。
+去去倦尋路程，江陵舊事，何曾再問楊瓊。
+舊曲淒清，斂愁黛、與誰聽？
+樽前故人如在，想念我、最關情。
+何須渭城，歌聲未盡處，先淚零。

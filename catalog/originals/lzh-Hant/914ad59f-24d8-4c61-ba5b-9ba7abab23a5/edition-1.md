@@ -1,0 +1,20 @@
+---
+citation: "用户提供目录第176首；维基文库《宋詞三百首》固定修订12723602。"
+id: "914ad59f-24d8-4c61-ba5b-9ba7abab23a5"
+kind: "original"
+language: "lzh-Hant"
+poet: "程垓"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "水龙吟·夜来风雨匆匆"
+---
+
+夜來風雨匆匆，故園定是花無幾。
+愁多怨極，等閑孤負，一年芳意。
+柳困桃慵，杏青梅小，對人容易。
+算好春長在，好花長見，原只是、人憔悴。
+回首池南舊事，恨星星、不堪重記。
+如今但有，看花老眼，傷時清淚。
+不怕逢花瘦，只愁怕、老來風味。
+待繁紅亂處，留雲借月，也須拚醉。

@@ -1,0 +1,20 @@
+---
+citation: "用户提供目录第298首；维基文库《宋詞三百首》固定修订12723602。"
+id: "9ca50e33-3552-4d47-81c6-44d0afad7d8f"
+kind: "original"
+language: "lzh-Hant"
+poet: "李清照"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "念奴娇·萧条庭院"
+---
+
+蕭條庭院，有斜風細雨，重門須閉。
+寵柳嬌花寒食近，種種惱人天氣。
+險韻詩成，扶頭酒醒，別是閑滋味。
+征鴻過盡，萬千心事難寄。
+樓上幾日春寒，簾垂四面，玉闌干慵倚。
+被冷香消新夢覺，不許愁人不起。
+清露晨流，新桐初引，多少游春意。
+日高煙斂，更看今日晴未。

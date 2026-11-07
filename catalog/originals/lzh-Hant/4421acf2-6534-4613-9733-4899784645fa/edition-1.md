@@ -1,0 +1,20 @@
+---
+citation: "用户提供目录第272首；维基文库《宋詞三百首》固定修订12723602。"
+id: "4421acf2-6534-4613-9733-4899784645fa"
+kind: "original"
+language: "lzh-Hant"
+poet: "刘辰翁"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "永遇乐·璧月初晴"
+---
+
+璧月初晴，黛雲遠淡，春事誰主？
+禁苑嬌寒，湖堤倦暖，前度遽如許。
+香塵暗陌，華燈明晝，長是懶攜手去。
+誰知道斷煙禁夜，滿城似愁風雨。
+宣和舊日，臨安南渡，芳景猶自如故。
+緗帙離離，風鬟三五，能賦詞最苦。
+江南無路，鄜州今夜，此苦又誰知否？
+空相對殘釭無寐，滿村社鼓。

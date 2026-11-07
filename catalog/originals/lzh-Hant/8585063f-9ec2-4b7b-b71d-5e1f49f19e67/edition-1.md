@@ -1,0 +1,21 @@
+---
+citation: "用户提供目录第149首；维基文库《宋詞三百首》固定修订12723602。"
+id: "8585063f-9ec2-4b7b-b71d-5e1f49f19e67"
+kind: "original"
+language: "lzh-Hant"
+poet: "张元幹"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "石州慢·寒水依痕"
+---
+
+寒水依痕，春意漸回，沙際煙闊。
+溪梅晴照生香，冷蕊數枝爭發。
+天涯舊恨，試看幾許消魂？
+長亭門外山重疊。
+不盡眼中青，是愁來時節。
+情切，畫樓深閉，想見東風，暗消肌雪。
+孤負枕前雲雨，尊前花月。
+心期切處，更有多少淒涼，殷勤留與歸時說。
+到得再相逢，恰經年離別。

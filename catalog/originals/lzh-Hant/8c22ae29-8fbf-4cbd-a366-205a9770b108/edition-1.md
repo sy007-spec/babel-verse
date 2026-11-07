@@ -1,0 +1,20 @@
+---
+citation: "用户提供目录第128首；维基文库《宋詞三百首》固定修订12723602。"
+id: "8c22ae29-8fbf-4cbd-a366-205a9770b108"
+kind: "original"
+language: "lzh-Hant"
+poet: "周邦彦"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "拜星月慢·夜色催更"
+---
+
+夜色催更，清塵收露，小曲幽坊月暗。
+竹檻燈窗，識秋娘庭院。
+笑相遇，似覺瓊枝玉樹相倚，暖日明霞光爛。
+水盼蘭情，總平生稀見。
+畫圖中，舊識春風面，誰知道、自到瑤臺畔。
+眷戀雨潤雲溫，苦驚風吹散。
+念荒寒、寄宿無人館，重門閉，敗壁秋蟲嘆。
+怎奈向、一縷相思，隔溪山不斷。

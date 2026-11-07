@@ -1,0 +1,16 @@
+---
+citation: "用户提供目录第025首；维基文库《宋詞三百首》固定修订12723602。"
+id: "3cba2416-db30-4512-8e0d-a76e857f6b56"
+kind: "original"
+language: "lzh-Hant"
+poet: "宋祁"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "木兰花·东城渐觉风光好"
+---
+
+東城漸覺風光好，縠皺波紋迎客棹。
+綠楊煙外曉雲輕，紅杏枝頭春意鬧。
+浮生長恨歡娛少，肯愛千金輕一笑？
+為君持酒勸斜陽，且向花間留晚照。

@@ -1,0 +1,21 @@
+---
+citation: "用户提供目录第212首；维基文库《宋詞三百首》固定修订12723602。"
+id: "946e1fb7-39fd-4e25-9019-51a35401ee35"
+kind: "original"
+language: "lzh-Hant"
+poet: "姜夔"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "暗香·旧时月色"
+---
+
+舊時月色，算幾番照我，梅邊吹笛？
+喚起玉人，不管清寒與攀摘。
+何遜而今漸老，都忘卻春風詞筆。
+但怪得竹外疏花，香冷入瑤席。
+江國，正寂寂，嘆寄與路遙，夜雪初積。
+翠尊易泣。
+紅萼無言耿相憶。
+長記曾攜手處，千樹壓、西湖寒碧。
+又片片、吹盡也，幾時見得？

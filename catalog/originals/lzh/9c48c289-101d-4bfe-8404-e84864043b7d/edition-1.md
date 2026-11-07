@@ -1,0 +1,21 @@
+---
+citation: "用户提供目录第217首；维基文库《宋詞三百首》固定修订12723602。"
+id: "9c48c289-101d-4bfe-8404-e84864043b7d"
+kind: "original"
+language: "lzh"
+poet: "姜夔"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "霓裳中序第一·亭皋正望极"
+---
+
+亭皋正望極，亂落江蓮歸未得。
+多病卻無氣力，況紈扇漸疏，羅衣初索。
+流光過隙，嘆杏梁、雙燕如客。
+人何在？
+一簾淡月，仿佛照顏色。
+幽寂，亂蛩吟壁，動庾信、清愁似織。
+沉思年少浪跡，笛裏關山，柳下坊陌。
+墜紅無信息，漫暗水、涓涓溜碧。
+飄零久、而今何意，醉臥酒壚側。

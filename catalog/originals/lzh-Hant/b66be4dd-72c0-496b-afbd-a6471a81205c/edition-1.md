@@ -1,0 +1,19 @@
+---
+citation: "用户提供目录第111首；维基文库《宋詞三百首》固定修订12723602。"
+id: "b66be4dd-72c0-496b-afbd-a6471a81205c"
+kind: "original"
+language: "lzh-Hant"
+poet: "时彦"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "青门饮·胡马嘶风"
+---
+
+胡馬嘶風，漢旗翻雪，彤雲又吐，一竿殘照。
+古木連空，亂山無數，行盡暮沙衰草。
+星斗橫幽館，夜無眠燈花空老。
+霧濃香鴨，冰凝淚燭，霜天難曉。
+長記小妝才了，一杯未盡，離懷多少。
+醉裏秋波，夢中朝雨，都是醒時煩惱，料有牽情處，忍思量耳邊曾道。
+甚時躍馬歸來，認得迎門輕笑。

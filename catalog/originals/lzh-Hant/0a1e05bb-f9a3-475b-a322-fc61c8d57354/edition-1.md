@@ -1,0 +1,20 @@
+---
+citation: "用户提供目录第251首；维基文库《宋詞三百首》固定修订12723602。"
+id: "0a1e05bb-f9a3-475b-a322-fc61c8d57354"
+kind: "original"
+language: "lzh-Hant"
+poet: "吴文英"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "澡兰香·盘丝系腕"
+---
+
+盤絲繫腕，巧篆垂簪，玉隱紺紗睡覺。
+銀瓶露井，彩箑雲窗，往事少年依約。
+為當時曾寫榴裙，傷心紅綃褪萼。
+黍夢光陰，漸老汀洲煙蒻。
+莫唱江南古調，怨抑難招，楚江沉魄。
+薰風燕乳，暗雨槐黃，午鏡澡蘭簾幕。
+念秦樓、也擬人歸，應翦菖蒲自酌。
+但悵望一縷新蟾，隨人天角。

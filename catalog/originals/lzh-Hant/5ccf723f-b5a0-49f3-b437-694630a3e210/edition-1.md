@@ -1,0 +1,21 @@
+---
+citation: "用户提供目录第226首；维基文库《宋詞三百首》固定修订12723602。"
+id: "5ccf723f-b5a0-49f3-b437-694630a3e210"
+kind: "original"
+language: "lzh-Hant"
+poet: "史达祖"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "东风第一枝·巧沁兰心"
+---
+
+巧沁蘭心，偷黏草甲，東風欲障新暖。
+漫疑碧瓦難留，信知暮寒猶淺。
+行天入鏡，做弄出、輕松纖軟。
+料故園、不卷重簾，誤了乍來雙燕。
+青未了、柳回白眼。
+紅欲斷、杏開素面。
+舊游憶著山陰，後盟遂妨上苑。
+寒爐重熨，便放漫春衫針線。
+怕鳳靴挑菜歸來，萬一灞橋相見。

@@ -1,0 +1,20 @@
+---
+citation: "用户提供目录第171首；维基文库《宋詞三百首》固定修订12723602。"
+id: "2d3d5a86-d781-4f4e-9d7c-be419f117dcc"
+kind: "original"
+language: "lzh-Hant"
+poet: "吕滨老"
+rights: "public-domain"
+source_url: "https://zh.wikisource.org/w/index.php?title=宋詞三百首&oldid=12723602"
+status: "published"
+title: "薄幸·青楼春晚"
+---
+
+青樓春晚，晝寂寂、梳勻又懶。
+乍聽得、鴉啼鶯哢，惹起新愁無限。
+記年時、偷擲春心，花前隔霧遙相見。
+便角枕題詩，寶釵貰酒，共醉青苔深院。
+怎忘得、回廊下，攜手處、花明月滿。
+如今但暮雨，蜂愁蝶恨，小窗閑對芭蕉展，卻誰拘管？
+盡無言閑品秦箏，淚滿參差雁。
+腰肢漸小，心與楊花共遠。
