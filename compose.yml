@@ -1,0 +1,55 @@
+name: babelverse
+services:
+  db:
+    image: postgres:17-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: babelverse
+      POSTGRES_DB: babelverse
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?required}
+    volumes: ["db:/var/lib/postgresql/data"]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U babelverse"]
+      interval: 5s
+      timeout: 3s
+      retries: 15
+    networks: [private]
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    command: ["redis-server", "--appendonly", "yes", "--maxmemory", "128mb", "--maxmemory-policy", "noeviction"]
+    volumes: ["redis:/data"]
+    networks: [private]
+  web:
+    build: {context: ., target: runtime}
+    restart: unless-stopped
+    env_file: runtime/web.env
+    ports: ["127.0.0.1:58120:3000"]
+    read_only: true
+    tmpfs: ["/tmp", "/app/.next/cache"]
+    cap_drop: [ALL]
+    security_opt: ["no-new-privileges:true"]
+    depends_on:
+      db: {condition: service_healthy}
+      redis: {condition: service_started}
+    volumes: ["./runtime/geoip:/geoip:ro"]
+    networks: [private, egress]
+  worker:
+    build: {context: ., target: worker}
+    restart: unless-stopped
+    env_file: runtime/worker.env
+    read_only: true
+    tmpfs: ["/tmp"]
+    cap_drop: [ALL]
+    security_opt: ["no-new-privileges:true"]
+    depends_on:
+      db: {condition: service_healthy}
+      redis: {condition: service_started}
+    volumes: ["./runtime/export:/export", "./runtime/evidence:/evidence:ro"]
+    networks: [private, egress]
+networks:
+  private: {internal: true}
+  egress: {}
+volumes:
+  db: {}
+  redis: {}

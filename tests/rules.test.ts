@@ -1,0 +1,12 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {checkRevision,changeRatio,fingerprint,safeLanguage} from '../lib/rules';
+import {disposition} from '../lib/moderation';
+import {markdown,translationPath} from '../lib/export';
+test('cumulative replacement cannot bypass 30% with small revisions',()=>{assert.equal(checkRevision('abcdefghij','xxxdefghij','xxxyefghij'),false);assert.equal(checkRevision('abcdefghij','abcdefghij','xxxdefghij'),true)});
+test('deletions and additions count; Unicode graphemes are stable',()=>{assert.equal(changeRatio('abcdefghij','abcdef'),1);assert.equal(changeRatio('é','e\u0301'),0);assert.equal(changeRatio('你好世界','你好世界！'),.25)});
+test('punctuation and whitespace duplicates normalize',()=>{assert.equal(fingerprint('床前明月光，\n疑是地上霜。'),fingerprint('床前明月光疑是地上霜'));assert.notEqual(fingerprint('床前明月光'),fingerprint('床前明月光疑是地上霜'))});
+test('work publication fails closed without evidence or full text',()=>{const good={action:'allow',reason:'ok',complete:true,traceable:true,appropriate:true};assert.equal(disposition('work',good,false),'review');assert.equal(disposition('work',{...good,complete:false},true),'review');assert.equal(disposition('work',good,true),'published');assert.throws(()=>disposition('work',{action:'allow'},true))});
+test('unreasonable mood remains private pending review',()=>assert.equal(disposition('tag',{action:'allow',reason:'ok',complete:true,traceable:true,appropriate:false},true),'review'));
+test('export paths reject traversal and canonicalize language',()=>{assert.throws(()=>translationPath('en','../secret','x','v1'));assert.equal(safeLanguage('zh-hans'),'zh-Hans');assert.throws(()=>safeLanguage('../../'))});
+test('export escapes executable HTML and structured frontmatter',()=>{const md=markdown({title:'a\n---\nx: private'},'<script>alert(1)</script>');assert.ok(!md.includes('<script>'));assert.ok(md.includes('a\\n---\\nx: private'))});
