@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "path": "indexes/lzh-Hant/index.md",
+      "sha256": "15c01c7bd61e87b5560dea1a6b4298fda3afd2cfcb493f52c8ee288b65b4d0d5"
+    },
+    {
+      "path": "originals/lzh-Hant/0f3ac479-62b4-4606-9568-ed153f9e40b1/edition-1.md",
+      "sha256": "c77385a45df34e3ce2f507f2fb86ed11768469e15dfae572c6da87e6fd595b42"
+    },
+    {
+      "path": "originals/lzh-Hant/4dd62f52-ff58-4700-bf1b-375da34895b3/edition-1.md",
+      "sha256": "31803f87153b65543810ee053bb878f2566c88f0e2bd44439d5753a2a7034a73"
+    },
+    {
+      "path": "originals/lzh-Hant/e7f0cdff-455e-482d-921b-0ce4a65a3eea/edition-1.md",
+      "sha256": "ff6bdc0c2fecb0070dbed4a80b9334d5489249fafe63c57245d31ca27c216586"
+    },
+    {
+      "path": "taxonomy/moods.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    }
+  ]
+}
