@@ -10,18 +10,18 @@ export async function settlePayment(id:string,trade:string){const c=await db.con
  else{const w=workDraft.parse(o.draft),wid=randomUUID();await c.query("INSERT INTO works(id,author_id,title,poet,language,body,fingerprint,source_url,citation,rights,period,genre,search_text) VALUES($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13)",[wid,o.author_id,w.title,w.poet,safeLanguage(w.language),w.body,o.fingerprint,w.source_url,w.citation,w.rights,w.period,w.genre,normalizeSearch(w.title+' '+w.poet+' '+w.body)]);await c.query("INSERT INTO jobs(id,kind,target) VALUES($1,'work',$2)",[randomUUID(),wid]);await c.query("UPDATE payment_orders SET state='paid',trade_no=$2,work_id=$3,paid_at=now() WHERE id=$1",[id,trade,wid]);}
  await c.query("INSERT INTO audit(actor,action,target,reason) VALUES('alipay','payment-settled',$1,'Verified CNY 0.10')",[id]);await c.query('COMMIT');
  }catch(e){await c.query('ROLLBACK');throw e;}finally{c.release();}}
-export async function reconcileOrder(id:string){const {config}=alipay();const o=(await db.query('SELECT * FROM payment_orders WHERE id=$1',[id])).rows[0];if(!o||o.app_id!==config.appId||o.seller_id!==config.sellerId)return;
+export async function reconcileOrder(id:string,provider?:{config:{appId:string,sellerId:string},call:typeof paymentCall}){const {config,call}=provider||{config:alipay().config,call:paymentCall};const o=(await db.query('SELECT * FROM payment_orders WHERE id=$1',[id])).rows[0];if(!o||o.app_id!==config.appId||o.seller_id!==config.sellerId)return;
  await db.query('UPDATE payment_orders SET checked_at=now() WHERE id=$1',[id]);
  if(o.state==='created'){
-  const r=await paymentCall('alipay.trade.query',{outTradeNo:id});
+  const r=await call('alipay.trade.query',{outTradeNo:id});
   if(r.code==='10000'){
    if(r.outTradeNo!==id||amountInCents(r.totalAmount)!==10)throw Error('ORDER_MISMATCH');
    if(['TRADE_SUCCESS','TRADE_FINISHED'].includes(r.tradeStatus)){if(!/^\d{10,64}$/.test(r.tradeNo))throw Error('TRADE_INVALID');await settlePayment(id,r.tradeNo);}
    else if(r.tradeStatus==='TRADE_CLOSED')await db.query("UPDATE payment_orders SET state='closed' WHERE id=$1 AND state='created'",[id]);
-   else if(Date.now()-new Date(o.created_at).getTime()>3600000){const closed=await paymentCall('alipay.trade.close',{outTradeNo:id});if(closed.code==='10000')await db.query("UPDATE payment_orders SET state='closed' WHERE id=$1 AND state='created'",[id]);}
+   else if(Date.now()-new Date(o.created_at).getTime()>3600000){const closed=await call('alipay.trade.close',{outTradeNo:id});if(closed.code==='10000')await db.query("UPDATE payment_orders SET state='closed' WHERE id=$1 AND state='created'",[id]);}
   }
  }else if(o.state==='refund_pending'){
-  const r=await paymentCall('alipay.trade.refund',{outTradeNo:id,tradeNo:o.trade_no,refundAmount:'0.10',outRequestNo:'refund_'+id,refundReason:'Poem submission not accepted'});
+  const r=await call('alipay.trade.refund',{outTradeNo:id,tradeNo:o.trade_no,refundAmount:'0.10',outRequestNo:'refund_'+id,refundReason:'Poem submission not accepted'});
   if(r.code!=='10000'||r.outTradeNo!==id||r.tradeNo!==o.trade_no||amountInCents(r.refundFee)!==10)throw Error('REFUND_UNCONFIRMED');
   await db.query("UPDATE payment_orders SET state='refunded',refunded_at=now() WHERE id=$1 AND state='refund_pending'",[id]);
   await db.query("INSERT INTO audit(actor,action,target,reason) VALUES('alipay','refund-confirmed',$1,'Verified CNY 0.10 refund')",[id]);

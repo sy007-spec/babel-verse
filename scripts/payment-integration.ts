@@ -4,7 +4,7 @@ import {randomUUID} from 'node:crypto';
 import assert from 'node:assert/strict';
 const admin=new Pool({connectionString:process.env.DATABASE_URL}),name='babelverse_paytest_'+randomUUID().replaceAll('-','');
 await admin.query(`CREATE DATABASE ${name}`);const u=new URL(process.env.DATABASE_URL!);u.pathname='/'+name;process.env.DATABASE_URL=u.href;
-const {db}=await import('../lib/db'),{settlePayment}=await import('../lib/payments');
+const {db}=await import('../lib/db'),{settlePayment,reconcileOrder}=await import('../lib/payments');
 try{
  await db.query(await readFile('db/001.sql','utf8'));await db.query("INSERT INTO users(id,name) VALUES('a','A'),('b','B')");
  const draft={title:'Test classic',poet:'Test author',language:'en',body:'Full poem for transaction testing only.',source_url:'https://en.wikisource.org/wiki/Test',citation:'Test edition',rights:'public-domain',period:'Test',genre:'other'};
@@ -14,5 +14,12 @@ try{
  const second=randomUUID().replaceAll('-','');await db.query("INSERT INTO payment_orders(id,author_id,device,app_id,seller_id,draft,fingerprint) VALUES($1,'b','dev2','123','2088123',$2,'same-poem')",[second,JSON.stringify(draft)]);await settlePayment(second,'20261107555555555');assert.equal((await db.query('SELECT state FROM payment_orders WHERE id=$1',[second])).rows[0].state,'refund_pending');assert.equal((await db.query('SELECT count(*)::int AS n FROM works')).rows[0].n,1);
  await assert.rejects(db.query('UPDATE payment_orders SET amount_cents=1 WHERE id=$1',[id]));
  assert.equal((await db.query("SELECT count(*)::int AS n FROM works WHERE status='published'")).rows[0].n,0);
+ const provider={config:{appId:'123',sellerId:'2088123'},call:async(method:string,biz:Record<string,unknown>)=>({code:'10000',msg:'Success',outTradeNo:second,tradeNo:'20261107555555555',refundFee:'0.01'})};
+ await assert.rejects(reconcileOrder(second,provider));assert.equal((await db.query('SELECT state FROM payment_orders WHERE id=$1',[second])).rows[0].state,'refund_pending');
+ const requests:string[]=[];provider.call=async(method,biz)=>{assert.equal(method,'alipay.trade.refund');requests.push(String(biz.outRequestNo));return {code:'10000',msg:'Success',outTradeNo:second,tradeNo:'20261107555555555',refundFee:'0.10'}};
+ await reconcileOrder(second,provider);await reconcileOrder(second,provider);assert.equal((await db.query('SELECT state FROM payment_orders WHERE id=$1',[second])).rows[0].state,'refunded');assert.deepEqual(requests,['refund_'+second]);
+ const recovered=randomUUID().replaceAll('-','');await db.query("INSERT INTO payment_orders(id,author_id,device,app_id,seller_id,draft,fingerprint) VALUES($1,'b','dev2','123','2088123',$2,'recovered-poem')",[recovered,JSON.stringify({...draft,body:'A different full poem for recovery testing.'})]);
+ await reconcileOrder(recovered,{config:provider.config,call:async()=>({code:'10000',msg:'Success',outTradeNo:recovered,totalAmount:'0.10',tradeNo:'20261107666666666',tradeStatus:'TRADE_SUCCESS'})});assert.equal((await db.query('SELECT state FROM payment_orders WHERE id=$1',[recovered])).rows[0].state,'paid');
+ console.log('PASS: refund errors retained for retry, confirmed refund idempotent, missing notification recovered by query');
  console.log('PASS: concurrent notifications create one pending poem/job, replay is idempotent, conflicting trade rejected, duplicate poem schedules refund, fixed 10-cent amount enforced');
 }finally{await db.end();await admin.query(`DROP DATABASE ${name}`);await admin.end();}
