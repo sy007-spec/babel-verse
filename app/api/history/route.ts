@@ -1,0 +1,3 @@
+import {db} from '../../../lib/db';
+export const dynamic='force-dynamic';
+export async function GET(req:Request){const id=new URL(req.url).searchParams.get('translation');if(!id||!/^[0-9a-f-]{36}$/i.test(id))return Response.json({error:'NOT_FOUND'},{status:404});const r=await db.query(`SELECT v.id,v.body,v.created_at,count(vote.id)::int AS votes,round(avg(vote.score),2) AS score FROM versions v JOIN translations t ON t.id=v.translation_id JOIN works w ON w.id=t.work_id AND w.status='published' LEFT JOIN votes vote ON vote.version_id=v.id AND NOT vote.excluded WHERE v.translation_id=$1 AND v.status='published' GROUP BY v.id ORDER BY v.created_at DESC,v.id DESC`,[id]);return Response.json(r.rows);}
