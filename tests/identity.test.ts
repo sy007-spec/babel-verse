@@ -1,6 +1,6 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
-import {organizationMatches,isolatedSession,projectRoles,ensureVisitorGrant,VISITOR_ROLE} from '../lib/identity';
+import {organizationMatches,organizationOf,signInOrganizations,isolatedSession,projectRoles,ensureVisitorGrant,VISITOR_ROLE} from '../lib/identity';
 import {supportedLanguage} from '../lib/languages';
 test('missing or foreign organization cannot authenticate',()=>{
  assert.equal(organizationMatches({},'babelverse'),false);
@@ -32,4 +32,16 @@ test('visitor grant asks only for the visitor role in the Babelverse org',async(
  await ensureVisitorGrant({issuer:'https://id.example',org:'o1',projectId:'p1',userId:'123',token:'t',fetcher:async()=>new Response('',{status:409})});
  await assert.rejects(ensureVisitorGrant({issuer:'https://id.example',org:'o1',projectId:'p1',userId:'123',token:'t',fetcher:async()=>new Response('',{status:403})}),/GRANT_403/);
  await assert.rejects(ensureVisitorGrant({issuer:'https://id.example',org:'o1',projectId:'p1',userId:'../x',token:'t',fetcher:ok}),/USER_ID/);
+});
+test('Babelverse readers and SEII main-org accounts can both sign in; others cannot',()=>{
+ const orgs=signInOrganizations('398717321167765507',' 395379424805060611 ,bad,');
+ assert.deepEqual(orgs,['398717321167765507','395379424805060611']);
+ assert.deepEqual(signInOrganizations('1',undefined),['1']);
+ assert.equal(organizationOf({'urn:zitadel:iam:user:resourceowner:id':'395379424805060611'},orgs),'395379424805060611');
+ assert.equal(organizationOf({'urn:zitadel:iam:user:resourceowner:id':'398717321167765507'},orgs),'398717321167765507');
+ assert.equal(organizationOf({'urn:zitadel:iam:user:resourceowner:id':'999'},orgs),null);
+ assert.equal(organizationOf({},orgs),null);
+ assert.deepEqual(isolatedSession({org:'395379424805060611'},orgs),{org:'395379424805060611'});
+ assert.equal(isolatedSession({org:'999'},orgs),null);
+ assert.equal(isolatedSession({org:undefined},orgs),null);
 });

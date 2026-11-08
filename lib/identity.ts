@@ -1,7 +1,18 @@
-export function organizationMatches(claims:Record<string,unknown>,org:string|undefined){
- return !!org&&claims['urn:zitadel:iam:user:resourceowner:id']===org;
+/** Organizations whose accounts may sign in: the Babelverse Readers org (OIDC_ORG_ID, open sign-up) plus OIDC_LOGIN_ORG_IDS (e.g. SEII main org). */
+export function signInOrganizations(signupOrg:string|undefined,extra:string|undefined):string[]{
+ return [...new Set([signupOrg,...(extra||'').split(',')].map(o=>(o||'').trim()).filter(o=>/^\d{1,30}$/.test(o)))];
 }
-export function isolatedSession<T extends {org?:string}>(session:T,org:string|undefined):T|null{return org&&session.org===org?session:null;}
+export function organizationOf(claims:Record<string,unknown>,orgs:string[]):string|null{
+ const org=claims['urn:zitadel:iam:user:resourceowner:id'];
+ return typeof org==='string'&&orgs.includes(org)?org:null;
+}
+export function organizationMatches(claims:Record<string,unknown>,org:string|undefined){
+ return !!org&&organizationOf(claims,[org])===org;
+}
+export function isolatedSession<T extends {org?:string}>(session:T,orgs:string|string[]|undefined):T|null{
+ const allowed=Array.isArray(orgs)?orgs:orgs?[orgs]:[];
+ return session.org&&allowed.includes(session.org)?session:null;
+}
 
 // Every Babelverse account holds exactly this role; the site has no management features.
 export const VISITOR_ROLE='babel-verse-visitor';
