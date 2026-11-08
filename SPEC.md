@@ -14,10 +14,10 @@
 
 ## 身份与账户
 
-- 登录使用 ZITADEL 独立组织 Babelverse Readers（398717321167765507，主域 babelverse-readers.zitadel.seii.top），与 SEII 统一认证分离，登录页外观独立（纸色底、朱红主色、书页标志）。应用为该组织项目 Babelverse Readers（398717324808421379）下的 PKCE 公开客户端 Babelverse Web（398717327861940227），无客户端密钥；回调 https://babelverse.seii.top/auth/callback。
-- 授权请求以 `urn:zitadel:iam:org:id:` 限定该组织，回调校验签名中的 resourceowner；主组织及其他组织会话被拒，主组织账号不能直接登录本站。
-- 该组织开放自助注册并要求邮箱验证；其他 SEII 服务仅凭邀请码注册。组织域策略 `userLoginMustBeDomain=true`：登录名只在本组织内唯一，已有 SEII 账号的人可用同一邮箱另行注册 Babelverse 账号，两者密码与资料互不相通。
-- 每位读者只持有 babel-verse-visitor 角色：首次登录时由仅能在本组织授予角色的服务用户 babelverse-grants 授予（runtime/zitadel-grant.pat 与 web.env 的 ZITADEL_GRANT_TOKEN，0600，一年有效）。本站无网页管理功能，授予失败只记日志，会话角色仍固定为 visitor。
+- 两类账号可登录：SEII 统一账号（主组织 InnoCoworkerSaaS 395379424805060611，web.env 的 OIDC_LOGIN_ORG_IDS）与 Babelverse 读者账号（独立组织 Babelverse Readers 398717321167765507，web.env 的 OIDC_ORG_ID）。应用为 Babelverse Readers 项目（398717324808421379）下的 PKCE 公开客户端 Babelverse Web（398717327861940227），无客户端密钥；回调 https://babelverse.seii.top/auth/callback。
+- 单一入口：页头“登录”发起不限定组织的授权请求，进入 SEII 统一登录页，两类账号同一路径登录；“注册”发起以 `urn:zitadel:iam:org:id:` 限定 Babelverse Readers 且 `prompt=create` 的请求，进入 Babelverse 外观的注册页（纸色底、朱红主色、书页标志）。回调校验签名中的 resourceowner 属于上述两个组织之一，其他组织被拒，会话记录所属组织。
+- Babelverse Readers 开放自助注册并要求邮箱验证；其他 SEII 服务仅凭邀请码注册。登录名在 ZITADEL 实例内唯一（组织域策略用默认），已有 SEII 账号的人直接用原账号登录，不能用同一邮箱再注册读者账号。
+- 所有会话角色固定为 babel-verse-visitor，本站无网页管理功能。读者账号首次登录时由仅能在本组织授予角色的服务用户 babelverse-grants 授予该角色（runtime/zitadel-grant.pat 与 web.env 的 ZITADEL_GRANT_TOKEN，0600，一年有效），授予失败只记日志；SEII 账号不做授予。
 - ZITADEL 配置由 top.seii.ops/deploy/zitadel_identity_split.py 幂等维护；不得运行 runtime/configure-identity.py（会另建组织）。
 - 防刷：验证账号为主约束，设备凭证与网络风险为辅助，不采集 MAC，不宣称绝对一人一票。同设备对同译作一次评分；共享 IP 只做流控。接口鉴权、来源校验、体积检查、身份/设备/IP 及全站限流先于昂贵操作。
 
@@ -52,5 +52,5 @@
 ## 验收
 
 - 测试覆盖评分并发唯一、版本不可变、私有隔离、模型故障、重复全文、修订比例、导出保密及路径；支付签名错误、金额错误、商户不符、重复/并发通知、掉单恢复与退款重试。
-- 新读者可在 Babelverse 登录页自助注册（含与 SEII 账号同邮箱）并获 babel-verse-visitor；其他组织会话被拒；SEII 统一认证页不显示注册。
+- SEII 账号经“登录”直接登录；新读者经“注册”在 Babelverse 注册页自助注册并获 babel-verse-visitor；其他组织会话被拒；SEII 统一认证页不显示注册。
 - 上线须分别报告部署与业务集成状态；缺少凭据或真实交易证据（如一笔 0.10 元支付与退款）不得声称已接通。
