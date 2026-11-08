@@ -8,7 +8,7 @@
 
 Linux服务器需Docker Compose、Python3、Git。运行 `python3 ops.py init` 创建仅本机可读运行配置；配置值不得进入Git。然后 `python3 ops.py build`、`python3 ops.py migrate`、`python3 ops.py restart`、`python3 ops.py health`。更新先备份，检查通过后 `python3 ops.py deploy`。只对本项目生效。
 
-`runtime/web.env`配置OIDC issuer/client/org/project及ZITADEL_GRANT_TOKEN（见ACCOUNT_PAYMENT_SPEC.md 账户节），要求已验证邮箱；回调为https://babelverse.seii.top/auth/callback。`runtime/worker.env`配置HTTPS兼容Chat Completions服务与模型；缺失时不发布。GeoIP Country数据库放在runtime/geoip/country.mmdb，遵守供应商许可；不可用时以浏览器语言回退，不伪装IP识别。
+`runtime/web.env`配置OIDC issuer/client/org/project及ZITADEL_GRANT_TOKEN（见SPEC.md“身份与账户”），要求已验证邮箱；回调为https://babelverse.seii.top/auth/callback。`runtime/worker.env`配置HTTPS兼容Chat Completions服务与模型；缺失时不发布。GeoIP Country数据库放在runtime/geoip/country.mmdb，遵守供应商许可；不可用时以浏览器语言回退，不伪装IP识别。
 
 管理员通过SSH运行 `python3 ops.py review queue` 查看待收录来源；将经人工核对的出处和完整版本证据放在runtime/evidence，用 `python3 ops.py review evidence work UUID /evidence/file.txt 核验说明` 重新排队模型审核。普通译作与标签可通过 `review decide version|tag UUID published|private|review 理由` 复核；作品不能绕过真实性审核直接发布。
 
