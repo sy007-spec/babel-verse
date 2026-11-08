@@ -12,7 +12,7 @@ Linux服务器需Docker Compose、Python3、Git。运行 `python3 ops.py init` �
 
 管理员通过SSH运行 `python3 ops.py review queue` 查看待收录来源；将经人工核对的出处和完整版本证据放在runtime/evidence，用 `python3 ops.py review evidence work UUID /evidence/file.txt 核验说明` 重新排队模型审核。普通译作与标签可通过 `review decide version|tag UUID published|private|review 理由` 复核；作品不能绕过真实性审核直接发布。
 
-每日03:00 Asia/Shanghai由systemd调用 `python3 ops.py export`，仅导出已发布且有镜像授权的文本到catalog；不导出身份、网络、私人正文或内部证据。导出是数据库派生镜像，GitHub编辑不得直接覆盖业务数据库。备份包含私密数据，仅保存在服务器backups，不推送。
+每日03:00 Asia/Shanghai由systemd调用 `python3 ops.py export`，仅导出已发布且有镜像授权的文本到catalog；不导出身份、网络、私人正文或内部证据。导出是数据库派生镜像，GitHub编辑不得直接覆盖业务数据库。目录自带与网站同一引擎的搜索：`node catalog/search.mjs '作者:苏轼 明月'`，语法见 [catalog/SEARCH.md](catalog/SEARCH.md)（源文件在 catalog-tools/）。备份包含私密数据，仅保存在服务器backups，不推送。
 
 ## 验证
 
