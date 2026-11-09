@@ -3,252 +3,254 @@ kind: "index"
 language: "lzh-Hant"
 ---
 
-- [0224b7eb-4d5e-45eb-89f3-bd60ec782872](../../originals/lzh-Hant/0224b7eb-4d5e-45eb-89f3-bd60ec782872/edition-1.md)
-- [04f1eb4b-239b-4181-b191-98bbbf9896b6](../../originals/lzh-Hant/04f1eb4b-239b-4181-b191-98bbbf9896b6/edition-1.md)
-- [0698faef-df61-4cb4-8441-d0f33ffa94c7](../../originals/lzh-Hant/0698faef-df61-4cb4-8441-d0f33ffa94c7/edition-1.md)
-- [072dd965-8bb3-482d-b10f-c787e426fd4a](../../originals/lzh-Hant/072dd965-8bb3-482d-b10f-c787e426fd4a/edition-1.md)
-- [07c7ce22-4147-4f92-8ee9-70f9cc1beebf](../../originals/lzh-Hant/07c7ce22-4147-4f92-8ee9-70f9cc1beebf/edition-1.md)
-- [07c876e2-c6de-4d49-b512-4c42b30d8ba2](../../originals/lzh-Hant/07c876e2-c6de-4d49-b512-4c42b30d8ba2/edition-1.md)
-- [0964f8fa-a4f1-4e1d-b6ec-3895b43305df](../../originals/lzh-Hant/0964f8fa-a4f1-4e1d-b6ec-3895b43305df/edition-1.md)
-- [0a1e05bb-f9a3-475b-a322-fc61c8d57354](../../originals/lzh-Hant/0a1e05bb-f9a3-475b-a322-fc61c8d57354/edition-1.md)
-- [0a4087bc-e838-43aa-a0f3-c3765c03e694](../../originals/lzh-Hant/0a4087bc-e838-43aa-a0f3-c3765c03e694/edition-1.md)
-- [0d542b7b-7aa2-4d24-bc2d-56817a3e5067](../../originals/lzh-Hant/0d542b7b-7aa2-4d24-bc2d-56817a3e5067/edition-1.md)
-- [0f01d2df-55f8-45f4-a43a-a9fcb1d91f06](../../originals/lzh-Hant/0f01d2df-55f8-45f4-a43a-a9fcb1d91f06/edition-1.md)
-- [0f3ac479-62b4-4606-9568-ed153f9e40b1](../../originals/lzh-Hant/0f3ac479-62b4-4606-9568-ed153f9e40b1/edition-1.md)
-- [10d2fedc-d9e8-45e0-8980-be8c7e575197](../../originals/lzh-Hant/10d2fedc-d9e8-45e0-8980-be8c7e575197/edition-1.md)
-- [10f3ac07-18d5-410a-bc1e-b06bf97aa3cc](../../originals/lzh-Hant/10f3ac07-18d5-410a-bc1e-b06bf97aa3cc/edition-1.md)
-- [113955ee-696b-4b4b-b7fa-da59fa4bce4b](../../originals/lzh-Hant/113955ee-696b-4b4b-b7fa-da59fa4bce4b/edition-1.md)
-- [120ae5cd-1265-4eb6-a43b-5247a759b23a](../../originals/lzh-Hant/120ae5cd-1265-4eb6-a43b-5247a759b23a/edition-1.md)
-- [121e828b-e4cb-4bae-b825-25617f3a45b9](../../originals/lzh-Hant/121e828b-e4cb-4bae-b825-25617f3a45b9/edition-1.md)
-- [12ef1f89-7ee0-48fa-8ee6-365e2c281cc7](../../originals/lzh-Hant/12ef1f89-7ee0-48fa-8ee6-365e2c281cc7/edition-1.md)
-- [12f92a75-90c5-4852-b4b9-8bf92adec982](../../originals/lzh-Hant/12f92a75-90c5-4852-b4b9-8bf92adec982/edition-1.md)
-- [13b30371-7942-4461-b33e-21d8b35f7855](../../originals/lzh-Hant/13b30371-7942-4461-b33e-21d8b35f7855/edition-1.md)
-- [13fc546f-451b-4965-ba8c-b24f858ce712](../../originals/lzh-Hant/13fc546f-451b-4965-ba8c-b24f858ce712/edition-1.md)
-- [16ec7ba0-2516-4209-93a7-85e98d305703](../../originals/lzh-Hant/16ec7ba0-2516-4209-93a7-85e98d305703/edition-1.md)
-- [16f798e0-9706-4d2a-88df-2f362cd53632](../../originals/lzh-Hant/16f798e0-9706-4d2a-88df-2f362cd53632/edition-1.md)
-- [173faca0-9693-4366-a17a-29614c89d1bb](../../originals/lzh-Hant/173faca0-9693-4366-a17a-29614c89d1bb/edition-1.md)
-- [18394f0e-3473-4922-bd78-433ee01b30b3](../../originals/lzh-Hant/18394f0e-3473-4922-bd78-433ee01b30b3/edition-1.md)
-- [18e7e736-2039-458e-ba60-8dc680f260e7](../../originals/lzh-Hant/18e7e736-2039-458e-ba60-8dc680f260e7/edition-1.md)
-- [1a5b3e3f-4744-4b32-a851-1210378d28a4](../../originals/lzh-Hant/1a5b3e3f-4744-4b32-a851-1210378d28a4/edition-1.md)
-- [1de3e53f-1919-4b80-a07a-1dd3d1794e17](../../originals/lzh-Hant/1de3e53f-1919-4b80-a07a-1dd3d1794e17/edition-1.md)
-- [1f63a365-2411-42d9-a76c-1b14a3b492bf](../../originals/lzh-Hant/1f63a365-2411-42d9-a76c-1b14a3b492bf/edition-1.md)
-- [21090cb2-20de-486e-ac63-8ac63c29a03a](../../originals/lzh-Hant/21090cb2-20de-486e-ac63-8ac63c29a03a/edition-1.md)
-- [234b5cfc-c375-44c4-a446-20c8eb6ef2fa](../../originals/lzh-Hant/234b5cfc-c375-44c4-a446-20c8eb6ef2fa/edition-1.md)
-- [24978809-df43-4659-93f6-356a38d26d41](../../originals/lzh-Hant/24978809-df43-4659-93f6-356a38d26d41/edition-1.md)
-- [27e3e86a-5dc8-4233-8304-fee208b0a7f7](../../originals/lzh-Hant/27e3e86a-5dc8-4233-8304-fee208b0a7f7/edition-1.md)
-- [28bc4769-a14a-4a5e-9737-6837c8d1b5b8](../../originals/lzh-Hant/28bc4769-a14a-4a5e-9737-6837c8d1b5b8/edition-1.md)
-- [29660a0e-af90-403d-8d5c-4ceccfba1b8f](../../originals/lzh-Hant/29660a0e-af90-403d-8d5c-4ceccfba1b8f/edition-1.md)
-- [296e1fea-9eb5-4369-82df-8024ce974278](../../originals/lzh-Hant/296e1fea-9eb5-4369-82df-8024ce974278/edition-1.md)
-- [2b27a9b1-28a3-406b-9a67-30b506ea460a](../../originals/lzh-Hant/2b27a9b1-28a3-406b-9a67-30b506ea460a/edition-1.md)
-- [2b454554-e5aa-4529-b6a3-586f3f43821e](../../originals/lzh-Hant/2b454554-e5aa-4529-b6a3-586f3f43821e/edition-1.md)
-- [2bfc451e-2018-4720-a0fe-3a72507cc857](../../originals/lzh-Hant/2bfc451e-2018-4720-a0fe-3a72507cc857/edition-1.md)
-- [2d3d5a86-d781-4f4e-9d7c-be419f117dcc](../../originals/lzh-Hant/2d3d5a86-d781-4f4e-9d7c-be419f117dcc/edition-1.md)
-- [3008ddcb-7e5d-4b59-9a57-84434348cb4a](../../originals/lzh-Hant/3008ddcb-7e5d-4b59-9a57-84434348cb4a/edition-1.md)
-- [31566f04-1272-45f5-8a80-eee8604eaa79](../../originals/lzh-Hant/31566f04-1272-45f5-8a80-eee8604eaa79/edition-1.md)
-- [34447fd5-e170-495a-883a-63453353850c](../../originals/lzh-Hant/34447fd5-e170-495a-883a-63453353850c/edition-1.md)
-- [360eca83-f416-4843-827f-92ed7cf2ca9b](../../originals/lzh-Hant/360eca83-f416-4843-827f-92ed7cf2ca9b/edition-1.md)
-- [39ccc475-4217-49a2-a544-64f719f29911](../../originals/lzh-Hant/39ccc475-4217-49a2-a544-64f719f29911/edition-1.md)
-- [3be96d36-0e91-42e5-a4a4-adf01c9d63da](../../originals/lzh-Hant/3be96d36-0e91-42e5-a4a4-adf01c9d63da/edition-1.md)
-- [3cba2416-db30-4512-8e0d-a76e857f6b56](../../originals/lzh-Hant/3cba2416-db30-4512-8e0d-a76e857f6b56/edition-1.md)
-- [3eb0f759-eb6e-47f5-b4a9-8ef3697881f9](../../originals/lzh-Hant/3eb0f759-eb6e-47f5-b4a9-8ef3697881f9/edition-1.md)
-- [3f6850fa-f408-4c88-8c0d-dd9107cd42b1](../../originals/lzh-Hant/3f6850fa-f408-4c88-8c0d-dd9107cd42b1/edition-1.md)
-- [3f6f1e8d-3a7b-4923-ad3f-fe33b54d5d92](../../originals/lzh-Hant/3f6f1e8d-3a7b-4923-ad3f-fe33b54d5d92/edition-1.md)
-- [3fb0d10e-a0ac-41d5-8c21-23e187cb3b59](../../originals/lzh-Hant/3fb0d10e-a0ac-41d5-8c21-23e187cb3b59/edition-1.md)
-- [403df776-ed13-42da-acb6-b2b5ab40dff0](../../originals/lzh-Hant/403df776-ed13-42da-acb6-b2b5ab40dff0/edition-1.md)
-- [409acbb1-a669-4b8d-a66f-a4f0357257c2](../../originals/lzh-Hant/409acbb1-a669-4b8d-a66f-a4f0357257c2/edition-1.md)
-- [41455bf1-2f7a-4bf6-875a-3ea6b636ea17](../../originals/lzh-Hant/41455bf1-2f7a-4bf6-875a-3ea6b636ea17/edition-1.md)
-- [4166a6d2-e8e1-4eb7-9fd3-59475b9102bf](../../originals/lzh-Hant/4166a6d2-e8e1-4eb7-9fd3-59475b9102bf/edition-1.md)
-- [4421acf2-6534-4613-9733-4899784645fa](../../originals/lzh-Hant/4421acf2-6534-4613-9733-4899784645fa/edition-1.md)
-- [449b227c-3bb8-466a-a836-16c79e3fd8fc](../../originals/lzh-Hant/449b227c-3bb8-466a-a836-16c79e3fd8fc/edition-1.md)
-- [45a8246d-ad24-438f-944b-b972850999ab](../../originals/lzh-Hant/45a8246d-ad24-438f-944b-b972850999ab/edition-1.md)
-- [45c4270f-66b2-4770-8495-81f45b9cc98b](../../originals/lzh-Hant/45c4270f-66b2-4770-8495-81f45b9cc98b/edition-1.md)
-- [46292299-49a6-4536-9570-38fdb37d1f9e](../../originals/lzh-Hant/46292299-49a6-4536-9570-38fdb37d1f9e/edition-1.md)
-- [46c3ae4f-7fe3-4f88-8a24-5749a96578e6](../../originals/lzh-Hant/46c3ae4f-7fe3-4f88-8a24-5749a96578e6/edition-1.md)
-- [493619dc-bc3d-4a37-a4fc-ba3bef962e0e](../../originals/lzh-Hant/493619dc-bc3d-4a37-a4fc-ba3bef962e0e/edition-1.md)
-- [4b7e4bf5-bdef-4d5a-81ab-a12e208119c7](../../originals/lzh-Hant/4b7e4bf5-bdef-4d5a-81ab-a12e208119c7/edition-1.md)
-- [4bb5f98c-917c-441c-aaa7-6132f78e251e](../../originals/lzh-Hant/4bb5f98c-917c-441c-aaa7-6132f78e251e/edition-1.md)
-- [4d1be86a-19eb-4a1f-94b6-6cccad46931c](../../originals/lzh-Hant/4d1be86a-19eb-4a1f-94b6-6cccad46931c/edition-1.md)
-- [4d30c385-7b5f-4aa7-87ce-1b9cbe598c7e](../../originals/lzh-Hant/4d30c385-7b5f-4aa7-87ce-1b9cbe598c7e/edition-1.md)
-- [4dd62f52-ff58-4700-bf1b-375da34895b3](../../originals/lzh-Hant/4dd62f52-ff58-4700-bf1b-375da34895b3/edition-1.md)
-- [4e7c7631-f961-40c4-81f9-5f027c20181f](../../originals/lzh-Hant/4e7c7631-f961-40c4-81f9-5f027c20181f/edition-1.md)
-- [5119cf43-f10a-4dea-b2af-3bd64c5f7b44](../../originals/lzh-Hant/5119cf43-f10a-4dea-b2af-3bd64c5f7b44/edition-1.md)
-- [525aba91-b40c-47c2-8dec-b002d489e80f](../../originals/lzh-Hant/525aba91-b40c-47c2-8dec-b002d489e80f/edition-1.md)
-- [52925683-df29-4384-9bcf-896a427c567e](../../originals/lzh-Hant/52925683-df29-4384-9bcf-896a427c567e/edition-1.md)
-- [52968792-f56a-4a2d-b680-634740006e05](../../originals/lzh-Hant/52968792-f56a-4a2d-b680-634740006e05/edition-1.md)
-- [5367e089-caf4-4ffb-875a-77fd1aae61fd](../../originals/lzh-Hant/5367e089-caf4-4ffb-875a-77fd1aae61fd/edition-1.md)
-- [55b8fe3d-b403-4081-99f8-c3957a59e96f](../../originals/lzh-Hant/55b8fe3d-b403-4081-99f8-c3957a59e96f/edition-1.md)
-- [56b3c79c-72b4-44fc-a149-9fa8174ca19c](../../originals/lzh-Hant/56b3c79c-72b4-44fc-a149-9fa8174ca19c/edition-1.md)
-- [58d3d77d-626b-4458-a2ff-e1c261b98466](../../originals/lzh-Hant/58d3d77d-626b-4458-a2ff-e1c261b98466/edition-1.md)
-- [5ccf723f-b5a0-49f3-b437-694630a3e210](../../originals/lzh-Hant/5ccf723f-b5a0-49f3-b437-694630a3e210/edition-1.md)
-- [5d7a1ae9-ab9a-4481-bc25-7dbccb0dff0c](../../originals/lzh-Hant/5d7a1ae9-ab9a-4481-bc25-7dbccb0dff0c/edition-1.md)
-- [609c7058-5a47-4b13-92e1-e36a8ff34f79](../../originals/lzh-Hant/609c7058-5a47-4b13-92e1-e36a8ff34f79/edition-1.md)
-- [6156a12d-213a-48a2-8a5c-67761b8b7836](../../originals/lzh-Hant/6156a12d-213a-48a2-8a5c-67761b8b7836/edition-1.md)
-- [623ca61b-0ec2-44fc-9f69-570c524d3887](../../originals/lzh-Hant/623ca61b-0ec2-44fc-9f69-570c524d3887/edition-1.md)
-- [6261b077-eb8e-4186-a095-ef17069d3a50](../../originals/lzh-Hant/6261b077-eb8e-4186-a095-ef17069d3a50/edition-1.md)
-- [6410af52-f56f-458d-b4be-fdfed87e6b40](../../originals/lzh-Hant/6410af52-f56f-458d-b4be-fdfed87e6b40/edition-1.md)
-- [64de79cc-af6a-49a6-bbd4-a2854ce16494](../../originals/lzh-Hant/64de79cc-af6a-49a6-bbd4-a2854ce16494/edition-1.md)
-- [653ffb7a-1f1b-417c-b8d0-946472c3e2a0](../../originals/lzh-Hant/653ffb7a-1f1b-417c-b8d0-946472c3e2a0/edition-1.md)
-- [65e46348-e9fc-4e3a-b8f2-d4b7e9120f4e](../../originals/lzh-Hant/65e46348-e9fc-4e3a-b8f2-d4b7e9120f4e/edition-1.md)
-- [664cff05-4b74-4eb9-8360-fbaefdbed8aa](../../originals/lzh-Hant/664cff05-4b74-4eb9-8360-fbaefdbed8aa/edition-1.md)
-- [66b1b19e-2e7d-40cd-bf1c-f21db71dc1c8](../../originals/lzh-Hant/66b1b19e-2e7d-40cd-bf1c-f21db71dc1c8/edition-1.md)
-- [68247f73-6f09-4555-8901-844a9d0e0cd6](../../originals/lzh-Hant/68247f73-6f09-4555-8901-844a9d0e0cd6/edition-1.md)
-- [6abed7b4-cce5-4304-bde1-e92f1b32350b](../../originals/lzh-Hant/6abed7b4-cce5-4304-bde1-e92f1b32350b/edition-1.md)
-- [6c5452c6-18a7-4d56-a5a7-ccbfef83e34d](../../originals/lzh-Hant/6c5452c6-18a7-4d56-a5a7-ccbfef83e34d/edition-1.md)
-- [6fb25e4b-e5ed-48e0-975e-16db525f331a](../../originals/lzh-Hant/6fb25e4b-e5ed-48e0-975e-16db525f331a/edition-1.md)
-- [705944bd-f583-44d2-a62a-6c2ba0ec21d6](../../originals/lzh-Hant/705944bd-f583-44d2-a62a-6c2ba0ec21d6/edition-1.md)
-- [719d1d58-3807-4525-885f-05e32d9cd784](../../originals/lzh-Hant/719d1d58-3807-4525-885f-05e32d9cd784/edition-1.md)
-- [71eebbc8-e34b-4933-b7cf-6a9ccac2e9fd](../../originals/lzh-Hant/71eebbc8-e34b-4933-b7cf-6a9ccac2e9fd/edition-1.md)
-- [727450d2-6147-4f22-a5d7-66dc1da45891](../../originals/lzh-Hant/727450d2-6147-4f22-a5d7-66dc1da45891/edition-1.md)
-- [72b2920d-7d83-4373-ba21-ab615ec14374](../../originals/lzh-Hant/72b2920d-7d83-4373-ba21-ab615ec14374/edition-1.md)
-- [73b7eb75-1d0c-441a-9040-9b7f235ce47d](../../originals/lzh-Hant/73b7eb75-1d0c-441a-9040-9b7f235ce47d/edition-1.md)
-- [73dbdf63-497c-48b5-b077-364ef42e91b6](../../originals/lzh-Hant/73dbdf63-497c-48b5-b077-364ef42e91b6/edition-1.md)
-- [76f89f17-60cc-47e1-b967-d76e4f0e23ea](../../originals/lzh-Hant/76f89f17-60cc-47e1-b967-d76e4f0e23ea/edition-1.md)
-- [777f359f-ab8f-46cf-9695-58f230a68d96](../../originals/lzh-Hant/777f359f-ab8f-46cf-9695-58f230a68d96/edition-1.md)
-- [778a6e3a-1c14-430b-bd6e-8047ce5abe5f](../../originals/lzh-Hant/778a6e3a-1c14-430b-bd6e-8047ce5abe5f/edition-1.md)
-- [785acd37-e5a2-4c48-b554-e1f963570372](../../originals/lzh-Hant/785acd37-e5a2-4c48-b554-e1f963570372/edition-1.md)
-- [7914ba6d-a5d7-4607-90ff-73b2febded25](../../originals/lzh-Hant/7914ba6d-a5d7-4607-90ff-73b2febded25/edition-1.md)
-- [7a7f780d-421a-4859-bcf1-3f94992d24e7](../../originals/lzh-Hant/7a7f780d-421a-4859-bcf1-3f94992d24e7/edition-1.md)
-- [7abf1b20-59cd-4714-a7df-0a278fce6619](../../originals/lzh-Hant/7abf1b20-59cd-4714-a7df-0a278fce6619/edition-1.md)
-- [7ae2be09-ff81-448d-99c4-32277f6dc692](../../originals/lzh-Hant/7ae2be09-ff81-448d-99c4-32277f6dc692/edition-1.md)
-- [7b6b060d-88e2-4e7f-9e72-aa59b601396d](../../originals/lzh-Hant/7b6b060d-88e2-4e7f-9e72-aa59b601396d/edition-1.md)
-- [7c46b918-f2aa-47c6-a84d-ac4bb3e32123](../../originals/lzh-Hant/7c46b918-f2aa-47c6-a84d-ac4bb3e32123/edition-1.md)
-- [7f3a3377-536a-46a2-ac30-8f8aa2957378](../../originals/lzh-Hant/7f3a3377-536a-46a2-ac30-8f8aa2957378/edition-1.md)
-- [7fe95550-b981-4ac5-a31e-a80f75a2f56c](../../originals/lzh-Hant/7fe95550-b981-4ac5-a31e-a80f75a2f56c/edition-1.md)
-- [809bcaac-d66d-4ade-9219-d488a34e6946](../../originals/lzh-Hant/809bcaac-d66d-4ade-9219-d488a34e6946/edition-1.md)
-- [824a898f-0143-4815-ace2-6c3bd76899b5](../../originals/lzh-Hant/824a898f-0143-4815-ace2-6c3bd76899b5/edition-1.md)
-- [82958e9c-59e0-4a71-9510-9f6aadc6cc63](../../originals/lzh-Hant/82958e9c-59e0-4a71-9510-9f6aadc6cc63/edition-1.md)
-- [83e3d5d2-47de-4d18-aac4-c82f96e9e6ee](../../originals/lzh-Hant/83e3d5d2-47de-4d18-aac4-c82f96e9e6ee/edition-1.md)
-- [84daac75-5e7d-4ff7-bcba-b8d6161d19f6](../../originals/lzh-Hant/84daac75-5e7d-4ff7-bcba-b8d6161d19f6/edition-1.md)
-- [8585063f-9ec2-4b7b-b71d-5e1f49f19e67](../../originals/lzh-Hant/8585063f-9ec2-4b7b-b71d-5e1f49f19e67/edition-1.md)
-- [8a75938e-4f3f-4c3b-a3e2-d88954723fe1](../../originals/lzh-Hant/8a75938e-4f3f-4c3b-a3e2-d88954723fe1/edition-1.md)
-- [8af472ca-cf9b-46ff-a294-1ce344e4adc7](../../originals/lzh-Hant/8af472ca-cf9b-46ff-a294-1ce344e4adc7/edition-1.md)
-- [8ba5cd3c-bab8-431d-b9f0-b63bf9a1c192](../../originals/lzh-Hant/8ba5cd3c-bab8-431d-b9f0-b63bf9a1c192/edition-1.md)
-- [8be03165-9037-42cf-8ad2-484fee149773](../../originals/lzh-Hant/8be03165-9037-42cf-8ad2-484fee149773/edition-1.md)
-- [8c22ae29-8fbf-4cbd-a366-205a9770b108](../../originals/lzh-Hant/8c22ae29-8fbf-4cbd-a366-205a9770b108/edition-1.md)
-- [8d16da97-cdb3-4ddb-9123-8b1eba68eb4e](../../originals/lzh-Hant/8d16da97-cdb3-4ddb-9123-8b1eba68eb4e/edition-1.md)
-- [8d503267-cbdc-4ff5-b8d6-bbedb2a442ef](../../originals/lzh-Hant/8d503267-cbdc-4ff5-b8d6-bbedb2a442ef/edition-1.md)
-- [91271cf4-db8e-49ee-b796-f5f1810c9770](../../originals/lzh-Hant/91271cf4-db8e-49ee-b796-f5f1810c9770/edition-1.md)
-- [914ad59f-24d8-4c61-ba5b-9ba7abab23a5](../../originals/lzh-Hant/914ad59f-24d8-4c61-ba5b-9ba7abab23a5/edition-1.md)
-- [9226719e-c05d-48d7-a583-2c67b8a5741e](../../originals/lzh-Hant/9226719e-c05d-48d7-a583-2c67b8a5741e/edition-1.md)
-- [92abe0a4-13b5-4812-a59f-b0ea2b93df66](../../originals/lzh-Hant/92abe0a4-13b5-4812-a59f-b0ea2b93df66/edition-1.md)
-- [944c90e6-2cf4-4aed-8d26-54ea2fdd8a77](../../originals/lzh-Hant/944c90e6-2cf4-4aed-8d26-54ea2fdd8a77/edition-1.md)
-- [946e1fb7-39fd-4e25-9019-51a35401ee35](../../originals/lzh-Hant/946e1fb7-39fd-4e25-9019-51a35401ee35/edition-1.md)
-- [94d35db5-9e81-41ea-b1a6-d1abfc2527df](../../originals/lzh-Hant/94d35db5-9e81-41ea-b1a6-d1abfc2527df/edition-1.md)
-- [9649360b-7ac0-48a7-9997-f9268614e828](../../originals/lzh-Hant/9649360b-7ac0-48a7-9997-f9268614e828/edition-1.md)
-- [9695101e-10da-47f3-b867-0b3e2f42150d](../../originals/lzh-Hant/9695101e-10da-47f3-b867-0b3e2f42150d/edition-1.md)
-- [96b69a6e-e9c1-4c59-bf41-fe5d324556b7](../../originals/lzh-Hant/96b69a6e-e9c1-4c59-bf41-fe5d324556b7/edition-1.md)
-- [9705191e-d01c-4f42-b0e3-a07d52de0875](../../originals/lzh-Hant/9705191e-d01c-4f42-b0e3-a07d52de0875/edition-1.md)
-- [97c300f5-9e41-41af-bb16-394beccd7e2e](../../originals/lzh-Hant/97c300f5-9e41-41af-bb16-394beccd7e2e/edition-1.md)
-- [983c2c08-dffc-4181-b1f5-a0e8ffb98b1c](../../originals/lzh-Hant/983c2c08-dffc-4181-b1f5-a0e8ffb98b1c/edition-1.md)
-- [998691c0-15fa-43a5-ad2a-fb738a9a5a87](../../originals/lzh-Hant/998691c0-15fa-43a5-ad2a-fb738a9a5a87/edition-1.md)
-- [9a1bb946-f168-4044-a840-2d2b517127ee](../../originals/lzh-Hant/9a1bb946-f168-4044-a840-2d2b517127ee/edition-1.md)
-- [9ad1fa99-d9ba-4fb2-9ccc-d41aec980215](../../originals/lzh-Hant/9ad1fa99-d9ba-4fb2-9ccc-d41aec980215/edition-1.md)
-- [9bf2836d-4c71-4a57-b1f3-9c844195d653](../../originals/lzh-Hant/9bf2836d-4c71-4a57-b1f3-9c844195d653/edition-1.md)
-- [9ca50e33-3552-4d47-81c6-44d0afad7d8f](../../originals/lzh-Hant/9ca50e33-3552-4d47-81c6-44d0afad7d8f/edition-1.md)
-- [9d5f05cc-347c-438f-b072-1cf123da3890](../../originals/lzh-Hant/9d5f05cc-347c-438f-b072-1cf123da3890/edition-1.md)
-- [9eca9093-c407-46a0-b9e6-b508642b4a1e](../../originals/lzh-Hant/9eca9093-c407-46a0-b9e6-b508642b4a1e/edition-1.md)
-- [9ed00cdc-e21c-4aef-b48d-2c66491c94e7](../../originals/lzh-Hant/9ed00cdc-e21c-4aef-b48d-2c66491c94e7/edition-1.md)
-- [9f188de1-3e1f-40aa-b151-4c2b9a5d2aa5](../../originals/lzh-Hant/9f188de1-3e1f-40aa-b151-4c2b9a5d2aa5/edition-1.md)
-- [a0e90c02-cf60-4975-adac-d4f2697fafcd](../../originals/lzh-Hant/a0e90c02-cf60-4975-adac-d4f2697fafcd/edition-1.md)
-- [a185dbc1-f51d-412d-bb2a-2f866f3950d8](../../originals/lzh-Hant/a185dbc1-f51d-412d-bb2a-2f866f3950d8/edition-1.md)
-- [a18aa562-7660-423a-93f7-cc81c328ed55](../../originals/lzh-Hant/a18aa562-7660-423a-93f7-cc81c328ed55/edition-1.md)
-- [a4012131-9012-4632-89fe-e6f572c9a0ec](../../originals/lzh-Hant/a4012131-9012-4632-89fe-e6f572c9a0ec/edition-1.md)
-- [a51e24db-8cdf-46bc-824b-8d2fa2ee8bc1](../../originals/lzh-Hant/a51e24db-8cdf-46bc-824b-8d2fa2ee8bc1/edition-1.md)
-- [a6368187-b3c8-4023-946c-4a26a75c5544](../../originals/lzh-Hant/a6368187-b3c8-4023-946c-4a26a75c5544/edition-1.md)
-- [a7836b25-0062-4f06-b576-87e1cb721fde](../../originals/lzh-Hant/a7836b25-0062-4f06-b576-87e1cb721fde/edition-1.md)
-- [a78e9904-f191-4ca2-9164-c703f7c90adf](../../originals/lzh-Hant/a78e9904-f191-4ca2-9164-c703f7c90adf/edition-1.md)
-- [a87e5085-bff9-4879-a29e-6955d3bb2804](../../originals/lzh-Hant/a87e5085-bff9-4879-a29e-6955d3bb2804/edition-1.md)
-- [aa70af4a-e4d3-4122-a16d-7c97bc53234f](../../originals/lzh-Hant/aa70af4a-e4d3-4122-a16d-7c97bc53234f/edition-1.md)
-- [ab45a862-701c-400b-bfb2-fd9896765770](../../originals/lzh-Hant/ab45a862-701c-400b-bfb2-fd9896765770/edition-1.md)
-- [ac67997b-2015-4eca-b0f3-0556ee44bc45](../../originals/lzh-Hant/ac67997b-2015-4eca-b0f3-0556ee44bc45/edition-1.md)
-- [aef09788-9c97-4afc-957c-0dbd1ea0b58e](../../originals/lzh-Hant/aef09788-9c97-4afc-957c-0dbd1ea0b58e/edition-1.md)
-- [afb03c90-0121-4c3b-af23-b5fe2e394cee](../../originals/lzh-Hant/afb03c90-0121-4c3b-af23-b5fe2e394cee/edition-1.md)
-- [b008550a-0fd6-4624-94f1-ab19ec614f49](../../originals/lzh-Hant/b008550a-0fd6-4624-94f1-ab19ec614f49/edition-1.md)
-- [b0ef44a3-4574-4f7b-bc51-47a5ba6508b0](../../originals/lzh-Hant/b0ef44a3-4574-4f7b-bc51-47a5ba6508b0/edition-1.md)
-- [b1e73895-5cbe-4dbd-879d-47d565dac7b8](../../originals/lzh-Hant/b1e73895-5cbe-4dbd-879d-47d565dac7b8/edition-1.md)
-- [b2fe2165-41a1-46d6-a3c8-5852eb9fb1af](../../originals/lzh-Hant/b2fe2165-41a1-46d6-a3c8-5852eb9fb1af/edition-1.md)
-- [b3bae2d3-d90e-487c-8c7b-e896df236c6f](../../originals/lzh-Hant/b3bae2d3-d90e-487c-8c7b-e896df236c6f/edition-1.md)
-- [b4bf592c-0136-4658-9d96-a33044e02157](../../originals/lzh-Hant/b4bf592c-0136-4658-9d96-a33044e02157/edition-1.md)
-- [b57b8229-b898-4e54-bb7f-84fefe047205](../../originals/lzh-Hant/b57b8229-b898-4e54-bb7f-84fefe047205/edition-1.md)
-- [b5dc3c52-8709-46e9-b1b0-8eb4e6fd74b0](../../originals/lzh-Hant/b5dc3c52-8709-46e9-b1b0-8eb4e6fd74b0/edition-1.md)
-- [b66be4dd-72c0-496b-afbd-a6471a81205c](../../originals/lzh-Hant/b66be4dd-72c0-496b-afbd-a6471a81205c/edition-1.md)
-- [b6c93e1a-dca3-47b4-95ea-10ea7e10439a](../../originals/lzh-Hant/b6c93e1a-dca3-47b4-95ea-10ea7e10439a/edition-1.md)
-- [b770c5a2-2989-4eba-bbcd-9873fda7f743](../../originals/lzh-Hant/b770c5a2-2989-4eba-bbcd-9873fda7f743/edition-1.md)
-- [b7b722c3-282f-4262-9384-b839537eca2b](../../originals/lzh-Hant/b7b722c3-282f-4262-9384-b839537eca2b/edition-1.md)
-- [b7d8c26f-b103-458f-8730-e18604520035](../../originals/lzh-Hant/b7d8c26f-b103-458f-8730-e18604520035/edition-1.md)
-- [b806bab5-4718-44dd-af5f-6990e48d51ea](../../originals/lzh-Hant/b806bab5-4718-44dd-af5f-6990e48d51ea/edition-1.md)
-- [b8bb18dd-eb83-4ee5-9cad-778759992def](../../originals/lzh-Hant/b8bb18dd-eb83-4ee5-9cad-778759992def/edition-1.md)
-- [ba368199-1286-4a60-89e4-2e845a8ebcc3](../../originals/lzh-Hant/ba368199-1286-4a60-89e4-2e845a8ebcc3/edition-1.md)
-- [bb433c26-b0f2-41a9-8605-d7caed8c1695](../../originals/lzh-Hant/bb433c26-b0f2-41a9-8605-d7caed8c1695/edition-1.md)
-- [bbf9da77-7863-4b54-a055-b94873596d6c](../../originals/lzh-Hant/bbf9da77-7863-4b54-a055-b94873596d6c/edition-1.md)
-- [be0b76ef-b68b-4e05-8a36-6479c5369823](../../originals/lzh-Hant/be0b76ef-b68b-4e05-8a36-6479c5369823/edition-1.md)
-- [c00fd2ad-6cc8-4b53-8fb7-05402396d09f](../../originals/lzh-Hant/c00fd2ad-6cc8-4b53-8fb7-05402396d09f/edition-1.md)
-- [c055ebe0-e10c-466b-8b13-3e38660fdf0d](../../originals/lzh-Hant/c055ebe0-e10c-466b-8b13-3e38660fdf0d/edition-1.md)
-- [c0692832-5818-4714-92bc-ada753dbcb05](../../originals/lzh-Hant/c0692832-5818-4714-92bc-ada753dbcb05/edition-1.md)
-- [c08bd7b4-f563-4b4a-8833-e20c2a7d8a4e](../../originals/lzh-Hant/c08bd7b4-f563-4b4a-8833-e20c2a7d8a4e/edition-1.md)
-- [c0984713-a859-4eaa-b566-ee5fd3c58635](../../originals/lzh-Hant/c0984713-a859-4eaa-b566-ee5fd3c58635/edition-1.md)
-- [c12eb790-ae94-4a07-ab78-cbd90ce8de52](../../originals/lzh-Hant/c12eb790-ae94-4a07-ab78-cbd90ce8de52/edition-1.md)
-- [c16ec41b-afb6-4a2b-b898-80456aa87a22](../../originals/lzh-Hant/c16ec41b-afb6-4a2b-b898-80456aa87a22/edition-1.md)
-- [c48c03ab-96d6-46c0-99c2-177f873f2b98](../../originals/lzh-Hant/c48c03ab-96d6-46c0-99c2-177f873f2b98/edition-1.md)
-- [c4efb477-539e-4bc9-87be-bd4684b01d98](../../originals/lzh-Hant/c4efb477-539e-4bc9-87be-bd4684b01d98/edition-1.md)
-- [c56ef015-e6c9-4c55-a9ab-bee6993528d1](../../originals/lzh-Hant/c56ef015-e6c9-4c55-a9ab-bee6993528d1/edition-1.md)
-- [c6dfb486-1de7-45bb-9ea6-d42b94c414f6](../../originals/lzh-Hant/c6dfb486-1de7-45bb-9ea6-d42b94c414f6/edition-1.md)
-- [c73a7e3b-d204-4e63-98a7-e35cf1d8d6b2](../../originals/lzh-Hant/c73a7e3b-d204-4e63-98a7-e35cf1d8d6b2/edition-1.md)
-- [c84a3a47-50c1-4238-845d-4cc912030b9d](../../originals/lzh-Hant/c84a3a47-50c1-4238-845d-4cc912030b9d/edition-1.md)
-- [ca499dab-4892-4750-be4d-9f6d32ed8526](../../originals/lzh-Hant/ca499dab-4892-4750-be4d-9f6d32ed8526/edition-1.md)
-- [ca857195-a08c-4028-8ab8-8d9810327cda](../../originals/lzh-Hant/ca857195-a08c-4028-8ab8-8d9810327cda/edition-1.md)
-- [cab1ad3f-9008-4dbd-aff1-bd678ed34516](../../originals/lzh-Hant/cab1ad3f-9008-4dbd-aff1-bd678ed34516/edition-1.md)
-- [ccb74d49-e4e0-4a41-b471-a7af6196d17d](../../originals/lzh-Hant/ccb74d49-e4e0-4a41-b471-a7af6196d17d/edition-1.md)
-- [cd29131d-3968-4010-a5b7-2ed492155fa7](../../originals/lzh-Hant/cd29131d-3968-4010-a5b7-2ed492155fa7/edition-1.md)
-- [cdb9c0f8-ff7c-4dfa-b7b0-4d3d87619313](../../originals/lzh-Hant/cdb9c0f8-ff7c-4dfa-b7b0-4d3d87619313/edition-1.md)
-- [ce17e204-a256-46d2-9b7c-a6aff8e5b771](../../originals/lzh-Hant/ce17e204-a256-46d2-9b7c-a6aff8e5b771/edition-1.md)
-- [d11c8fb8-bc87-4f5a-b043-d0439364846d](../../originals/lzh-Hant/d11c8fb8-bc87-4f5a-b043-d0439364846d/edition-1.md)
-- [d15efff7-8713-46c0-b046-37c56bfa54f5](../../originals/lzh-Hant/d15efff7-8713-46c0-b046-37c56bfa54f5/edition-1.md)
-- [d1ba650a-de2a-423e-83ab-cca6a57b0983](../../originals/lzh-Hant/d1ba650a-de2a-423e-83ab-cca6a57b0983/edition-1.md)
-- [d42f9e8c-1b22-4b14-900c-8f90f0197b65](../../originals/lzh-Hant/d42f9e8c-1b22-4b14-900c-8f90f0197b65/edition-1.md)
-- [d574deca-8c7a-4c41-bdff-9f8be77fb743](../../originals/lzh-Hant/d574deca-8c7a-4c41-bdff-9f8be77fb743/edition-1.md)
-- [d6e03276-701b-49b3-b185-9b670a522ddc](../../originals/lzh-Hant/d6e03276-701b-49b3-b185-9b670a522ddc/edition-1.md)
-- [d88b5345-66ed-4486-9c46-eab072341dcf](../../originals/lzh-Hant/d88b5345-66ed-4486-9c46-eab072341dcf/edition-1.md)
-- [d91fd525-4cf4-48d4-9996-af9e2d26639b](../../originals/lzh-Hant/d91fd525-4cf4-48d4-9996-af9e2d26639b/edition-1.md)
-- [d938bd4b-9eff-4648-8a29-269409fae08f](../../originals/lzh-Hant/d938bd4b-9eff-4648-8a29-269409fae08f/edition-1.md)
-- [da4144de-36cf-40ec-9265-8126e4fec1b9](../../originals/lzh-Hant/da4144de-36cf-40ec-9265-8126e4fec1b9/edition-1.md)
-- [da811a83-00be-44ed-a99c-f14b834d8df7](../../originals/lzh-Hant/da811a83-00be-44ed-a99c-f14b834d8df7/edition-1.md)
-- [da8adb02-0e99-4a11-a87e-d536615c46b2](../../originals/lzh-Hant/da8adb02-0e99-4a11-a87e-d536615c46b2/edition-1.md)
-- [dae9a6e3-c018-4262-9659-258df1384de4](../../originals/lzh-Hant/dae9a6e3-c018-4262-9659-258df1384de4/edition-1.md)
-- [dca696b2-c9ec-4caa-9f68-032c392f878a](../../originals/lzh-Hant/dca696b2-c9ec-4caa-9f68-032c392f878a/edition-1.md)
-- [de06c183-2831-4989-8081-d666ca7ae7c4](../../originals/lzh-Hant/de06c183-2831-4989-8081-d666ca7ae7c4/edition-1.md)
-- [e1892caf-9f26-4e74-9698-27b1c26c6ae5](../../originals/lzh-Hant/e1892caf-9f26-4e74-9698-27b1c26c6ae5/edition-1.md)
-- [e21f1c7c-6506-46a5-ab0f-373a348fc6bc](../../originals/lzh-Hant/e21f1c7c-6506-46a5-ab0f-373a348fc6bc/edition-1.md)
-- [e380a1af-8fc3-461b-badd-fa4cf7eac78b](../../originals/lzh-Hant/e380a1af-8fc3-461b-badd-fa4cf7eac78b/edition-1.md)
-- [e55fa2ce-3e5e-4bdd-ae0e-3e1dab0deea6](../../originals/lzh-Hant/e55fa2ce-3e5e-4bdd-ae0e-3e1dab0deea6/edition-1.md)
-- [e7f0cdff-455e-482d-921b-0ce4a65a3eea](../../originals/lzh-Hant/e7f0cdff-455e-482d-921b-0ce4a65a3eea/edition-1.md)
-- [e853c741-2ae8-4f61-bd14-58b00ac766cf](../../originals/lzh-Hant/e853c741-2ae8-4f61-bd14-58b00ac766cf/edition-1.md)
-- [ea71bc00-ff80-4398-b0f6-797ab3a88746](../../originals/lzh-Hant/ea71bc00-ff80-4398-b0f6-797ab3a88746/edition-1.md)
-- [eaa9a3f6-bd38-41f6-8696-6c08f0dfa6ab](../../originals/lzh-Hant/eaa9a3f6-bd38-41f6-8696-6c08f0dfa6ab/edition-1.md)
-- [eb60fea6-6621-4eb1-bb14-596b5f0d220f](../../originals/lzh-Hant/eb60fea6-6621-4eb1-bb14-596b5f0d220f/edition-1.md)
-- [ec1da9c2-53c4-4070-bc58-ff1c5189eaec](../../originals/lzh-Hant/ec1da9c2-53c4-4070-bc58-ff1c5189eaec/edition-1.md)
-- [ece471b1-5b46-4442-9bc2-c167cf160580](../../originals/lzh-Hant/ece471b1-5b46-4442-9bc2-c167cf160580/edition-1.md)
-- [eddaecde-1fa1-4615-b0e8-3f675a211819](../../originals/lzh-Hant/eddaecde-1fa1-4615-b0e8-3f675a211819/edition-1.md)
-- [eebc36de-1a0f-4d2f-ab4e-67a0aab84bef](../../originals/lzh-Hant/eebc36de-1a0f-4d2f-ab4e-67a0aab84bef/edition-1.md)
-- [ef143b53-fdc3-467d-91b6-fa744623d103](../../originals/lzh-Hant/ef143b53-fdc3-467d-91b6-fa744623d103/edition-1.md)
-- [ef169b46-d5fc-4e29-9d26-6f66fd54f6cc](../../originals/lzh-Hant/ef169b46-d5fc-4e29-9d26-6f66fd54f6cc/edition-1.md)
-- [ef9fa3a9-4bdd-433c-a0d0-c14b64220c7b](../../originals/lzh-Hant/ef9fa3a9-4bdd-433c-a0d0-c14b64220c7b/edition-1.md)
-- [efea7014-c079-471e-93be-8c45feae4439](../../originals/lzh-Hant/efea7014-c079-471e-93be-8c45feae4439/edition-1.md)
-- [f40aef92-6aee-4b62-92df-3825d52fd691](../../originals/lzh-Hant/f40aef92-6aee-4b62-92df-3825d52fd691/edition-1.md)
-- [f438887a-ff36-4bad-ad77-9dec3cd84f17](../../originals/lzh-Hant/f438887a-ff36-4bad-ad77-9dec3cd84f17/edition-1.md)
-- [f4e7fbfe-d8c9-47f8-bf37-ea8f915a78f3](../../originals/lzh-Hant/f4e7fbfe-d8c9-47f8-bf37-ea8f915a78f3/edition-1.md)
-- [f5972ea6-465d-4445-bdff-431dce0f45d4](../../originals/lzh-Hant/f5972ea6-465d-4445-bdff-431dce0f45d4/edition-1.md)
-- [f65e9801-394b-4fba-8f51-f8124b5192ed](../../originals/lzh-Hant/f65e9801-394b-4fba-8f51-f8124b5192ed/edition-1.md)
-- [f76913ca-fb56-4ab9-bdff-5057bf661405](../../originals/lzh-Hant/f76913ca-fb56-4ab9-bdff-5057bf661405/edition-1.md)
-- [f794c94c-221e-4338-9770-b5ecfe4c5204](../../originals/lzh-Hant/f794c94c-221e-4338-9770-b5ecfe4c5204/edition-1.md)
-- [f85d4ed0-e022-4ff9-b317-b20b79a7f21f](../../originals/lzh-Hant/f85d4ed0-e022-4ff9-b317-b20b79a7f21f/edition-1.md)
-- [f9252e7c-6f7e-4b01-a979-3bf964771df9](../../originals/lzh-Hant/f9252e7c-6f7e-4b01-a979-3bf964771df9/edition-1.md)
-- [f98dc9b9-091b-4bc0-bda6-b2b2b86369fd](../../originals/lzh-Hant/f98dc9b9-091b-4bc0-bda6-b2b2b86369fd/edition-1.md)
-- [f9cbac4b-2a64-445e-b3bb-2c335ff8717d](../../originals/lzh-Hant/f9cbac4b-2a64-445e-b3bb-2c335ff8717d/edition-1.md)
-- [fa2223e9-76e9-4826-97ea-d74792ba27c5](../../originals/lzh-Hant/fa2223e9-76e9-4826-97ea-d74792ba27c5/edition-1.md)
-- [fa67d193-9187-409b-a954-841dfa142052](../../originals/lzh-Hant/fa67d193-9187-409b-a954-841dfa142052/edition-1.md)
-- [fc9ed67b-766f-4551-bd6e-549e83353b47](../../originals/lzh-Hant/fc9ed67b-766f-4551-bd6e-549e83353b47/edition-1.md)
-- [fced90b3-3d91-4fa9-90c0-0c838e4aeaf1](../../originals/lzh-Hant/fced90b3-3d91-4fa9-90c0-0c838e4aeaf1/edition-1.md)
-- [fd403e7d-f178-4f02-9022-0185142aeadc](../../originals/lzh-Hant/fd403e7d-f178-4f02-9022-0185142aeadc/edition-1.md)
-- [ff025e74-d418-4349-a8a0-6a5570892ce3](../../originals/lzh-Hant/ff025e74-d418-4349-a8a0-6a5570892ce3/edition-1.md)
-- [ffb10d82-d356-4f74-b15b-e5dce000c36b](../../originals/lzh-Hant/ffb10d82-d356-4f74-b15b-e5dce000c36b/edition-1.md)
+| 标题 Title | 作者 Poet | 首句 First line |
+|---|---|---|
+| [安公子·弱柳千丝缕](../../originals/lzh-Hant/07c876e2-c6de-4d49-b512-4c42b30d8ba2/edition-1.md) | 袁去华 | 弱柳千絲縷，嫩黃勻遍鴉啼處。 |
+| [暗香·旧时月色](../../originals/lzh-Hant/946e1fb7-39fd-4e25-9019-51a35401ee35/edition-1.md) | 姜夔 | 舊時月色，算幾番照我，梅邊吹笛？ |
+| [八归·秋江带雨](../../originals/lzh-Hant/ba368199-1286-4a60-89e4-2e845a8ebcc3/edition-1.md) | 史达祖 | 秋江帶雨，寒沙縈水，人瞰畫閣愁獨。 |
+| [八六子·倚危亭](../../originals/lzh-Hant/04f1eb4b-239b-4181-b191-98bbbf9896b6/edition-1.md) | 秦观 | 倚危亭、恨如芳草，萋萋劃盡還生。 |
+| [八声甘州·对潇潇暮雨洒江天](../../originals/lzh-Hant/9d5f05cc-347c-438f-b072-1cf123da3890/edition-1.md) | 柳永 | 對瀟瀟暮雨灑江天，一番洗清秋。 |
+| [八声甘州·记玉关踏雪事](../../originals/lzh-Hant/97c300f5-9e41-41af-bb16-394beccd7e2e/edition-1.md) | 张炎 | 記玉關、踏雪事清游，寒氣脆貂裘。 |
+| [八声甘州·渺空烟四远](../../originals/lzh-Hant/7abf1b20-59cd-4714-a7df-0a278fce6619/edition-1.md) | 吴文英 | 渺空煙四遠，是何年、青天墜長星。 |
+| [拜星月慢·夜色催更](../../originals/lzh-Hant/8c22ae29-8fbf-4cbd-a366-205a9770b108/edition-1.md) | 周邦彦 | 夜色催更，清塵收露，小曲幽坊月暗。 |
+| [薄幸·淡妆多态](../../originals/lzh-Hant/07c7ce22-4147-4f92-8ee9-70f9cc1beebf/edition-1.md) | 贺铸 | 淡妝多態，更的的、頻回眄睞。 |
+| [薄幸·青楼春晚](../../originals/lzh-Hant/2d3d5a86-d781-4f4e-9d7c-be419f117dcc/edition-1.md) | 吕滨老 | 青樓春晚，晝寂寂、梳勻又懶。 |
+| [宝鼎现·红妆春骑](../../originals/lzh-Hant/0698faef-df61-4cb4-8441-d0f33ffa94c7/edition-1.md) | 刘辰翁 | 紅妝春騎，踏月影竿旗穿市。 |
+| [卜算子·缺月挂疏桐](../../originals/lzh-Hant/9a1bb946-f168-4044-a840-2d2b517127ee/edition-1.md) | 苏轼 | 缺月掛疏桐，漏斷人初靜。 |
+| [卜算子·我住长江头](../../originals/lzh-Hant/28bc4769-a14a-4a5e-9737-6837c8d1b5b8/edition-1.md) | 李之仪 | 我住長江頭，君住長江尾； |
+| [卜算子·驿外断桥边](../../originals/lzh-Hant/3eb0f759-eb6e-47f5-b4a9-8ef3697881f9/edition-1.md) | 陆游 | 驛外斷橋邊，寂寞開無主。 |
+| [采莲令·月华收](../../originals/lzh-Hant/e853c741-2ae8-4f61-bd14-58b00ac766cf/edition-1.md) | 柳永 | 月華收，雲淡霜天曙。 |
+| [采桑子·群芳过后西湖好](../../originals/lzh-Hant/10f3ac07-18d5-410a-bc1e-b06bf97aa3cc/edition-1.md) | 欧阳修 | 群芳過後西湖好，狼籍殘紅，飛絮濛濛，垂柳闌干盡日風。 |
+| [春曉](../../originals/lzh-Hant/4dd62f52-ff58-4700-bf1b-375da34895b3/edition-1.md) | 孟浩然 | 春眠不覺曉， |
+| [翠楼吟·月冷龙沙](../../originals/lzh-Hant/d938bd4b-9eff-4648-8a29-269409fae08f/edition-1.md) | 姜夔 | 月冷龍沙，塵清虎落，今年漢酺初賜。 |
+| [大酺·对宿烟收](../../originals/lzh-Hant/c0692832-5818-4714-92bc-ada753dbcb05/edition-1.md) | 周邦彦 | 對宿煙收，春禽靜，飛雨時鳴高屋。 |
+| [大有·戏马台前](../../originals/lzh-Hant/ce17e204-a256-46d2-9b7c-a6aff8e5b771/edition-1.md) | 潘希白 | 戲馬臺前，采花籬下，問歲華、還是重九。 |
+| [登鸛雀樓](../../originals/lzh-Hant/e7f0cdff-455e-482d-921b-0ce4a65a3eea/edition-1.md) | 王之渙 | 白日依山盡， |
+| [帝台春·芳草碧色](../../originals/lzh-Hant/b2fe2165-41a1-46d6-a3c8-5852eb9fb1af/edition-1.md) | 李甲 | 芳草碧色，萋萋遍南陌。 |
+| [点绛唇·卷尽愁云](../../originals/lzh-Hant/8a75938e-4f3f-4c3b-a3e2-d88954723fe1/edition-1.md) | 吴文英 | 卷盡愁雲，素娥臨夜新梳洗。 |
+| [点绛唇·燕雁无心](../../originals/lzh-Hant/31566f04-1272-45f5-8a80-eee8604eaa79/edition-1.md) | 姜夔 | 燕雁無心，太湖西畔隨雲去。 |
+| [蝶恋花·几日行云何处去](../../originals/lzh-Hant/113955ee-696b-4b4b-b7fa-da59fa4bce4b/edition-1.md) | 欧阳修 | 幾日行雲何處去？ |
+| [蝶恋花·几许伤春春复暮](../../originals/lzh-Hant/ab45a862-701c-400b-bfb2-fd9896765770/edition-1.md) | 贺铸 | 幾許傷春春復暮，楊柳清陰，偏礙游絲度。 |
+| [蝶恋花·卷絮风头寒欲尽](../../originals/lzh-Hant/fd403e7d-f178-4f02-9022-0185142aeadc/edition-1.md) | 赵令畤 | 卷絮風頭寒欲盡，墜粉飄香，日日紅成陣。 |
+| [蝶恋花·六曲阑干偎碧树](../../originals/lzh-Hant/8af472ca-cf9b-46ff-a294-1ce344e4adc7/edition-1.md) | 晏殊 | 六曲闌干偎碧樹，楊柳風輕，展盡黃金縷。 |
+| [蝶恋花·谁道闲情抛弃久](../../originals/lzh-Hant/d574deca-8c7a-4c41-bdff-9f8be77fb743/edition-1.md) | 欧阳修（署名存疑） | 誰道閒情拋棄久？ |
+| [蝶恋花·庭院深深深几许](../../originals/lzh-Hant/ece471b1-5b46-4442-9bc2-c167cf160580/edition-1.md) | 欧阳修 | 庭院深深深幾許？ |
+| [蝶恋花·欲减罗衣寒未去](../../originals/lzh-Hant/5119cf43-f10a-4dea-b2af-3bd64c5f7b44/edition-1.md) | 赵令畤 | 欲減羅衣寒未去，不卷珠簾，人在深深處。 |
+| [蝶恋花·月皎惊乌栖不定](../../originals/lzh-Hant/9eca9093-c407-46a0-b9e6-b508642b4a1e/edition-1.md) | 周邦彦 | 月皎驚烏棲不定，更漏將闌，轣轆牽金井。 |
+| [蝶恋花·伫倚危楼风细细](../../originals/lzh-Hant/719d1d58-3807-4525-885f-05e32d9cd784/edition-1.md) | 柳永 | 佇倚危樓風細細，望極春愁，黯黯生天際。 |
+| [蝶恋花·醉别西楼醒不记](../../originals/lzh-Hant/7a7f780d-421a-4859-bcf1-3f94992d24e7/edition-1.md) | 晏幾道 | 醉別西樓醒不記，春夢秋雲，聚散真容易。 |
+| [定风波·莫听穿林打叶声](../../originals/lzh-Hant/f65e9801-394b-4fba-8f51-f8124b5192ed/edition-1.md) | 苏轼 | 莫聽穿林打葉聲，何妨吟嘯且徐行。 |
+| [定风波·自春来](../../originals/lzh-Hant/4b7e4bf5-bdef-4d5a-81ab-a12e208119c7/edition-1.md) | 柳永 | 自春來、慘綠愁紅，芳心是事可可。 |
+| [东风第一枝·巧沁兰心](../../originals/lzh-Hant/5ccf723f-b5a0-49f3-b437-694630a3e210/edition-1.md) | 史达祖 | 巧沁蘭心，偷黏草甲，東風欲障新暖。 |
+| [洞仙歌·冰肌玉骨](../../originals/lzh-Hant/71eebbc8-e34b-4933-b7cf-6a9ccac2e9fd/edition-1.md) | 苏轼 | 冰肌玉骨，自清涼無汗。 |
+| [洞仙歌·青烟幂处](../../originals/lzh-Hant/623ca61b-0ec2-44fc-9f69-570c524d3887/edition-1.md) | 晁补之 | 青煙冪處，碧海飛金鏡。 |
+| [洞仙歌·雪云散尽](../../originals/lzh-Hant/fa2223e9-76e9-4826-97ea-d74792ba27c5/edition-1.md) | 李元膺 | 雪雲散盡，放曉晴庭院。 |
+| [法曲献仙音·层绿峨峨](../../originals/lzh-Hant/45c4270f-66b2-4770-8495-81f45b9cc98b/edition-1.md) | 王沂孙 | 層綠峨峨，纖瓊皎皎，倒壓波痕清淺。 |
+| [风流子·新绿小池塘](../../originals/lzh-Hant/ec1da9c2-53c4-4070-bc58-ff1c5189eaec/edition-1.md) | 周邦彦 | 新綠小池塘，風簾動、碎影舞斜陽。 |
+| [风入松·听风听雨过清明](../../originals/lzh-Hant/9ad1fa99-d9ba-4fb2-9ccc-d41aec980215/edition-1.md) | 吴文英 | 聽風聽雨過清明，愁草瘞花銘。 |
+| [风入松·一春长费买花钱](../../originals/lzh-Hant/6261b077-eb8e-4186-a095-ef17069d3a50/edition-1.md) | 俞国宝 | 一春長費買花錢，日日醉湖邊。 |
+| [凤箫吟·锁离愁](../../originals/lzh-Hant/efea7014-c079-471e-93be-8c45feae4439/edition-1.md) | 韩缜 | 鎖離愁連綿無際，來時陌上初燻，繡幃人念遠，暗垂珠露，泣送征輪。 |
+| [感皇恩·兰芷满汀洲](../../originals/lzh-Hant/de06c183-2831-4989-8081-d666ca7ae7c4/edition-1.md) | 贺铸 | 蘭芷滿汀洲，游絲橫路。 |
+| [高阳台·残雪庭阴](../../originals/lzh-Hant/3fb0d10e-a0ac-41d5-8c21-23e187cb3b59/edition-1.md) | 王沂孙 | 殘雪庭陰，輕寒簾影，霏霏玉管春葭。 |
+| [高阳台·宫粉雕痕](../../originals/lzh-Hant/29660a0e-af90-403d-8d5c-4ceccfba1b8f/edition-1.md) | 吴文英 | 宮粉雕痕，仙雲墮影，無人野水荒灣。 |
+| [高阳台·接叶巢莺](../../originals/lzh-Hant/aa70af4a-e4d3-4122-a16d-7c97bc53234f/edition-1.md) | 张炎 | 接葉巢鶯，平波卷絮，斷橋斜日歸船。 |
+| [高阳台·频听银签](../../originals/lzh-Hant/ffb10d82-d356-4f74-b15b-e5dce000c36b/edition-1.md) | 韩疁 | 頻聽銀簽，重燃絳蠟，年華袞袞驚心。 |
+| [高阳台·修竹凝妆](../../originals/lzh-Hant/7ae2be09-ff81-448d-99c4-32277f6dc692/edition-1.md) | 吴文英 | 修竹凝妝，垂楊駐馬，憑闌淺畫成圖。 |
+| [关河令·秋阴时晴渐向暝](../../originals/lzh-Hant/998691c0-15fa-43a5-ad2a-fb738a9a5a87/edition-1.md) | 周邦彦 | 秋陰時晴漸向暝，變一庭淒冷。 |
+| [桂枝香·登临送目](../../originals/lzh-Hant/fc9ed67b-766f-4551-bd6e-549e83353b47/edition-1.md) | 王安石 | 登臨送目，正故國晚秋，天氣初肅。 |
+| [过秦楼·水浴清蟾](../../originals/lzh-Hant/ca499dab-4892-4750-be4d-9f6d32ed8526/edition-1.md) | 周邦彦 | 水浴清蟾，葉喧涼吹，巷陌馬聲初斷。 |
+| [汉宫春·潇洒江梅](../../originals/lzh-Hant/2b454554-e5aa-4529-b6a3-586f3f43821e/edition-1.md) | 李邴 | 瀟灑江梅，向竹梢疏處，橫兩三枝。 |
+| [好事近·凝碧旧池头](../../originals/lzh-Hant/b6c93e1a-dca3-47b4-95ea-10ea7e10439a/edition-1.md) | 韩元吉 | 凝碧舊池頭，一聽管弦淒切。 |
+| [贺新郎·凤尾龙香拨](../../originals/lzh-Hant/6fb25e4b-e5ed-48e0-975e-16db525f331a/edition-1.md) | 辛弃疾 | 鳳尾龍香撥，自開元《霓裳曲》罷，幾番風月。 |
+| [贺新郎·绿树听鹈鴂](../../originals/lzh-Hant/c56ef015-e6c9-4c55-a9ab-bee6993528d1/edition-1.md) | 辛弃疾 | 綠樹聽鵜鴃，更那堪、鷓鴣聲住，杜鵑聲切。 |
+| [贺新郎·梦冷黄金屋](../../originals/lzh-Hant/eb60fea6-6621-4eb1-bb14-596b5f0d220f/edition-1.md) | 蒋捷 | 夢冷黃金屋，嘆秦箏斜鴻陣裏，素弦塵撲。 |
+| [贺新郎·乔木生云气](../../originals/lzh-Hant/0f01d2df-55f8-45f4-a43a-a9fcb1d91f06/edition-1.md) | 吴文英 | 喬木生雲氣，訪中興、英雄陳跡，暗追前事。 |
+| [贺新郎·乳燕飞华屋](../../originals/lzh-Hant/ca857195-a08c-4028-8ab8-8d9810327cda/edition-1.md) | 苏轼 | 乳燕飛華屋，悄無人、槐陰轉午，晚涼新浴。 |
+| [贺新郎·深院榴花吐](../../originals/lzh-Hant/dca696b2-c9ec-4caa-9f68-032c392f878a/edition-1.md) | 刘克庄 | 深院榴花吐，畫簾開、綀衣紈扇，午風清暑。 |
+| [贺新郎·睡起流莺语](../../originals/lzh-Hant/5d7a1ae9-ab9a-4481-bc25-7dbccb0dff0c/edition-1.md) | 叶梦得 | 睡起流鶯語，掩蒼苔，房櫳向晚，亂紅無數。 |
+| [贺新郎·湛湛长空黑](../../originals/lzh-Hant/16f798e0-9706-4d2a-88df-2f362cd53632/edition-1.md) | 刘克庄 | 湛湛長空黑，更那堪、斜風細雨，亂愁如織。 |
+| [贺新郎·篆缕销金鼎](../../originals/lzh-Hant/bb433c26-b0f2-41a9-8605-d7caed8c1695/edition-1.md) | 李玉 | 篆縷消金鼎，醉沉沉、庭陰轉午，畫堂人靜。 |
+| [花犯·楚江湄](../../originals/lzh-Hant/e380a1af-8fc3-461b-badd-fa4cf7eac78b/edition-1.md) | 周密 | 楚江湄，湘娥再見，無言灑清淚，淡然春意。 |
+| [花犯·粉墙低](../../originals/lzh-Hant/983c2c08-dffc-4181-b1f5-a0e8ffb98b1c/edition-1.md) | 周邦彦 | 粉牆低，梅花照眼，依然舊風味。 |
+| [花犯·小娉婷](../../originals/lzh-Hant/66b1b19e-2e7d-40cd-bf1c-f21db71dc1c8/edition-1.md) | 吴文英 | 小娉婷清鉛素靨，蜂黃暗偷暈。 |
+| [浣溪沙·波面铜花冷不收](../../originals/lzh-Hant/d42f9e8c-1b22-4b14-900c-8f90f0197b65/edition-1.md) | 吴文英 | 波面銅花冷不收，玉人垂釣理纖鉤，月明池閣夜來秋。 |
+| [浣溪沙·楼角初消一缕霞](../../originals/lzh-Hant/f4e7fbfe-d8c9-47f8-bf37-ea8f915a78f3/edition-1.md) | 贺铸 | 樓角初消一縷霞，淡黃楊柳暗棲鴉，玉人和月摘梅花。 |
+| [浣溪沙·一曲新词酒一杯](../../originals/lzh-Hant/809bcaac-d66d-4ade-9219-d488a34e6946/edition-1.md) | 晏殊 | 一曲新詞酒一杯，去年天氣舊池臺，夕陽西下幾時回？ |
+| [浣溪沙·一向年光有限身](../../originals/lzh-Hant/ef143b53-fdc3-467d-91b6-fa744623d103/edition-1.md) | 晏殊 | 一向年光有限身，等閒離別易消魂，酒筵歌席莫辭頻。 |
+| [减字木兰花·天涯旧恨](../../originals/lzh-Hant/d15efff7-8713-46c0-b046-37c56bfa54f5/edition-1.md) | 秦观 | 天涯舊恨，獨自淒涼人不問。 |
+| [剑器近·夜来雨](../../originals/lzh-Hant/83e3d5d2-47de-4d18-aac4-c82f96e9e6ee/edition-1.md) | 袁去华 | 夜來雨，賴倩得東風吹住。 |
+| [江城子·画楼帘幕卷新晴](../../originals/lzh-Hant/10d2fedc-d9e8-45e0-8980-be8c7e575197/edition-1.md) | 卢祖皋 | 畫樓簾幕卷新晴，掩銀屏，曉寒輕。 |
+| [江神子慢·玉台挂秋月](../../originals/lzh-Hant/76f89f17-60cc-47e1-b967-d76e4f0e23ea/edition-1.md) | 田为 | 玉臺掛秋月，鉛素淺、梅花傅香雪。 |
+| [解连环·楚江空晚](../../originals/lzh-Hant/121e828b-e4cb-4bae-b825-25617f3a45b9/edition-1.md) | 张炎 | 楚江空晚，悵離群萬里，恍然驚散。 |
+| [解连环·怨怀无托](../../originals/lzh-Hant/4bb5f98c-917c-441c-aaa7-6132f78e251e/edition-1.md) | 周邦彦 | 怨懷無托，嗟情人斷絕，信音遼邈。 |
+| [解语花·风销焰蜡](../../originals/lzh-Hant/173faca0-9693-4366-a17a-29614c89d1bb/edition-1.md) | 周邦彦 | 風消焰蠟，露浥紅蓮，花市光相射。 |
+| [金明池·天阔云高](../../originals/lzh-Hant/c12eb790-ae94-4a07-ab78-cbd90ce8de52/edition-1.md) | 僧挥 | 天闊雲高，溪橫水遠，晚日寒生輕暈。 |
+| [靜夜思](../../originals/lzh-Hant/0f3ac479-62b4-4606-9568-ed153f9e40b1/edition-1.md) | 李白 | 牀前明月光， |
+| [兰陵王·卷珠箔](../../originals/lzh-Hant/46c3ae4f-7fe3-4f88-8a24-5749a96578e6/edition-1.md) | 张元幹 | 卷珠箔，朝雨輕陰乍閣。 |
+| [兰陵王·柳阴直](../../originals/lzh-Hant/b008550a-0fd6-4624-94f1-ab19ec614f49/edition-1.md) | 周邦彦 | 柳陰直，煙裏絲絲弄碧。 |
+| [兰陵王·送春去](../../originals/lzh-Hant/eaa9a3f6-bd38-41f6-8696-6c08f0dfa6ab/edition-1.md) | 刘辰翁 | 送春去，春去人間無路。 |
+| [浪淘沙·把酒祝东风](../../originals/lzh-Hant/84daac75-5e7d-4ff7-bcba-b8d6161d19f6/edition-1.md) | 欧阳修 | 把酒祝東風，且共從容。 |
+| [浪淘沙慢·梦觉透窗风一线](../../originals/lzh-Hant/da8adb02-0e99-4a11-a87e-d536615c46b2/edition-1.md) | 柳永 | 夢覺透窗風一線，寒燈吹息。 |
+| [浪淘沙慢·昼阴重](../../originals/lzh-Hant/ccb74d49-e4e0-4a41-b471-a7af6196d17d/edition-1.md) | 周邦彦 | 晝陰重，霜凋岸草，霧隱城堞。 |
+| [临江仙·高咏楚词酬午日](../../originals/lzh-Hant/34447fd5-e170-495a-883a-63453353850c/edition-1.md) | 陈与义 | 高詠《楚詞》酬午日，天涯節序匆匆。 |
+| [临江仙·梦后楼台高锁](../../originals/lzh-Hant/45a8246d-ad24-438f-944b-b972850999ab/edition-1.md) | 晏幾道 | 夢後樓臺高鎖，酒醒簾幕低垂。 |
+| [临江仙·夜饮东坡醒复醉](../../originals/lzh-Hant/a7836b25-0062-4f06-b576-87e1cb721fde/edition-1.md) | 苏轼 | 夜飲東坡醒復醉，歸來仿佛三更。 |
+| [临江仙·忆昔午桥桥上饮](../../originals/lzh-Hant/8ba5cd3c-bab8-431d-b9f0-b63bf9a1c192/edition-1.md) | 陈与义 | 憶昔午橋橋上飲，坐中多是豪英。 |
+| [临江仙·忆昔西池池上饮](../../originals/lzh-Hant/aef09788-9c97-4afc-957c-0dbd1ea0b58e/edition-1.md) | 晁冲之 | 憶昔西池池上飲，年年多少歡娛。 |
+| [留春令·画屏天畔](../../originals/lzh-Hant/7f3a3377-536a-46a2-ac30-8f8aa2957378/edition-1.md) | 晏幾道 | 畫屏天畔，夢回依約，十洲雲水。 |
+| [柳梢青·数声鶗鴂](../../originals/lzh-Hant/525aba91-b40c-47c2-8dec-b002d489e80f/edition-1.md) | 蔡伸 | 數聲鶗鴃，可憐又是、春歸時節。 |
+| [六丑·似东风老大](../../originals/lzh-Hant/9705191e-d01c-4f42-b0e3-a07d52de0875/edition-1.md) | 彭元逊 | 似東風老大，那復有當時風氣。 |
+| [六丑·正单衣试酒](../../originals/lzh-Hant/94d35db5-9e81-41ea-b1a6-d1abfc2527df/edition-1.md) | 周邦彦 | 正單衣試酒，悵客裏、光陰虛擲。 |
+| [六幺令·绿阴春尽](../../originals/lzh-Hant/6abed7b4-cce5-4304-bde1-e92f1b32350b/edition-1.md) | 晏幾道 | 綠陰春盡，飛絮繞香閣。 |
+| [六州歌头·东风著意](../../originals/lzh-Hant/c0984713-a859-4eaa-b566-ee5fd3c58635/edition-1.md) | 韩元吉 | 東風著意，先上小桃枝。 |
+| [六州歌头·长淮望断](../../originals/lzh-Hant/18e7e736-2039-458e-ba60-8dc680f260e7/edition-1.md) | 张孝祥 | 長淮望斷，關塞莽然平。 |
+| [绿头鸭·晚云收](../../originals/lzh-Hant/d1ba650a-de2a-423e-83ab-cca6a57b0983/edition-1.md) | 晁端礼 | 晚雲收，淡天一片琉璃。 |
+| [绿头鸭·玉人家](../../originals/lzh-Hant/ef9fa3a9-4bdd-433c-a0d0-c14b64220c7b/edition-1.md) | 贺铸 | 玉人家，畫樓珠箔臨津。 |
+| [满江红·怒发冲冠](../../originals/lzh-Hant/73b7eb75-1d0c-441a-9040-9b7f235ce47d/edition-1.md) | 岳飞 | 怒髮衝冠，憑闌處、瀟瀟雨歇。 |
+| [满庭芳·风老莺雏](../../originals/lzh-Hant/b770c5a2-2989-4eba-bbcd-9873fda7f743/edition-1.md) | 周邦彦 | 風老鶯雛，雨肥梅子，午陰嘉樹清圓。 |
+| [满庭芳·山抹微云](../../originals/lzh-Hant/a87e5085-bff9-4879-a29e-6955d3bb2804/edition-1.md) | 秦观 | 山抹微雲，天黏衰草，畫角聲斷譙門。 |
+| [满庭芳·晓色云开](../../originals/lzh-Hant/4166a6d2-e8e1-4eb7-9fd3-59475b9102bf/edition-1.md) | 秦观 | 曉色雲開，春隨人意，驟雨才過還晴。 |
+| [满庭芳·月洗高梧](../../originals/lzh-Hant/52925683-df29-4384-9bcf-896a427c567e/edition-1.md) | 张镃 | 月洗高梧，露漙幽草，寶釵樓外秋深。 |
+| [眉妩·渐新痕悬柳](../../originals/lzh-Hant/234b5cfc-c375-44c4-a446-20c8eb6ef2fa/edition-1.md) | 王沂孙 | 漸新痕懸柳，淡彩穿花，依約破初暝。 |
+| [迷神引·一叶扁舟轻帆卷](../../originals/lzh-Hant/c08bd7b4-f563-4b4a-8833-e20c2a7d8a4e/edition-1.md) | 柳永 | 一葉扁舟輕帆卷，暫泊楚江南岸。 |
+| [摸鱼儿·对西风](../../originals/lzh-Hant/f794c94c-221e-4338-9770-b5ecfe4c5204/edition-1.md) | 朱嗣发 | 對西風、鬢搖煙碧，參差前事流水。 |
+| [摸鱼儿·更能消几番风雨](../../originals/lzh-Hant/e1892caf-9f26-4e74-9698-27b1c26c6ae5/edition-1.md) | 辛弃疾 | 更能消幾番風雨，匆匆春又歸去。 |
+| [摸鱼儿·怎知他](../../originals/lzh-Hant/f40aef92-6aee-4b62-92df-3825d52fd691/edition-1.md) | 刘辰翁 | 怎知他、春歸何處？ |
+| [蓦山溪·洗妆真态](../../originals/lzh-Hant/a185dbc1-f51d-412d-bb2a-2f866f3950d8/edition-1.md) | 曹组 | 洗妝真態，不作鉛華御。 |
+| [木兰花·别后不知君远近](../../originals/lzh-Hant/f5972ea6-465d-4445-bdff-431dce0f45d4/edition-1.md) | 欧阳修 | 別後不知君遠近，觸目淒涼多少悶！ |
+| [木兰花·城上风光莺语乱](../../originals/lzh-Hant/16ec7ba0-2516-4209-93a7-85e98d305703/edition-1.md) | 钱惟演 | 城上風光鶯語亂。城下煙波春拍岸。綠楊芳草幾時休？淚眼愁腸先已斷。 |
+| [木兰花·池塘水绿风微暖](../../originals/lzh-Hant/46292299-49a6-4536-9570-38fdb37d1f9e/edition-1.md) | 晏殊 | 池塘水綠風微暖，記得玉真初見面。 |
+| [木兰花·春风只在园西畔](../../originals/lzh-Hant/73dbdf63-497c-48b5-b077-364ef42e91b6/edition-1.md) | 严仁 | 春風只在園西畔，薺菜花繁蝴蝶亂。 |
+| [木兰花·东城渐觉风光好](../../originals/lzh-Hant/3cba2416-db30-4512-8e0d-a76e857f6b56/edition-1.md) | 宋祁 | 東城漸覺風光好，縠皺波紋迎客棹。 |
+| [木兰花·东风又作无情计](../../originals/lzh-Hant/24978809-df43-4659-93f6-356a38d26d41/edition-1.md) | 晏幾道 | 東風又作無情計，艷粉嬌紅吹滿地。 |
+| [木兰花慢·老来情味减](../../originals/lzh-Hant/b4bf592c-0136-4658-9d96-a33044e02157/edition-1.md) | 辛弃疾 | 老來情味減，對別酒，怯流年。 |
+| [木兰花·秋千院落重帘暮](../../originals/lzh-Hant/afb03c90-0121-4c3b-af23-b5fe2e394cee/edition-1.md) | 晏幾道 | 秋千院落重簾暮，彩筆閑來題繡戶。 |
+| [木兰花·燕鸿过后莺归去](../../originals/lzh-Hant/ff025e74-d418-4349-a8a0-6a5570892ce3/edition-1.md) | 晏殊 | 燕鴻過後鶯歸去，細算浮生千萬緒。 |
+| [南浦·风悲画角](../../originals/lzh-Hant/a4012131-9012-4632-89fe-e6f572c9a0ec/edition-1.md) | 鲁逸仲 | 風悲畫角，聽《單于》、三弄落譙門。 |
+| [南乡子·生怕倚阑干](../../originals/lzh-Hant/21090cb2-20de-486e-ac63-8ac63c29a03a/edition-1.md) | 潘牥 | 生怕倚闌干，閣下溪聲閣外山。 |
+| [念奴娇·闹红一舸](../../originals/lzh-Hant/296e1fea-9eb5-4369-82df-8024ce974278/edition-1.md) | 姜夔 | 鬧紅一舸，記來時嘗與鴛鴦為侶。 |
+| [念奴娇·萧条庭院](../../originals/lzh-Hant/9ca50e33-3552-4d47-81c6-44d0afad7d8f/edition-1.md) | 李清照 | 蕭條庭院，有斜風細雨，重門須閉。 |
+| [女冠子·蕙花香也](../../originals/lzh-Hant/65e46348-e9fc-4e3a-b8f2-d4b7e9120f4e/edition-1.md) | 蒋捷 | 蕙花香也，雪晴池館如畫。 |
+| [琵琶仙·双桨来时](../../originals/lzh-Hant/c055ebe0-e10c-466b-8b13-3e38660fdf0d/edition-1.md) | 姜夔 | 雙槳來時，有人似舊曲桃根桃葉。 |
+| [菩萨蛮·哀筝一弄湘江曲](../../originals/lzh-Hant/3f6f1e8d-3a7b-4923-ad3f-fe33b54d5d92/edition-1.md) | 张先 | 哀箏一弄《湘江曲》，聲聲寫盡湘波綠。 |
+| [菩萨蛮·绿芜墙绕青苔院](../../originals/lzh-Hant/b7b722c3-282f-4262-9384-b839537eca2b/edition-1.md) | 陈克 | 綠蕪牆繞青苔院，中庭日淡芭蕉卷。 |
+| [戚氏·晚秋天](../../originals/lzh-Hant/b806bab5-4718-44dd-af5f-6990e48d51ea/edition-1.md) | 柳永 | 晚秋天，一霎微雨灑庭軒。 |
+| [齐天乐·烟波桃叶西陵路](../../originals/lzh-Hant/f438887a-ff36-4bad-ad77-9dec3cd84f17/edition-1.md) | 吴文英 | 煙波桃葉西陵路，十年斷魂潮尾。 |
+| [齐天乐·一襟余恨宫魂断](../../originals/lzh-Hant/58d3d77d-626b-4458-a2ff-e1c261b98466/edition-1.md) | 王沂孙 | 一襟餘恨宮魂斷，年年翠陰庭樹。 |
+| [齐天乐·庾郎先自吟愁赋](../../originals/lzh-Hant/f9cbac4b-2a64-445e-b3bb-2c335ff8717d/edition-1.md) | 姜夔 | 庾郎先自吟愁賦，淒淒更聞私語。 |
+| [绮寮怨·上马人扶残醉](../../originals/lzh-Hant/72b2920d-7d83-4373-ba21-ab615ec14374/edition-1.md) | 周邦彦 | 上馬人扶殘醉，曉風吹未醒。 |
+| [绮罗香·做冷欺花](../../originals/lzh-Hant/360eca83-f416-4843-827f-92ed7cf2ca9b/edition-1.md) | 史达祖 | 做冷欺花，將煙困柳，千里偷催春暮。 |
+| [千秋岁·数声鶗鴂](../../originals/lzh-Hant/39ccc475-4217-49a2-a544-64f719f29911/edition-1.md) | 张先 | 數聲鶗鴃，又報芳菲歇。 |
+| [千秋岁引·别馆寒砧](../../originals/lzh-Hant/64de79cc-af6a-49a6-bbd4-a2854ce16494/edition-1.md) | 王安石 | 別館寒砧，孤城畫角，一派秋聲入寥廓。 |
+| [青门引·乍暖还轻冷](../../originals/lzh-Hant/68247f73-6f09-4555-8901-844a9d0e0cd6/edition-1.md) | 张先 | 乍暖還輕冷，風雨晚來方定。 |
+| [青门饮·胡马嘶风](../../originals/lzh-Hant/b66be4dd-72c0-496b-afbd-a6471a81205c/edition-1.md) | 时彦 | 胡馬嘶風，漢旗翻雪，彤雲又吐，一竿殘照。 |
+| [青玉案·凌波不过横塘路](../../originals/lzh-Hant/d6e03276-701b-49b3-b185-9b670a522ddc/edition-1.md) | 贺铸 | 凌波不過橫塘路，但目送、芳塵去。 |
+| [青玉案·年年社日停针线](../../originals/lzh-Hant/9f188de1-3e1f-40aa-b151-4c2b9a5d2aa5/edition-1.md) | 黄公绍 | 年年社日停針線，怎忍見、雙飛燕？ |
+| [青玉案·一年春事都来几](../../originals/lzh-Hant/3008ddcb-7e5d-4b59-9a57-84434348cb4a/edition-1.md) | 欧阳修 | 一年春事都來幾，早過了、三之二。 |
+| [清平乐·春风依旧](../../originals/lzh-Hant/b1e73895-5cbe-4dbd-879d-47d565dac7b8/edition-1.md) | 赵令畤 | 春風依舊，著意隨堤柳。 |
+| [清平乐·红笺小字](../../originals/lzh-Hant/55b8fe3d-b403-4081-99f8-c3957a59e96f/edition-1.md) | 晏殊 | 紅箋小字，說盡平生意， |
+| [清平乐·金风细细](../../originals/lzh-Hant/9ed00cdc-e21c-4aef-b48d-2c66491c94e7/edition-1.md) | 晏殊 | 金風細細，葉葉梧桐墜。 |
+| [清平乐·留春不住](../../originals/lzh-Hant/6410af52-f56f-458d-b4be-fdfed87e6b40/edition-1.md) | 王安国 | 留春不住，費盡鶯兒語。 |
+| [清平乐·留人不住](../../originals/lzh-Hant/b8bb18dd-eb83-4ee5-9cad-778759992def/edition-1.md) | 晏幾道 | 留人不住，醉解蘭舟去。 |
+| [庆宫春·双桨莼波](../../originals/lzh-Hant/0d542b7b-7aa2-4d24-bc2d-56817a3e5067/edition-1.md) | 姜夔 | 雙槳蓴波，一蓑松雨，暮愁漸滿空闊。 |
+| [秋霁·江水苍苍](../../originals/lzh-Hant/cdb9c0f8-ff7c-4dfa-b7b0-4d3d87619313/edition-1.md) | 史达祖 | 江水蒼蒼，望倦柳愁荷，共感秋色。 |
+| [曲游春·禁苑东风外](../../originals/lzh-Hant/ac67997b-2015-4eca-b0f3-0556ee44bc45/edition-1.md) | 周密 | 禁苑東風外，揚暖絲情絮，春思如織。 |
+| [曲玉管·陇首云飞](../../originals/lzh-Hant/fa67d193-9187-409b-a954-841dfa142052/edition-1.md) | 柳永 | 隴首雲飛，江邊日晚，煙波滿目憑闌久。 |
+| [阮郎归·天边金掌露成霜](../../originals/lzh-Hant/0a4087bc-e838-43aa-a0f3-c3765c03e694/edition-1.md) | 晏幾道 | 天邊金掌露成霜，雲隨雁字長。 |
+| [阮郎归·湘天风雨破寒初](../../originals/lzh-Hant/4e7c7631-f961-40c4-81f9-5f027c20181f/edition-1.md) | 秦观 | 湘天風雨破寒初，深沉庭院虛。 |
+| [瑞鹤仙·郊原初过雨](../../originals/lzh-Hant/e55fa2ce-3e5e-4bdd-ae0e-3e1dab0deea6/edition-1.md) | 袁去华 | 郊原初過雨，見數葉零亂，風定猶舞。 |
+| [瑞鹤仙·脸霞红印枕](../../originals/lzh-Hant/2bfc451e-2018-4720-a0fe-3a72507cc857/edition-1.md) | 陆淞 | 臉霞紅印枕，睡覺來、冠兒還是不整。 |
+| [瑞鹤仙·悄郊原带郭](../../originals/lzh-Hant/449b227c-3bb8-466a-a836-16c79e3fd8fc/edition-1.md) | 周邦彦 | 悄郊原帶郭，行路永、客去車塵漠漠。 |
+| [瑞鹤仙·晴丝牵绪乱](../../originals/lzh-Hant/727450d2-6147-4f22-a5d7-66dc1da45891/edition-1.md) | 吴文英 | 晴絲牽緒亂，對滄江斜日，花飛人遠。 |
+| [瑞鹤仙·湿云黏雁影](../../originals/lzh-Hant/1a5b3e3f-4744-4b32-a851-1210378d28a4/edition-1.md) | 陆叡 | 濕雲黏雁影，望征路，愁迷離緒難整。 |
+| [瑞龙吟·章台路](../../originals/lzh-Hant/609c7058-5a47-4b13-92e1-e36a8ff34f79/edition-1.md) | 周邦彦 | 章臺路，還見褪粉梅梢，試花桃樹。 |
+| [三姝媚·湖山经醉惯](../../originals/lzh-Hant/0964f8fa-a4f1-4e1d-b6ec-3895b43305df/edition-1.md) | 吴文英 | 湖山經醉慣，漬春衫，啼痕酒痕無限。 |
+| [三姝媚·烟光摇缥瓦](../../originals/lzh-Hant/f85d4ed0-e022-4ff9-b317-b20b79a7f21f/edition-1.md) | 史达祖 | 煙光搖縹瓦，望晴檐多風，柳花如酒。 |
+| [三台·见梨花初带夜月](../../originals/lzh-Hant/bbf9da77-7863-4b54-a055-b94873596d6c/edition-1.md) | 万俟咏 | 見梨花初帶夜月，海棠半含朝雨。 |
+| [少年游·长安古道马迟迟](../../originals/lzh-Hant/13fc546f-451b-4965-ba8c-b24f858ce712/edition-1.md) | 柳永 | 長安古道馬遲遲，高柳亂蟬嘶。 |
+| [生查子·繁灯夺霁华](../../originals/lzh-Hant/3f6850fa-f408-4c88-8c0d-dd9107cd42b1/edition-1.md) | 刘克庄 | 繁燈奪霽華，戲鼓侵明發。 |
+| [声声慢·寻寻觅觅](../../originals/lzh-Hant/1f63a365-2411-42d9-a76c-1b14a3b492bf/edition-1.md) | 李清照 | 尋尋覓覓，冷冷清清，悽悽慘慘慼戚。 |
+| [石州慢·薄雨收寒](../../originals/lzh-Hant/a78e9904-f191-4ca2-9164-c703f7c90adf/edition-1.md) | 贺铸 | 薄雨收寒，斜照弄晴，春意空闊。 |
+| [石州慢·寒水依痕](../../originals/lzh-Hant/8585063f-9ec2-4b7b-b71d-5e1f49f19e67/edition-1.md) | 张元幹 | 寒水依痕，春意漸回，沙際煙闊。 |
+| [疏影·碧圆自洁](../../originals/lzh-Hant/b57b8229-b898-4e54-bb7f-84fefe047205/edition-1.md) | 张炎 | 碧圓自潔，向淺洲遠浦，亭亭清絕。 |
+| [疏影·江空不渡](../../originals/lzh-Hant/41455bf1-2f7a-4bf6-875a-3ea6b636ea17/edition-1.md) | 彭元逊 | 江空不渡，恨蘼蕪杜若，零落無數。 |
+| [疏影·苔枝缀玉](../../originals/lzh-Hant/409acbb1-a669-4b8d-a66f-a4f0357257c2/edition-1.md) | 姜夔 | 苔枝綴玉，有翠禽小小，枝上同宿。 |
+| [霜天晓角·晚晴风歇](../../originals/lzh-Hant/2b27a9b1-28a3-406b-9a67-30b506ea460a/edition-1.md) | 范成大 | 晚晴風歇，一夜春威折。 |
+| [霜叶飞·断烟离绪](../../originals/lzh-Hant/56b3c79c-72b4-44fc-a149-9fa8174ca19c/edition-1.md) | 吴文英 | 斷煙離緒，關心事，斜陽紅隱霜樹。 |
+| [水调歌头·明月几时有](../../originals/lzh-Hant/cd29131d-3968-4010-a5b7-2ed492155fa7/edition-1.md) | 苏轼 | 明月幾時有，把酒問青天。 |
+| [水龙吟·楚天千里清秋](../../originals/lzh-Hant/13b30371-7942-4461-b33e-21d8b35f7855/edition-1.md) | 辛弃疾 | 楚天千里清秋，水隨天去秋無際。 |
+| [水龙吟·似花还似非花](../../originals/lzh-Hant/120ae5cd-1265-4eb6-a43b-5247a759b23a/edition-1.md) | 苏轼 | 似花還似非花，也無人惜從教墜。 |
+| [水龙吟·问春何苦匆匆](../../originals/lzh-Hant/7b6b060d-88e2-4e7f-9e72-aa59b601396d/edition-1.md) | 晁补之 | 問春何苦匆匆，帶風伴雨如馳驟。 |
+| [水龙吟·夜来风雨匆匆](../../originals/lzh-Hant/914ad59f-24d8-4c61-ba5b-9ba7abab23a5/edition-1.md) | 程垓 | 夜來風雨匆匆，故園定是花無幾。 |
+| [思远人·红叶黄花秋意晚](../../originals/lzh-Hant/92abe0a4-13b5-4812-a59f-b0ea2b93df66/edition-1.md) | 晏幾道 | 紅葉黃花秋意晚，千里念行客。 |
+| [苏幕遮·碧云天](../../originals/lzh-Hant/6c5452c6-18a7-4d56-a5a7-ccbfef83e34d/edition-1.md) | 范仲淹 | 碧雲天，黃葉地，秋色連波，波上寒煙翠。 |
+| [苏武慢·雁落平沙](../../originals/lzh-Hant/eebc36de-1a0f-4d2f-ab4e-67a0aab84bef/edition-1.md) | 蔡伸 | 雁落平沙，煙籠寒水，古壘鳴笳聲斷。 |
+| [琐窗寒·暗柳啼鸦](../../originals/lzh-Hant/b7d8c26f-b103-458f-8730-e18604520035/edition-1.md) | 周邦彦 | 暗柳啼鴉，單衣佇立，小簾朱戶。 |
+| [踏莎行·候馆梅残](../../originals/lzh-Hant/96b69a6e-e9c1-4c59-bf41-fe5d324556b7/edition-1.md) | 欧阳修 | 候館梅殘，溪橋柳細，草薰風暖搖征轡。 |
+| [踏莎行·润玉笼绡](../../originals/lzh-Hant/4d30c385-7b5f-4aa7-87ce-1b9cbe598c7e/edition-1.md) | 吴文英 | 潤玉籠綃，檀櫻倚扇，繡圈猶帶脂香淺。 |
+| [踏莎行·小径红稀](../../originals/lzh-Hant/944c90e6-2cf4-4aed-8d26-54ea2fdd8a77/edition-1.md) | 晏殊 | 小徑紅稀，芳郊綠遍，高臺樹色陰陰見。 |
+| [踏莎行·燕燕轻盈](../../originals/lzh-Hant/52968792-f56a-4a2d-b680-634740006e05/edition-1.md) | 姜夔 | 燕燕輕盈，鶯鶯嬌軟，分明又向華胥見。 |
+| [唐多令·芦叶满汀洲](../../originals/lzh-Hant/18394f0e-3473-4922-bd78-433ee01b30b3/edition-1.md) | 刘过 | 蘆葉滿汀洲，塞沙帶淺流。 |
+| [天门谣·牛渚天门险](../../originals/lzh-Hant/5367e089-caf4-4ffb-875a-77fd1aae61fd/edition-1.md) | 贺铸 | 牛渚天門險，限南北、七雄豪占。 |
+| [天仙子·水调数声持酒听](../../originals/lzh-Hant/91271cf4-db8e-49ee-b796-f5f1810c9770/edition-1.md) | 张先 | 《水調》數聲持酒聽，午醉醒來愁未醒。 |
+| [天香·孤峤蟠烟](../../originals/lzh-Hant/7c46b918-f2aa-47c6-a84d-ac4bb3e32123/edition-1.md) | 王沂孙 | 孤嶠蟠煙，層濤蛻月，驪宮夜采鉛水。 |
+| [天香·烟络横林](../../originals/lzh-Hant/cab1ad3f-9008-4dbd-aff1-bd678ed34516/edition-1.md) | 贺铸 | 煙絡橫林，山沉遠照，迤邐黃昏鐘鼓。 |
+| [望海潮·梅英疏淡](../../originals/lzh-Hant/b0ef44a3-4574-4f7b-bc51-47a5ba6508b0/edition-1.md) | 秦观 | 梅英疏淡，冰澌溶泄，東風暗換年華。 |
+| [望湘人·厌莺声到枕](../../originals/lzh-Hant/be0b76ef-b68b-4e05-8a36-6479c5369823/edition-1.md) | 贺铸 | 厭鶯聲到枕，花氣動簾，醉魂愁夢相半。 |
+| [尉迟杯·隋堤路](../../originals/lzh-Hant/493619dc-bc3d-4a37-a4fc-ba3bef962e0e/edition-1.md) | 周邦彦 | 隋堤路，漸日晚、密靄生煙樹。 |
+| [西河·佳丽地](../../originals/lzh-Hant/8d503267-cbdc-4ff5-b8d6-bbedb2a442ef/edition-1.md) | 周邦彦 | 佳麗地，南朝盛事誰記？ |
+| [惜分飞·泪湿阑干花著露](../../originals/lzh-Hant/9695101e-10da-47f3-b867-0b3e2f42150d/edition-1.md) | 毛滂 | 淚濕闌干花著露，愁到眉峰碧聚。 |
+| [惜黄花慢·送客吴皋](../../originals/lzh-Hant/a6368187-b3c8-4023-946c-4a26a75c5544/edition-1.md) | 吴文英 | 送客吳皋，正試霜夜冷，楓落長橋。 |
+| [喜迁莺·晓光催角](../../originals/lzh-Hant/c00fd2ad-6cc8-4b53-8fb7-05402396d09f/edition-1.md) | 刘一止 | 曉光催角，聽宿鳥未驚，鄰雞先覺。 |
+| [喜迁莺·月波疑滴](../../originals/lzh-Hant/c84a3a47-50c1-4238-845d-4cc912030b9d/edition-1.md) | 史达祖 | 月波疑滴，望玉壺天近，了無塵隔。 |
+| [湘春夜月·近清明](../../originals/lzh-Hant/c16ec41b-afb6-4a2b-b898-80456aa87a22/edition-1.md) | 黄孝迈 | 近清明，翠禽枝上消魂。 |
+| [小重山·柳暗花明春事深](../../originals/lzh-Hant/b3bae2d3-d90e-487c-8c7b-e896df236c6f/edition-1.md) | 章良能 | 柳暗花明春事深，小闌紅芍藥，已抽簪。 |
+| [谢池春·残寒销尽](../../originals/lzh-Hant/da4144de-36cf-40ec-9265-8126e4fec1b9/edition-1.md) | 李之仪 | 殘寒消盡，疏雨過、清明後。 |
+| [杏花天影·绿丝低拂鸳鸯浦](../../originals/lzh-Hant/778a6e3a-1c14-430b-bd6e-8047ce5abe5f/edition-1.md) | 姜夔 | 綠絲低拂鴛鴦浦，想桃葉，當時喚渡。 |
+| [宴清都·春讯飞琼管](../../originals/lzh-Hant/a51e24db-8cdf-46bc-824b-8d2fa2ee8bc1/edition-1.md) | 卢祖皋 | 春訊飛瓊管，風日薄，度牆啼鳥聲亂。 |
+| [宴清都·绣幄鸳鸯柱](../../originals/lzh-Hant/f98dc9b9-091b-4bc0-bda6-b2b2b86369fd/edition-1.md) | 吴文英 | 繡幄鴛鴦柱，紅情密、膩雲低護秦樹。 |
+| [宴山亭·裁剪冰绡](../../originals/lzh-Hant/a18aa562-7660-423a-93f7-cc81c328ed55/edition-1.md) | 赵佶 | 裁翦冰綃，輕疊數重，淡著燕脂勻注。新樣靚妝，艷溢香融，羞殺蕊珠宮女。易得凋零，更多少、無情風雨。愁苦。問院落淒涼，幾番春暮？ |
+| [宴山亭·幽梦初回](../../originals/lzh-Hant/072dd965-8bb3-482d-b10f-c787e426fd4a/edition-1.md) | 张镃 | 幽夢初回，重陰未開，曉色催成疏雨。 |
+| [扬州慢·淮左名都](../../originals/lzh-Hant/fced90b3-3d91-4fa9-90c0-0c838e4aeaf1/edition-1.md) | 姜夔 | 淮左名都，竹西佳處，解鞍少駐初程。 |
+| [瑶华·朱钿宝玦](../../originals/lzh-Hant/9bf2836d-4c71-4a57-b1f3-9c844195d653/edition-1.md) | 周密 | 朱鈿寶玦，天上飛瓊，比人間春別。 |
+| [夜半乐·冻云黯淡天气](../../originals/lzh-Hant/705944bd-f583-44d2-a62a-6c2ba0ec21d6/edition-1.md) | 柳永 | 凍雲黯淡天氣，扁舟一葉，乘興離江渚。 |
+| [夜飞鹊·河桥送人处](../../originals/lzh-Hant/9226719e-c05d-48d7-a583-2c67b8a5741e/edition-1.md) | 周邦彦 | 河橋送人處，涼夜何其。 |
+| [夜合花·柳锁莺魂](../../originals/lzh-Hant/777f359f-ab8f-46cf-9695-58f230a68d96/edition-1.md) | 史达祖 | 柳鎖鶯魂，花翻蝶夢，自知愁染潘郎。 |
+| [夜游宫·人去西楼雁杳](../../originals/lzh-Hant/1de3e53f-1919-4b80-a07a-1dd3d1794e17/edition-1.md) | 吴文英 | 人去西樓雁杳，敘別夢，揚州一覺。 |
+| [夜游宫·叶下斜阳照水](../../originals/lzh-Hant/6156a12d-213a-48a2-8a5c-67761b8b7836/edition-1.md) | 周邦彦 | 葉下斜陽照水，卷輕浪、沉沉千里。 |
+| [一丛花·伤高怀远几时穷](../../originals/lzh-Hant/7914ba6d-a5d7-4607-90ff-73b2febded25/edition-1.md) | 张先 | 傷高懷遠幾時窮？無物似情濃。 |
+| [一萼红·古城阴](../../originals/lzh-Hant/f9252e7c-6f7e-4b01-a979-3bf964771df9/edition-1.md) | 姜夔 | 古城陰，有官梅幾許，紅萼未宜簪。 |
+| [忆秦娥·楼阴缺](../../originals/lzh-Hant/c48c03ab-96d6-46c0-99c2-177f873f2b98/edition-1.md) | 范成大 | 樓陰缺，闌干影臥東廂月。 |
+| [忆王孙·萋萋芳草忆王孙](../../originals/lzh-Hant/a0e90c02-cf60-4975-adac-d4f2697fafcd/edition-1.md) | 李甲 | 萋萋芳草憶王孫，柳外樓高空斷魂，杜宇聲聲不忍聞。 |
+| [应天长·条风布暖](../../originals/lzh-Hant/824a898f-0143-4815-ace2-6c3bd76899b5/edition-1.md) | 周邦彦 | 條風布暖，霏霧弄晴，池塘遍滿春色。 |
+| [莺啼序·残寒正欺病酒](../../originals/lzh-Hant/b5dc3c52-8709-46e9-b1b0-8eb4e6fd74b0/edition-1.md) | 吴文英 | 殘寒正欺病酒，掩沉香繡戶。 |
+| [永遇乐·璧月初晴](../../originals/lzh-Hant/4421acf2-6534-4613-9733-4899784645fa/edition-1.md) | 刘辰翁 | 璧月初晴，黛雲遠淡，春事誰主？ |
+| [永遇乐·落日熔金](../../originals/lzh-Hant/da811a83-00be-44ed-a99c-f14b834d8df7/edition-1.md) | 李清照 | 落日熔金，暮雲合璧，人在何處？ |
+| [永遇乐·明月如霜](../../originals/lzh-Hant/664cff05-4b74-4eb9-8360-fbaefdbed8aa/edition-1.md) | 苏轼 | 明月如霜，好風如水，清景無限。 |
+| [永遇乐·千古江山](../../originals/lzh-Hant/c73a7e3b-d204-4e63-98a7-e35cf1d8d6b2/edition-1.md) | 辛弃疾 | 千古江山，英雄無覓、孫仲謀處。 |
+| [渔家傲·小雨纤纤风细细](../../originals/lzh-Hant/e21f1c7c-6506-46a5-ab0f-373a348fc6bc/edition-1.md) | 朱服 | 小雨纖纖風細細，萬家楊柳青煙裏。 |
+| [虞美人·芙蓉落尽天涵水](../../originals/lzh-Hant/8be03165-9037-42cf-8ad2-484fee149773/edition-1.md) | 舒亶 | 芙蓉落盡天涵水，日暮滄波起。 |
+| [虞美人·落花已作风前舞](../../originals/lzh-Hant/27e3e86a-5dc8-4233-8304-fee208b0a7f7/edition-1.md) | 叶梦得 | 落花已作風前舞，又送黃昏雨。 |
+| [雨霖铃·寒蝉凄切](../../originals/lzh-Hant/0224b7eb-4d5e-45eb-89f3-bd60ec782872/edition-1.md) | 柳永 | 寒蟬淒切，對長亭晚，驟雨初歇。 |
+| [玉蝴蝶·晚雨未摧宫树](../../originals/lzh-Hant/4d1be86a-19eb-4a1f-94b6-6cccad46931c/edition-1.md) | 史达祖 | 晚雨未摧宮樹，可憐閑葉，猶抱涼蟬。 |
+| [玉蝴蝶·望处雨收云断](../../originals/lzh-Hant/d91fd525-4cf4-48d4-9996-af9e2d26639b/edition-1.md) | 柳永 | 望處雨收雲斷，憑闌悄悄，目送秋光。 |
+| [玉京秋·烟水阔](../../originals/lzh-Hant/785acd37-e5a2-4c48-b554-e1f963570372/edition-1.md) | 周密 | 煙水闊，高林弄殘照，晚蜩淒切。 |
+| [御街行·纷纷坠叶飘香砌](../../originals/lzh-Hant/12f92a75-90c5-4852-b4b9-8bf92adec982/edition-1.md) | 范仲淹 | 紛紛墮葉飄香砌，夜寂靜，寒聲碎。 |
+| [御街行·街南绿树春饶絮](../../originals/lzh-Hant/8d16da97-cdb3-4ddb-9123-8b1eba68eb4e/edition-1.md) | 晏幾道 | 街南綠樹春饒絮，雪滿游春路。 |
+| [月下笛·万里孤云](../../originals/lzh-Hant/7fe95550-b981-4ac5-a31e-a80f75a2f56c/edition-1.md) | 张炎 | 萬里孤雲，清游漸遠，故人何處？ |
+| [澡兰香·盘丝系腕](../../originals/lzh-Hant/0a1e05bb-f9a3-475b-a322-fc61c8d57354/edition-1.md) | 吴文英 | 盤絲繫腕，巧篆垂簪，玉隱紺紗睡覺。 |
+| [长亭怨慢·渐吹尽枝头香絮](../../originals/lzh-Hant/c4efb477-539e-4bc9-87be-bd4684b01d98/edition-1.md) | 姜夔 | 漸吹盡，枝頭香絮，是處人家，綠深門戶。 |
+| [鹧鸪天·彩袖殷勤捧玉钟](../../originals/lzh-Hant/9649360b-7ac0-48a7-9997-f9268614e828/edition-1.md) | 晏幾道 | 彩袖殷勤捧玉鍾，當年拚卻醉顏紅。 |
+| [鹧鸪天·池上红衣伴倚阑](../../originals/lzh-Hant/653ffb7a-1f1b-417c-b8d0-946472c3e2a0/edition-1.md) | 吴文英 | 池上紅衣伴倚闌，棲鴉常帶夕陽還。 |
+| [鹧鸪天·肥水东流无尽期](../../originals/lzh-Hant/eddaecde-1fa1-4615-b0e8-3f675a211819/edition-1.md) | 姜夔 | 肥水東流無盡期，當初不合種相思。 |
+| [鹧鸪天·一点残釭欲尽时](../../originals/lzh-Hant/ea71bc00-ff80-4398-b0f6-797ab3a88746/edition-1.md) | 周紫芝 | 一點殘釭欲盡時，乍涼秋氣滿屏幃。 |
+| [鹧鸪天·枕簟溪堂冷欲秋](../../originals/lzh-Hant/3be96d36-0e91-42e5-a4a4-adf01c9d63da/edition-1.md) | 辛弃疾 | 枕簟溪堂冷欲秋，斷雲依水晚來收。 |
+| [竹马子·登孤垒荒凉](../../originals/lzh-Hant/d88b5345-66ed-4486-9c46-eab072341dcf/edition-1.md) | 柳永 | 登孤壘荒涼，危亭曠望，靜臨煙渚。 |
+| [烛影摇红·霭霭春空](../../originals/lzh-Hant/403df776-ed13-42da-acb6-b2b5ab40dff0/edition-1.md) | 廖世美 | 靄靄春空，畫樓森聳凌雲渚。 |
+| [烛影摇红·双阙中天](../../originals/lzh-Hant/f76913ca-fb56-4ab9-bdff-5057bf661405/edition-1.md) | 张抡 | 雙闕中天，鳳樓十二春寒淺。 |
+| [祝英台近·宝钗分](../../originals/lzh-Hant/ef169b46-d5fc-4e29-9d26-6f66fd54f6cc/edition-1.md) | 辛弃疾 | 寶釵分，桃葉渡，煙柳暗南浦。 |
+| [祝英台近·采幽香](../../originals/lzh-Hant/82958e9c-59e0-4a71-9510-9f6aadc6cc63/edition-1.md) | 吴文英 | 采幽香，巡古苑，竹冷翠微路。 |
+| [祝英台近·剪红情](../../originals/lzh-Hant/dae9a6e3-c018-4262-9659-258df1384de4/edition-1.md) | 吴文英 | 剪紅情，裁綠意，花信上釵股。 |
+| [紫萸香慢·近重阳](../../originals/lzh-Hant/c6dfb486-1de7-45bb-9ea6-d42b94c414f6/edition-1.md) | 姚云文 | 近重陽、偏多風雨，絕憐此日暄明。 |
+| [醉垂鞭·双蝶绣罗裙](../../originals/lzh-Hant/d11c8fb8-bc87-4f5a-b043-d0439364846d/edition-1.md) | 张先 | 雙蝶繡羅裙，東池宴初相見。 |
+| [醉花阴·薄雾浓云愁永昼](../../originals/lzh-Hant/12ef1f89-7ee0-48fa-8ee6-365e2c281cc7/edition-1.md) | 李清照 | 薄霧濃雲愁永晝，瑞腦消金獸。 |
