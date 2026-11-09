@@ -9,11 +9,13 @@ const schema=z.discriminatedUnion('kind',[
  z.object({kind:z.literal('translation'),work_id:uuid,language:text.max(35),body:text,ai_use:z.enum(['human','assisted','generated']),mirror_consent:z.literal(true),commercial_consent:z.boolean()}),
  z.object({kind:z.literal('revision'),translation_id:uuid,body:text}),
  z.object({kind:z.literal('vote'),translation_id:uuid,version_id:uuid,score:z.number().int().min(1).max(5),confirmed:z.literal(true)}),
+ z.object({kind:z.literal('comment'),work_id:uuid,body:text.max(1000)}),
  z.object({kind:z.literal('tag'),work_id:uuid,labels:z.array(z.enum(moods)).min(1).max(3),reason:text.max(500)})]);
 async function limitedBody(req:Request){const reader=req.body?.getReader();if(!reader)throw new Error('BODY');let n=0;const parts:Uint8Array[]=[];while(true){const r=await reader.read();if(r.done)break;n+=r.value.length;if(n>32768){await reader.cancel();throw new Error('TOO_LARGE');}parts.push(r.value);}return JSON.parse(Buffer.concat(parts).toString('utf8'));}
 export async function POST(req:Request){let c;try{
- const s=schema.parse(await limitedBody(req));if(s.kind==='work')return Response.json({error:'PAYMENT_REQUIRED'},{status:402});const limit={work:2,translation:3,revision:10,vote:30,tag:5}[s.kind];const a=await guard(s.kind,limit);
+ const s=schema.parse(await limitedBody(req));if(s.kind==='work')return Response.json({error:'PAYMENT_REQUIRED'},{status:402});const limit={work:2,translation:3,revision:10,vote:30,tag:5,comment:20}[s.kind];const a=await guard(s.kind,limit);
  if(s.kind==='vote')await quota('vote-minute:'+a.id,5,60);
+ if(s.kind==='comment')await quota('comment-minute:'+a.id,3,60);
  if(s.kind==='revision')await quota('revision:'+a.id+':'+s.translation_id,1,86400);
  c=await db.connect();await c.query('BEGIN');await c.query("SELECT pg_advisory_xact_lock(hashtext($1))",[a.id]);
  let id=randomUUID(),target=id,job=s.kind==='translation'||s.kind==='revision'?'version':s.kind;
@@ -27,6 +29,9 @@ export async function POST(req:Request){let c;try{
  }else if(s.kind==='vote'){
   const t=await c.query(`SELECT t.author_id,v.id FROM translations t JOIN LATERAL(SELECT id FROM versions WHERE translation_id=t.id AND status='published' ORDER BY created_at DESC,id DESC LIMIT 1) v ON true JOIN works w ON w.id=t.work_id AND w.status='published' WHERE t.id=$1 FOR UPDATE OF t`,[s.translation_id]);if(!t.rowCount)throw new Error('NOT_FOUND');if(t.rows[0].author_id===a.id)throw new Error('SELF_VOTE');if(t.rows[0].id!==s.version_id)throw new Error('VERSION_CHANGED');
   await c.query('INSERT INTO votes(id,translation_id,version_id,author_id,device,score) VALUES($1,$2,$3,$4,$5,$6)',[id,s.translation_id,s.version_id,a.id,a.device,s.score]);
+ }else if(s.kind==='comment'){
+  const w=await c.query("SELECT id FROM works WHERE id=$1 AND status='published'",[s.work_id]);if(!w.rowCount)throw new Error('NOT_FOUND');
+  await c.query('INSERT INTO comments(id,work_id,author_id,device,body) VALUES($1,$2,$3,$4,$5)',[id,s.work_id,a.id,a.device,s.body]);
  }else{
   const w=await c.query("SELECT id FROM works WHERE id=$1 AND status='published'",[s.work_id]);if(!w.rowCount)throw new Error('NOT_FOUND');
   await c.query('INSERT INTO tags(id,work_id,author_id,device,labels,reason) VALUES($1,$2,$3,$4,$5,$6)',[id,s.work_id,a.id,a.device,JSON.stringify([...new Set(s.labels)]),s.reason]);
