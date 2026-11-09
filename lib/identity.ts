@@ -6,6 +6,8 @@ export function organizationOf(claims:Record<string,unknown>,orgs:string[]):stri
  const org=claims['urn:zitadel:iam:user:resourceowner:id'];
  return typeof org==='string'&&orgs.includes(org)?org:null;
 }
+/** Self-registered Babelverse readers must verify their email; SEII accounts are invite-only or administrator-provisioned. */
+export function requiresVerifiedEmail(org:string,signupOrg:string|undefined){return org===signupOrg;}
 export function organizationMatches(claims:Record<string,unknown>,org:string|undefined){
  return !!org&&organizationOf(claims,[org])===org;
 }

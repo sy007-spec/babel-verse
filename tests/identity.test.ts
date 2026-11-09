@@ -1,6 +1,6 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
-import {organizationMatches,organizationOf,signInOrganizations,isolatedSession,projectRoles,ensureVisitorGrant,VISITOR_ROLE} from '../lib/identity';
+import {organizationMatches,organizationOf,requiresVerifiedEmail,signInOrganizations,isolatedSession,projectRoles,ensureVisitorGrant,VISITOR_ROLE} from '../lib/identity';
 import {supportedLanguage} from '../lib/languages';
 test('missing or foreign organization cannot authenticate',()=>{
  assert.equal(organizationMatches({},'babelverse'),false);
@@ -44,4 +44,8 @@ test('Babelverse readers and SEII main-org accounts can both sign in; others can
  assert.deepEqual(isolatedSession({org:'395379424805060611'},orgs),{org:'395379424805060611'});
  assert.equal(isolatedSession({org:'999'},orgs),null);
  assert.equal(isolatedSession({org:undefined},orgs),null);
+});
+test('only self-registered Babelverse readers need a verified email',()=>{
+ assert.equal(requiresVerifiedEmail('398717321167765507','398717321167765507'),true);
+ assert.equal(requiresVerifiedEmail('395379424805060611','398717321167765507'),false);
 });
