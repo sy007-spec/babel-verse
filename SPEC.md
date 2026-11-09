@@ -16,7 +16,7 @@
 
 - 两类账号可登录：SEII 统一账号（主组织 InnoCoworkerSaaS 395379424805060611，web.env 的 OIDC_LOGIN_ORG_IDS）与 Babelverse 读者账号（独立组织 Babelverse Readers 398717321167765507，web.env 的 OIDC_ORG_ID）。应用为 Babelverse Readers 项目（398717324808421379）下的 PKCE 公开客户端 Babelverse Web（398717327861940227），无客户端密钥；回调 https://babelverse.seii.top/auth/callback。
 - 单一入口：页头“登录”发起不限定组织的授权请求，进入 SEII 统一登录页，两类账号同一路径登录；“注册”发起以 `urn:zitadel:iam:org:id:` 限定 Babelverse Readers 且 `prompt=create` 的请求，进入 Babelverse 外观的注册页（纸色底、朱红主色、书页标志）。回调校验签名中的 resourceowner 属于上述两个组织之一，其他组织被拒，会话记录所属组织。
-- Babelverse Readers 开放自助注册并要求邮箱验证；其他 SEII 服务仅凭邀请码注册。登录名在 ZITADEL 实例内唯一（组织域策略用默认），已有 SEII 账号的人直接用原账号登录，不能用同一邮箱再注册读者账号。
+- Babelverse Readers 开放自助注册，读者账号登录须邮箱已验证；SEII 账号由邀请或管理员开通，不要求 email_verified 标记。回调失败记录原因代码（不含令牌与个人信息）。其他 SEII 服务仅凭邀请码注册。登录名在 ZITADEL 实例内唯一（组织域策略用默认），已有 SEII 账号的人直接用原账号登录，不能用同一邮箱再注册读者账号。
 - 所有会话角色固定为 babel-verse-visitor，本站无网页管理功能。读者账号首次登录时由仅能在本组织授予角色的服务用户 babelverse-grants 授予该角色（runtime/zitadel-grant.pat 与 web.env 的 ZITADEL_GRANT_TOKEN，0600，一年有效），授予失败只记日志；SEII 账号不做授予。
 - ZITADEL 配置由 top.seii.ops/deploy/zitadel_identity_split.py 幂等维护；不得运行 runtime/configure-identity.py（会另建组织）。
 - 防刷：验证账号为主约束，设备凭证与网络风险为辅助，不采集 MAC，不宣称绝对一人一票。同设备对同译作一次评分；共享 IP 只做流控。接口鉴权、来源校验、体积检查、身份/设备/IP 及全站限流先于昂贵操作。
